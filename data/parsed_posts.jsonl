@@ -1,3 +1,4 @@
+{"id": 7676729, "created_at": "2026-03-21T05:55:44.389781+00:00", "skip": true}
 {"id": 7645363, "created_at": "2026-03-13T10:51:23.554816+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "DP World", "company-normalized": "dp world", "yoe": 3, "base": 31.68, "total": 36, "location": "Gurugram", "currency": "INR"}
 {"id": 7645363, "created_at": "2026-03-13T10:51:23.554816+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "MobiKwik", "company-normalized": "mobikwik", "yoe": 3, "base": 21.5, "total": 23.7, "location": "Gurugram", "currency": "INR"}
 {"id": 7645233, "created_at": "2026-03-13T09:34:23.737576+00:00", "skip": false, "compensation-post": false, "reason": "not-about-job-offer"}
