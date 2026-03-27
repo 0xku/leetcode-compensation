@@ -1,5 +1,575 @@
 [
   {
+    "id": 7703631,
+    "date": "2026-03-27T14:35:14.027535+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "N/A",
+    "yoe": 7.75,
+    "base": 38,
+    "total": 65.8
+  },
+  {
+    "id": 7703321,
+    "date": "2026-03-27T13:20:26.169105+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "SDE 3",
+    "yoe": null,
+    "base": 32,
+    "total": 43.3
+  },
+  {
+    "id": 7703321,
+    "date": "2026-03-27T13:20:26.169105+00:00",
+    "location": "",
+    "company": "Adobe",
+    "role": "Computer Scientist 1",
+    "yoe": null,
+    "base": 40,
+    "total": 47.9
+  },
+  {
+    "id": 7703090,
+    "date": "2026-03-27T12:29:41.536596+00:00",
+    "location": "Hyderabad",
+    "company": "Salesforce",
+    "role": "SMTS",
+    "yoe": 5.67,
+    "base": 48,
+    "total": 72
+  },
+  {
+    "id": 7702072,
+    "date": "2026-03-27T10:10:03.249637+00:00",
+    "location": "Bengaluru",
+    "company": "Google",
+    "role": "SDE 2",
+    "yoe": 3.9,
+    "base": 44,
+    "total": 74.8
+  },
+  {
+    "id": 7698150,
+    "date": "2026-03-26T13:54:18.440266+00:00",
+    "location": "Hyderabad",
+    "company": "Microsoft",
+    "role": "SDE 4",
+    "yoe": 6.75,
+    "base": 42,
+    "total": 58.2
+  },
+  {
+    "id": 7698150,
+    "date": "2026-03-26T13:54:18.440266+00:00",
+    "location": "Bengaluru",
+    "company": "PhonePe",
+    "role": "SDE",
+    "yoe": 6.75,
+    "base": 45,
+    "total": 94
+  },
+  {
+    "id": 7693516,
+    "date": "2026-03-25T19:13:17.441820+00:00",
+    "location": "Bengaluru",
+    "company": "DP World",
+    "role": "SDE 1",
+    "yoe": 1.9,
+    "base": 27,
+    "total": 29.7
+  },
+  {
+    "id": 7693516,
+    "date": "2026-03-25T19:13:17.441820+00:00",
+    "location": "Bengaluru",
+    "company": "Kotak",
+    "role": "SDE 1",
+    "yoe": 1.9,
+    "base": 26,
+    "total": 28.6
+  },
+  {
+    "id": 7693152,
+    "date": "2026-03-25T17:32:17.359865+00:00",
+    "location": "Hyderabad",
+    "company": "Microsoft",
+    "role": "SSE",
+    "yoe": 9.0,
+    "base": 50,
+    "total": 66.5
+  },
+  {
+    "id": 7692689,
+    "date": "2026-03-25T14:57:46.673868+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "SDE 2",
+    "yoe": null,
+    "base": 29,
+    "total": 50
+  },
+  {
+    "id": 7692439,
+    "date": "2026-03-25T13:46:17.909946+00:00",
+    "location": "Bengaluru",
+    "company": "LinkedIn",
+    "role": "SDE 2",
+    "yoe": 4.7,
+    "base": 47.5,
+    "total": 52
+  },
+  {
+    "id": 7692439,
+    "date": "2026-03-25T13:46:17.909946+00:00",
+    "location": "Hyderabad",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 4.7,
+    "base": 46,
+    "total": 65
+  },
+  {
+    "id": 7692439,
+    "date": "2026-03-25T13:46:17.909946+00:00",
+    "location": "Bengaluru",
+    "company": "DocuSign",
+    "role": "SSE",
+    "yoe": 4.7,
+    "base": 50.5,
+    "total": 71.5
+  },
+  {
+    "id": 7692389,
+    "date": "2026-03-25T13:34:06.710406+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "SSE",
+    "yoe": 9,
+    "base": 53,
+    "total": null
+  },
+  {
+    "id": 7688920,
+    "date": "2026-03-24T17:51:46.731582+00:00",
+    "location": "",
+    "company": "Adobe",
+    "role": "Computer Scientist 1",
+    "yoe": null,
+    "base": 40,
+    "total": 44
+  },
+  {
+    "id": 7688377,
+    "date": "2026-03-24T15:05:05.063957+00:00",
+    "location": "Hyderabad",
+    "company": "Qualcomm",
+    "role": "SSE",
+    "yoe": null,
+    "base": 28,
+    "total": null
+  },
+  {
+    "id": 7688377,
+    "date": "2026-03-24T15:05:05.063957+00:00",
+    "location": "Bengaluru",
+    "company": "HPE",
+    "role": "SDE 3",
+    "yoe": null,
+    "base": 32,
+    "total": 35
+  },
+  {
+    "id": 7687898,
+    "date": "2026-03-24T12:24:46.898208+00:00",
+    "location": "",
+    "company": "Startup",
+    "role": "Principal Engineer",
+    "yoe": 10,
+    "base": 73,
+    "total": 98
+  },
+  {
+    "id": 7687898,
+    "date": "2026-03-24T12:24:46.898208+00:00",
+    "location": "",
+    "company": "SAP",
+    "role": "SSE",
+    "yoe": 10,
+    "base": 73,
+    "total": 87
+  },
+  {
+    "id": 7686688,
+    "date": "2026-03-24T06:33:30.890238+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "N/A",
+    "yoe": 5,
+    "base": 37,
+    "total": 71
+  },
+  {
+    "id": 7686361,
+    "date": "2026-03-24T05:22:32.197197+00:00",
+    "location": "",
+    "company": "Oracle",
+    "role": "SMTS",
+    "yoe": 3.5,
+    "base": 35.3,
+    "total": 49.3
+  },
+  {
+    "id": 7686361,
+    "date": "2026-03-24T05:22:32.197197+00:00",
+    "location": "",
+    "company": "Paytm",
+    "role": "SSE",
+    "yoe": 3.5,
+    "base": 50,
+    "total": 58
+  },
+  {
+    "id": 7686361,
+    "date": "2026-03-24T05:22:32.197197+00:00",
+    "location": "",
+    "company": "Kotak",
+    "role": "SDE 2",
+    "yoe": 3.5,
+    "base": 42,
+    "total": 58.7
+  },
+  {
+    "id": 7685204,
+    "date": "2026-03-23T17:15:37.313978+00:00",
+    "location": "",
+    "company": "Google",
+    "role": "SDE 1",
+    "yoe": 2.7,
+    "base": 40,
+    "total": null
+  },
+  {
+    "id": 7684750,
+    "date": "2026-03-23T15:26:49.139331+00:00",
+    "location": "Bengaluru",
+    "company": "WESCO International",
+    "role": "Data Scientist",
+    "yoe": 6.3,
+    "base": 47.5,
+    "total": 52.25
+  },
+  {
+    "id": 7684327,
+    "date": "2026-03-23T13:46:01.697831+00:00",
+    "location": "Chennai",
+    "company": "Walmart",
+    "role": "SDE",
+    "yoe": 3.5,
+    "base": 23,
+    "total": 36.6
+  },
+  {
+    "id": 7683411,
+    "date": "2026-03-23T10:29:56.856395+00:00",
+    "location": "Bengaluru",
+    "company": "Visa",
+    "role": "SSE",
+    "yoe": 2.8,
+    "base": 33,
+    "total": 44
+  },
+  {
+    "id": 7679644,
+    "date": "2026-03-22T05:58:21.616824+00:00",
+    "location": "Bengaluru",
+    "company": "CrowdStrike",
+    "role": "SRE",
+    "yoe": 5,
+    "base": 35,
+    "total": 51
+  },
+  {
+    "id": 7678645,
+    "date": "2026-03-21T18:12:42.433757+00:00",
+    "location": "Bengaluru",
+    "company": "PayU",
+    "role": "SDE 1",
+    "yoe": 2.2,
+    "base": 15,
+    "total": 16.5
+  },
+  {
+    "id": 7677775,
+    "date": "2026-03-21T12:58:57.737467+00:00",
+    "location": "",
+    "company": "Cleartrip",
+    "role": "UI Developer 1",
+    "yoe": 1.6,
+    "base": 16.5,
+    "total": 20
+  },
+  {
+    "id": 7677150,
+    "date": "2026-03-21T08:33:58.139889+00:00",
+    "location": "",
+    "company": "Tesco",
+    "role": "SDE 3",
+    "yoe": 8,
+    "base": 67,
+    "total": 80
+  },
+  {
+    "id": 7676794,
+    "date": "2026-03-21T06:14:08.605752+00:00",
+    "location": "Bengaluru",
+    "company": "Salesforce",
+    "role": "MTS",
+    "yoe": 3.5,
+    "base": 30,
+    "total": 44
+  },
+  {
+    "id": 7676729,
+    "date": "2026-03-21T05:55:44.389781+00:00",
+    "location": "Bengaluru",
+    "company": "PayPal",
+    "role": "Staff Engineer",
+    "yoe": 10,
+    "base": 73,
+    "total": 116
+  },
+  {
+    "id": 7675318,
+    "date": "2026-03-20T15:20:51.356721+00:00",
+    "location": "Remote",
+    "company": "Microsoft",
+    "role": "SDE 1",
+    "yoe": 1.2,
+    "base": 21,
+    "total": 35
+  },
+  {
+    "id": 7674766,
+    "date": "2026-03-20T12:32:13.608518+00:00",
+    "location": "",
+    "company": "NetApp",
+    "role": "MTS 2",
+    "yoe": null,
+    "base": 29,
+    "total": 36
+  },
+  {
+    "id": 7673442,
+    "date": "2026-03-20T08:34:17.483190+00:00",
+    "location": "Bengaluru",
+    "company": "Visa",
+    "role": "Staff Engineer",
+    "yoe": 7.5,
+    "base": 41,
+    "total": 53.61
+  },
+  {
+    "id": 7670203,
+    "date": "2026-03-19T19:03:22.022915+00:00",
+    "location": "Bengaluru",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 3.8,
+    "base": 44,
+    "total": 66.5
+  },
+  {
+    "id": 7667400,
+    "date": "2026-03-19T13:49:05.263193+00:00",
+    "location": "",
+    "company": "Rippling",
+    "role": "N/A",
+    "yoe": null,
+    "base": 58,
+    "total": null
+  },
+  {
+    "id": 7667400,
+    "date": "2026-03-19T13:49:05.263193+00:00",
+    "location": "",
+    "company": "Goldman Sachs",
+    "role": "N/A",
+    "yoe": null,
+    "base": 39,
+    "total": null
+  },
+  {
+    "id": 7666780,
+    "date": "2026-03-19T12:41:36.684334+00:00",
+    "location": "Bengaluru",
+    "company": "Google",
+    "role": "SSE",
+    "yoe": 6.5,
+    "base": 63,
+    "total": 102
+  },
+  {
+    "id": 7664036,
+    "date": "2026-03-19T07:35:59.612239+00:00",
+    "location": "Chennai",
+    "company": "Tekion",
+    "role": "SDE 1",
+    "yoe": 1.8,
+    "base": 22,
+    "total": 29.75
+  },
+  {
+    "id": 7655464,
+    "date": "2026-03-18T03:26:49.255247+00:00",
+    "location": "Bengaluru",
+    "company": "Microsoft",
+    "role": "SDE 3",
+    "yoe": 4,
+    "base": 33.4,
+    "total": 57
+  },
+  {
+    "id": 7655025,
+    "date": "2026-03-17T19:04:49.865086+00:00",
+    "location": "Bengaluru",
+    "company": "Razorpay",
+    "role": "SDE 2",
+    "yoe": 3.5,
+    "base": 27,
+    "total": 33
+  },
+  {
+    "id": 7654507,
+    "date": "2026-03-17T15:19:18.020916+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "N/A",
+    "yoe": 8,
+    "base": 54,
+    "total": null
+  },
+  {
+    "id": 7653817,
+    "date": "2026-03-17T08:59:50.883497+00:00",
+    "location": "",
+    "company": "Piramal Finance",
+    "role": "SDE 2",
+    "yoe": 4,
+    "base": 44,
+    "total": 50
+  },
+  {
+    "id": 7653817,
+    "date": "2026-03-17T08:59:50.883497+00:00",
+    "location": "",
+    "company": "Arctic Wolf",
+    "role": "SDE 2",
+    "yoe": 4,
+    "base": 42,
+    "total": 48
+  },
+  {
+    "id": 7652784,
+    "date": "2026-03-16T19:01:41.641055+00:00",
+    "location": "",
+    "company": "Qualcomm",
+    "role": "SDE",
+    "yoe": 1.67,
+    "base": 23,
+    "total": 40.4
+  },
+  {
+    "id": 7652163,
+    "date": "2026-03-16T14:09:22.184472+00:00",
+    "location": "Bengaluru",
+    "company": "WEX Inc.",
+    "role": "SDE 2",
+    "yoe": 2.9,
+    "base": 30,
+    "total": 31.2
+  },
+  {
+    "id": 7651698,
+    "date": "2026-03-16T09:40:44.380878+00:00",
+    "location": "",
+    "company": "HashedIn",
+    "role": "SDE",
+    "yoe": 2.7,
+    "base": 12,
+    "total": 14
+  },
+  {
+    "id": 7651698,
+    "date": "2026-03-16T09:40:44.380878+00:00",
+    "location": "",
+    "company": "Accenture",
+    "role": "AI Analyst",
+    "yoe": 2.7,
+    "base": 17,
+    "total": 20.5
+  },
+  {
+    "id": 7651615,
+    "date": "2026-03-16T09:00:22.294841+00:00",
+    "location": "Bengaluru",
+    "company": "Microsoft",
+    "role": "Principal Engineer",
+    "yoe": 7.6,
+    "base": 50,
+    "total": null
+  },
+  {
+    "id": 7651291,
+    "date": "2026-03-16T05:54:28.910976+00:00",
+    "location": "",
+    "company": "Zomato",
+    "role": "SDE 2",
+    "yoe": 3,
+    "base": 40,
+    "total": null
+  },
+  {
+    "id": 7647652,
+    "date": "2026-03-14T13:41:26.190354+00:00",
+    "location": "",
+    "company": "Wayfair",
+    "role": "SDE 2",
+    "yoe": 3.7,
+    "base": 44,
+    "total": 44
+  },
+  {
+    "id": 7646255,
+    "date": "2026-03-13T19:18:49.398694+00:00",
+    "location": "Hyderabad",
+    "company": "Salesforce",
+    "role": "SDE 2",
+    "yoe": 3.7,
+    "base": 29,
+    "total": 43.5
+  },
+  {
+    "id": 7645675,
+    "date": "2026-03-13T14:02:44.507007+00:00",
+    "location": "Gurugram",
+    "company": "Airtel",
+    "role": "Lead Engineer",
+    "yoe": 6,
+    "base": 36,
+    "total": 36
+  },
+  {
+    "id": 7645675,
+    "date": "2026-03-13T14:02:44.507007+00:00",
+    "location": "Gurugram",
+    "company": "REA Group",
+    "role": "SSE",
+    "yoe": 6,
+    "base": 37,
+    "total": 40
+  },
+  {
     "id": 7645363,
     "date": "2026-03-13T10:51:23.554816+00:00",
     "location": "Gurugram",
@@ -34,7 +604,7 @@
     "date": "2026-03-12T20:01:26.146944+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "IC3 (L61)",
+    "role": "SDE 3",
     "yoe": 4.7,
     "base": 28,
     "total": 45
@@ -83,7 +653,7 @@
     "id": 7643854,
     "date": "2026-03-12T16:10:14.980903+00:00",
     "location": "Remote",
-    "company": "Fortune 500 Service Based Company",
+    "company": "MNC",
     "role": "AI Developer",
     "yoe": 4.8,
     "base": 32,
@@ -93,7 +663,7 @@
     "id": 7643854,
     "date": "2026-03-12T16:10:14.980903+00:00",
     "location": "Bangalore",
-    "company": "Product-Based B2B AI Startup",
+    "company": "Startup",
     "role": "SSE",
     "yoe": 4.8,
     "base": 34,
@@ -103,7 +673,7 @@
     "id": 7643854,
     "date": "2026-03-12T16:10:14.980903+00:00",
     "location": "Pune",
-    "company": "Very Early Stage Startup",
+    "company": "Startup",
     "role": "Frontend Lead",
     "yoe": 4.8,
     "base": 35,
@@ -184,7 +754,7 @@
     "date": "2026-03-04T17:34:22.890011+00:00",
     "location": "",
     "company": "EY",
-    "role": "Senior Consultant",
+    "role": "Consultant",
     "yoe": 4.0,
     "base": null,
     "total": 26.0
@@ -194,7 +764,7 @@
     "date": "2026-03-03T19:54:00.534713+00:00",
     "location": "Bengaluru",
     "company": "eBay",
-    "role": "MTS1",
+    "role": "MTS 1",
     "yoe": 6.5,
     "base": 50.0,
     "total": null
@@ -204,7 +774,7 @@
     "date": "2026-03-03T18:20:39.143535+00:00",
     "location": "Bengaluru",
     "company": "Eightfold.ai",
-    "role": "Sde-1",
+    "role": "SDE 1",
     "yoe": 1.5,
     "base": 25.0,
     "total": null
@@ -214,7 +784,7 @@
     "date": "2026-03-03T16:01:56.098187+00:00",
     "location": "",
     "company": "Amazon",
-    "role": "Sde-2",
+    "role": "SDE 2",
     "yoe": 3.5,
     "base": 44.0,
     "total": 63.0
@@ -244,7 +814,7 @@
     "date": "2026-03-02T16:27:38.544166+00:00",
     "location": "Hyderabad",
     "company": "Goldman Sachs",
-    "role": "Analyst(Sde 1)",
+    "role": "SDE 1",
     "yoe": 2.8,
     "base": 10.52,
     "total": 29.85
@@ -274,7 +844,7 @@
     "date": "2026-03-02T14:52:03.963276+00:00",
     "location": "Bengaluru",
     "company": "JPMorgan Chase",
-    "role": "Sde - 3 (Associate)",
+    "role": "SDE 3",
     "yoe": 6.67,
     "base": 42.0,
     "total": null
@@ -294,7 +864,7 @@
     "date": "2026-03-02T06:01:53.856741+00:00",
     "location": "",
     "company": "JPMorgan Chase",
-    "role": "Software Engineer 3 (Senior Associate/Avp)",
+    "role": "SDE 3",
     "yoe": null,
     "base": 40.0,
     "total": 40.0
@@ -314,7 +884,7 @@
     "date": "2026-03-01T17:03:39.322107+00:00",
     "location": "",
     "company": "eBay",
-    "role": "Software Engineer 3 (T24 Level)",
+    "role": "SDE 3",
     "yoe": 4.5,
     "base": 20.0,
     "total": null
@@ -323,8 +893,8 @@
     "id": 7617099,
     "date": "2026-03-01T08:46:47.891507+00:00",
     "location": "",
-    "company": "Service Based Mnc",
-    "role": "Software Engineer Ii",
+    "company": "MNC",
+    "role": "SDE 2",
     "yoe": 4.1,
     "base": null,
     "total": 22.0
@@ -393,7 +963,7 @@
     "id": 7610351,
     "date": "2026-02-26T09:04:09.089089+00:00",
     "location": "",
-    "company": "Us Based Startup",
+    "company": "Startup",
     "role": "SDE",
     "yoe": null,
     "base": 25.0,
@@ -484,7 +1054,7 @@
     "date": "2026-02-23T10:27:47.884357+00:00",
     "location": "",
     "company": "Flipkart",
-    "role": "Sde - Ii",
+    "role": "SDE 2",
     "yoe": 3.5,
     "base": 28.0,
     "total": 34.55
@@ -494,7 +1064,7 @@
     "date": "2026-02-23T06:16:17.472197+00:00",
     "location": "",
     "company": "Swiggy",
-    "role": "Sde - 1",
+    "role": "SDE 1",
     "yoe": 2.7,
     "base": 26.0,
     "total": 32.1
@@ -524,7 +1094,7 @@
     "date": "2026-02-22T08:33:24.695082+00:00",
     "location": "Hyderabad",
     "company": "Amazon",
-    "role": "SDE2",
+    "role": "SDE 2",
     "yoe": 3.5,
     "base": 45.0,
     "total": null
@@ -533,8 +1103,8 @@
     "id": 7598897,
     "date": "2026-02-22T06:41:15.035627+00:00",
     "location": "",
-    "company": "Amagi Media Labs",
-    "role": "Spealist Programmer (L2)",
+    "company": "Amagi",
+    "role": "SDE 1",
     "yoe": null,
     "base": null,
     "total": 28.0
@@ -544,7 +1114,7 @@
     "date": "2026-02-22T05:12:53.520969+00:00",
     "location": "Bengaluru",
     "company": "Slice",
-    "role": "Sde I (Backend)",
+    "role": "SDE 1",
     "yoe": null,
     "base": 30.0,
     "total": 34.0
@@ -553,7 +1123,7 @@
     "id": 7597729,
     "date": "2026-02-21T19:39:24.691886+00:00",
     "location": "Bengaluru",
-    "company": "Uipath",
+    "company": "UiPath",
     "role": "SDE",
     "yoe": 1.5,
     "base": 27.5,
@@ -594,7 +1164,7 @@
     "date": "2026-02-20T06:42:38.411915+00:00",
     "location": "Remote",
     "company": "Microsoft",
-    "role": "SDE2",
+    "role": "SDE 2",
     "yoe": 3.8,
     "base": 33.0,
     "total": null
@@ -633,8 +1203,8 @@
     "id": 7590712,
     "date": "2026-02-19T03:44:22.906304+00:00",
     "location": "Chennai",
-    "company": "Nielsen Media (Bangalore)",
-    "role": "SDE1",
+    "company": "Nielsen",
+    "role": "SDE 1",
     "yoe": 2.6,
     "base": 19.5,
     "total": 21.0
@@ -644,7 +1214,7 @@
     "date": "2026-02-18T13:34:49.571130+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "SDE2",
+    "role": "SDE 2",
     "yoe": 4.7,
     "base": 29.0,
     "total": 42.0
@@ -654,7 +1224,7 @@
     "date": "2026-02-17T18:19:19.710275+00:00",
     "location": "Chennai, India",
     "company": "Amazon",
-    "role": "System Development Engineer 1(L4)",
+    "role": "SDE 1",
     "yoe": 1.5,
     "base": 19.0,
     "total": null
@@ -694,7 +1264,7 @@
     "date": "2026-02-17T06:32:19.215884+00:00",
     "location": "Bengaluru",
     "company": "Cisco",
-    "role": "G10",
+    "role": "SSE",
     "yoe": 7.8,
     "base": 40,
     "total": 53
@@ -1213,7 +1783,7 @@
     "id": 7551974,
     "date": "2026-02-04T13:03:37.769945+00:00",
     "location": "Remote",
-    "company": "Early Startup",
+    "company": "Startup",
     "role": "N/A",
     "yoe": 0.5,
     "base": 14,
@@ -1233,7 +1803,7 @@
     "id": 7551556,
     "date": "2026-02-04T09:58:06.632583+00:00",
     "location": "Bengaluru",
-    "company": "YC Startup",
+    "company": "Startup",
     "role": "SDE 2",
     "yoe": 1.5,
     "base": null,
@@ -1313,7 +1883,7 @@
     "id": 7544007,
     "date": "2026-02-01T19:06:15.717006+00:00",
     "location": "Remote",
-    "company": "Us Based Startup",
+    "company": "Startup",
     "role": "SDE",
     "yoe": null,
     "base": 12,
@@ -1673,7 +2243,7 @@
     "id": 7514987,
     "date": "2026-01-22T10:35:10.510551+00:00",
     "location": "Bengaluru",
-    "company": "Nielson",
+    "company": "Nielsen",
     "role": "MTS 2",
     "yoe": 3.5,
     "base": 35,
@@ -1754,7 +2324,7 @@
     "date": "2026-01-20T07:09:47.964146+00:00",
     "location": "",
     "company": "Morgan Stanley",
-    "role": "P3 Director",
+    "role": "VP",
     "yoe": 6,
     "base": 46.6,
     "total": 53.2
@@ -2284,7 +2854,7 @@
     "date": "2026-01-10T05:54:42.085560+00:00",
     "location": "Bengaluru",
     "company": "Adobe",
-    "role": "SDE 1",
+    "role": "Computer Scientist 1",
     "yoe": 4.5,
     "base": 35,
     "total": 59.25
@@ -2343,7 +2913,7 @@
     "id": 7481871,
     "date": "2026-01-09T21:06:18.020577+00:00",
     "location": "",
-    "company": "Another Similar Company",
+    "company": "Startup",
     "role": "SSE",
     "yoe": 2.6,
     "base": null,
@@ -2434,7 +3004,7 @@
     "date": "2026-01-08T19:56:39.939757+00:00",
     "location": "",
     "company": "Yugabyte",
-    "role": "Staff Sdet I",
+    "role": "Staff Engineer",
     "yoe": null,
     "base": 52,
     "total": 52
@@ -2503,8 +3073,8 @@
     "id": 7472786,
     "date": "2026-01-06T17:22:04.221947+00:00",
     "location": "Remote",
-    "company": "Data Etl Company",
-    "role": "Senior Infrastructure Engineer",
+    "company": "MNC",
+    "role": "SSE",
     "yoe": 4.5,
     "base": 58,
     "total": 88
@@ -2603,7 +3173,7 @@
     "id": 7458714,
     "date": "2026-01-02T10:51:59.080415+00:00",
     "location": "Noida",
-    "company": "Mid Size Company",
+    "company": "MNC",
     "role": "SDE",
     "yoe": 5,
     "base": 28,
@@ -2704,7 +3274,7 @@
     "date": "2025-12-31T07:23:28.024698+00:00",
     "location": "Hyderabad",
     "company": "Salesforce",
-    "role": "Salesforce Technical Consultant",
+    "role": "Consultant",
     "yoe": 2.6,
     "base": 20,
     "total": 24.25
@@ -2743,7 +3313,7 @@
     "id": 7449851,
     "date": "2025-12-30T05:49:49.936089+00:00",
     "location": "Pune",
-    "company": "Microstrategy",
+    "company": "MicroStrategy",
     "role": "SDE",
     "yoe": null,
     "base": 43,
@@ -2753,7 +3323,7 @@
     "id": 7449819,
     "date": "2025-12-30T05:35:53.852033+00:00",
     "location": "Pune",
-    "company": "Microstrategy",
+    "company": "MicroStrategy",
     "role": "SDE",
     "yoe": 2.2,
     "base": 42,
@@ -2803,8 +3373,8 @@
     "id": 7446168,
     "date": "2025-12-28T14:58:52.781972+00:00",
     "location": "",
-    "company": "A Big Mnc",
-    "role": "Cyber Security Intern",
+    "company": "MNC",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -2813,7 +3383,7 @@
     "id": 7446168,
     "date": "2025-12-28T14:58:52.781972+00:00",
     "location": "",
-    "company": "Startup Seems Nice",
+    "company": "Startup",
     "role": "Intern",
     "yoe": 0,
     "base": null,
@@ -2864,7 +3434,7 @@
     "date": "2025-12-27T12:13:22.461674+00:00",
     "location": "Bengaluru",
     "company": "Apple",
-    "role": "ICT 3",
+    "role": "SDE 3",
     "yoe": 5.33,
     "base": 45,
     "total": 91.375
@@ -2873,7 +3443,7 @@
     "id": 7441694,
     "date": "2025-12-26T19:41:23.087604+00:00",
     "location": "Bengaluru",
-    "company": "Wex",
+    "company": "WEX Inc.",
     "role": "N/A",
     "yoe": null,
     "base": 60,
@@ -2903,8 +3473,8 @@
     "id": 7441312,
     "date": "2025-12-26T16:38:47.339116+00:00",
     "location": "",
-    "company": "Itc Infotech",
-    "role": "Java Full Stack Dev",
+    "company": "ITC Infotech",
+    "role": "SDE",
     "yoe": 4.6,
     "base": 21,
     "total": null
@@ -2964,7 +3534,7 @@
     "date": "2025-12-26T07:32:34.558618+00:00",
     "location": "",
     "company": "Adobe",
-    "role": "CS 2",
+    "role": "SDE 2",
     "yoe": 9,
     "base": 55,
     "total": 100
@@ -3064,7 +3634,7 @@
     "date": "2025-12-24T08:50:32.496131+00:00",
     "location": "Mumbai",
     "company": "Irage Capital",
-    "role": "Sde Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -3163,7 +3733,7 @@
     "id": 7431141,
     "date": "2025-12-22T15:12:49.883942+00:00",
     "location": "",
-    "company": "Arrise Solutions",
+    "company": "Arrise",
     "role": "SDE 2",
     "yoe": 4.5,
     "base": 49,
@@ -3224,7 +3794,7 @@
     "date": "2025-12-20T15:17:37.720201+00:00",
     "location": "",
     "company": "Even",
-    "role": "Sde Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -3274,7 +3844,7 @@
     "date": "2025-12-19T12:40:13.540877+00:00",
     "location": "Bengaluru",
     "company": "PayPal",
-    "role": "Senior Full Stack Engineer",
+    "role": "SSE",
     "yoe": 7,
     "base": 45,
     "total": 62.0
@@ -3283,7 +3853,7 @@
     "id": 7423392,
     "date": "2025-12-19T07:07:36.784319+00:00",
     "location": "Remote",
-    "company": "Fintech Startup India",
+    "company": "Startup",
     "role": "N/A",
     "yoe": 3.8,
     "base": 35,
@@ -3293,7 +3863,7 @@
     "id": 7423392,
     "date": "2025-12-19T07:07:36.784319+00:00",
     "location": "Remote",
-    "company": "Europe Startup",
+    "company": "Startup",
     "role": "N/A",
     "yoe": 3.8,
     "base": 70,
@@ -3354,7 +3924,7 @@
     "date": "2025-12-18T18:00:05.540106+00:00",
     "location": "Gurugram",
     "company": "26 Miles Capital",
-    "role": "Quantitative Researcher",
+    "role": "Data Scientist",
     "yoe": 0,
     "base": 3.6,
     "total": null
@@ -3373,7 +3943,7 @@
     "id": 7422193,
     "date": "2025-12-18T15:35:09.134008+00:00",
     "location": "Bengaluru",
-    "company": "Digicert",
+    "company": "DigiCert",
     "role": "SSE",
     "yoe": 4.5,
     "base": 44,
@@ -3453,7 +4023,7 @@
     "id": 7417081,
     "date": "2025-12-16T06:08:03.084967+00:00",
     "location": "",
-    "company": "Mnc",
+    "company": "MNC",
     "role": "N/A",
     "yoe": 1.5,
     "base": 27,
@@ -3524,7 +4094,7 @@
     "date": "2025-12-13T07:27:04.996952+00:00",
     "location": "Hyderabad",
     "company": "EPAM",
-    "role": "Junior Software Test Automation",
+    "role": "SDET",
     "yoe": 0,
     "base": null,
     "total": null
@@ -3534,7 +4104,7 @@
     "date": "2025-12-13T06:10:44.765121+00:00",
     "location": "Pune",
     "company": "Deutsche Bank",
-    "role": "Associate Engineer Avp",
+    "role": "AVP",
     "yoe": 5,
     "base": 27,
     "total": null
@@ -3544,7 +4114,7 @@
     "date": "2025-12-13T05:37:37.233242+00:00",
     "location": "Bengaluru",
     "company": "Twilio",
-    "role": "L2 Position",
+    "role": "SDE 1",
     "yoe": 2.5,
     "base": 31.48,
     "total": null
@@ -3564,7 +4134,7 @@
     "date": "2025-12-12T10:23:06.635973+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "Sse L64",
+    "role": "SSE",
     "yoe": 10,
     "base": 60,
     "total": 98
@@ -3594,7 +4164,7 @@
     "date": "2025-12-11T12:03:06.631390+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "Application Engineer - 1",
+    "role": "SDE 1",
     "yoe": 0.42,
     "base": 20.2,
     "total": 65.7
@@ -3603,7 +4173,7 @@
     "id": 7406809,
     "date": "2025-12-11T12:01:56.986167+00:00",
     "location": "",
-    "company": "Fintech Mnc",
+    "company": "MNC",
     "role": "SDE 1",
     "yoe": 1.33,
     "base": 19.17,
@@ -3614,7 +4184,7 @@
     "date": "2025-12-11T06:54:45.435542+00:00",
     "location": "",
     "company": "Uber",
-    "role": "Sde 2 L4",
+    "role": "SDE 2",
     "yoe": 2.5,
     "base": 45,
     "total": 62
@@ -3804,7 +4374,7 @@
     "date": "2025-12-08T17:35:35.119742+00:00",
     "location": "Remote",
     "company": "EPAM",
-    "role": "Senior Java Developer",
+    "role": "SSE",
     "yoe": 7,
     "base": 36,
     "total": 39.5
@@ -3814,7 +4384,7 @@
     "date": "2025-12-08T16:27:51.361463+00:00",
     "location": "",
     "company": "PhonePe",
-    "role": "PSE",
+    "role": "SDE 1",
     "yoe": 4.17,
     "base": 12,
     "total": 27.5
@@ -3834,7 +4404,7 @@
     "date": "2025-12-08T11:40:51.622596+00:00",
     "location": "Pune",
     "company": "GoDaddy",
-    "role": "Data Eng1Neer 2",
+    "role": "Data Engineer 2",
     "yoe": 2.5,
     "base": 19,
     "total": null
@@ -3854,7 +4424,7 @@
     "date": "2025-12-08T07:03:37.384210+00:00",
     "location": "Gurugram",
     "company": "Google",
-    "role": "Business Intelligence Analyst",
+    "role": "Analyst",
     "yoe": 5.5,
     "base": 29,
     "total": 47
@@ -3974,7 +4544,7 @@
     "date": "2025-12-04T19:36:40.471756+00:00",
     "location": "Bengaluru",
     "company": "Microsoft",
-    "role": "Sse L64",
+    "role": "SSE",
     "yoe": 15,
     "base": 70,
     "total": 102.5
@@ -4034,7 +4604,7 @@
     "date": "2025-12-04T02:24:52.951917+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "L63 Ic4",
+    "role": "Principal Engineer",
     "yoe": 8.5,
     "base": 55,
     "total": 130.0
@@ -4074,7 +4644,7 @@
     "date": "2025-12-02T18:32:22.125805+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "Sde 2 (L62)",
+    "role": "SDE 2",
     "yoe": 5.5,
     "base": 44,
     "total": 82
@@ -4133,7 +4703,7 @@
     "id": 7384980,
     "date": "2025-12-01T08:04:29.683886+00:00",
     "location": "",
-    "company": "Tier 2 Mnc",
+    "company": "MNC",
     "role": "Senior AI Engineer",
     "yoe": 3.5,
     "base": 33,
@@ -4164,7 +4734,7 @@
     "date": "2025-11-30T17:15:03.078374+00:00",
     "location": "Bengaluru",
     "company": "eBay",
-    "role": "Applied Researcher T24",
+    "role": "Data Scientist",
     "yoe": 3,
     "base": 36.25,
     "total": 50.25
@@ -4224,7 +4794,7 @@
     "date": "2025-11-29T12:36:58.658153+00:00",
     "location": "Bengaluru",
     "company": "Stripe",
-    "role": "Software Engineer Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -4254,7 +4824,7 @@
     "date": "2025-11-29T09:26:30.886031+00:00",
     "location": "Bengaluru",
     "company": "Meta",
-    "role": "Software Engineer Ic3",
+    "role": "SDE 3",
     "yoe": 0,
     "base": 30.87,
     "total": 53.55
@@ -4273,7 +4843,7 @@
     "id": 7380070,
     "date": "2025-11-28T22:05:55.894726+00:00",
     "location": "",
-    "company": "Ohai",
+    "company": "Oracle",
     "role": "MTS 5",
     "yoe": 9,
     "base": 54.6,
@@ -4324,7 +4894,7 @@
     "date": "2025-11-27T06:33:37.293327+00:00",
     "location": "Remote",
     "company": "Twilio",
-    "role": "L3 Offer",
+    "role": "SDE 1",
     "yoe": 4.5,
     "base": 41.88,
     "total": 56
@@ -4374,7 +4944,7 @@
     "date": "2025-11-26T11:16:45.009342+00:00",
     "location": "",
     "company": "Microsoft",
-    "role": "Microsoft Offer",
+    "role": "N/A",
     "yoe": 4.1,
     "base": 30,
     "total": 36
@@ -4384,7 +4954,7 @@
     "date": "2025-11-26T07:39:58.106699+00:00",
     "location": "",
     "company": "Kotak",
-    "role": "Credit Analyst",
+    "role": "Analyst",
     "yoe": 1.5,
     "base": 22.25,
     "total": 24.58625
@@ -4414,7 +4984,7 @@
     "date": "2025-11-25T18:36:32.445224+00:00",
     "location": "Bengaluru",
     "company": "Morgan Stanley",
-    "role": "Senior Associate",
+    "role": "SSE",
     "yoe": 6,
     "base": 30.7,
     "total": 37.4
@@ -4434,7 +5004,7 @@
     "date": "2025-11-25T15:59:32.906011+00:00",
     "location": "Noida",
     "company": "Adobe",
-    "role": "CS1",
+    "role": "Computer Scientist 1",
     "yoe": 4.5,
     "base": 33,
     "total": 38.25
@@ -4473,7 +5043,7 @@
     "id": 7371451,
     "date": "2025-11-24T12:18:07.052243+00:00",
     "location": "",
-    "company": "Browsersstack",
+    "company": "BrowserStack",
     "role": "SDE",
     "yoe": 1.6,
     "base": 15.5,
@@ -4504,7 +5074,7 @@
     "date": "2025-11-23T14:13:25.761193+00:00",
     "location": "Bengaluru",
     "company": "Morgan Stanley",
-    "role": "P2 Associate",
+    "role": "SDE 2",
     "yoe": 2.4,
     "base": 21,
     "total": 31.66
@@ -4533,7 +5103,7 @@
     "id": 7366482,
     "date": "2025-11-22T07:57:24.819664+00:00",
     "location": "Bengaluru",
-    "company": "Devrev",
+    "company": "DevRev",
     "role": "SDE",
     "yoe": 0,
     "base": 30,
@@ -4544,7 +5114,7 @@
     "date": "2025-11-21T18:24:35.744361+00:00",
     "location": "Bengaluru",
     "company": "PayPal",
-    "role": "Ml Scientist",
+    "role": "ML Engineer",
     "yoe": null,
     "base": 53,
     "total": null
@@ -4633,7 +5203,7 @@
     "id": 7361183,
     "date": "2025-11-19T18:52:26.797305+00:00",
     "location": "",
-    "company": "Oci Smts",
+    "company": "Oracle",
     "role": "N/A",
     "yoe": 6.2,
     "base": 42.6,
@@ -4694,7 +5264,7 @@
     "date": "2025-11-19T12:15:00.261567+00:00",
     "location": "Hyderabad",
     "company": "Salesforce",
-    "role": "Mts Industries Cloud",
+    "role": "MTS",
     "yoe": 2.4,
     "base": 30,
     "total": 44.55
@@ -4704,7 +5274,7 @@
     "date": "2025-11-19T12:15:00.261567+00:00",
     "location": "Noida",
     "company": "Adobe",
-    "role": "Acrobat Backend Team",
+    "role": "N/A",
     "yoe": 2.4,
     "base": 23,
     "total": 42.9
@@ -4714,7 +5284,7 @@
     "date": "2025-11-19T11:25:03.258530+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "SWE 21",
+    "role": "SDE 2",
     "yoe": 3.5,
     "base": 22,
     "total": 32.95
@@ -4733,7 +5303,7 @@
     "id": 7359884,
     "date": "2025-11-19T09:21:59.064184+00:00",
     "location": "Remote",
-    "company": "OCI",
+    "company": "Oracle",
     "role": "SDE 3",
     "yoe": 5,
     "base": 42,
@@ -4743,7 +5313,7 @@
     "id": 7358626,
     "date": "2025-11-18T21:45:57.592614+00:00",
     "location": "Mumbai",
-    "company": "Service Based Compnay",
+    "company": "MNC",
     "role": "SDE 1",
     "yoe": 1.6,
     "base": 11,
@@ -4823,7 +5393,7 @@
     "id": 7356041,
     "date": "2025-11-17T19:31:38.239438+00:00",
     "location": "Bengaluru",
-    "company": "Hashicorp",
+    "company": "HashiCorp",
     "role": "SDE",
     "yoe": 3,
     "base": 23,
@@ -4874,7 +5444,7 @@
     "date": "2025-11-16T15:35:21.752080+00:00",
     "location": "Bengaluru",
     "company": "Stripe",
-    "role": "L1 Swe",
+    "role": "SDE 1",
     "yoe": null,
     "base": 29,
     "total": 59
@@ -4884,7 +5454,7 @@
     "date": "2025-11-16T13:02:35.494337+00:00",
     "location": "Bengaluru",
     "company": "Texas Instruments",
-    "role": "Sde New Grad",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 20.5,
     "total": 40.07
@@ -4903,7 +5473,7 @@
     "id": 7351170,
     "date": "2025-11-16T02:49:03.952740+00:00",
     "location": "",
-    "company": "AI Startup",
+    "company": "Startup",
     "role": "SSE",
     "yoe": 5.5,
     "base": null,
@@ -5004,7 +5574,7 @@
     "date": "2025-11-14T11:38:40.763487+00:00",
     "location": "Bengaluru",
     "company": "Saviynt",
-    "role": "Associate Engineer L3",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 18,
     "total": 20
@@ -5034,7 +5604,7 @@
     "date": "2025-11-14T11:08:09.471316+00:00",
     "location": "Bengaluru",
     "company": "Whatfix",
-    "role": "Sde 1 Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -5074,7 +5644,7 @@
     "date": "2025-11-13T04:18:44.993459+00:00",
     "location": "Bengaluru",
     "company": "Dell Technologies",
-    "role": "Software Engineer I",
+    "role": "SDE 1",
     "yoe": 0.25,
     "base": 13.12,
     "total": 14.41
@@ -5124,7 +5694,7 @@
     "date": "2025-11-11T14:05:29.700683+00:00",
     "location": "",
     "company": "Microsoft",
-    "role": "Sde 2 L61 .Net",
+    "role": "SDE 2",
     "yoe": 4.5,
     "base": 33,
     "total": 55
@@ -5133,8 +5703,8 @@
     "id": 7341728,
     "date": "2025-11-11T14:05:29.700683+00:00",
     "location": "",
-    "company": "OCI",
-    "role": "Ic3 Java Golang",
+    "company": "Oracle",
+    "role": "SDE 3",
     "yoe": 4.5,
     "base": 42.5,
     "total": 62
@@ -5153,7 +5723,7 @@
     "id": 7341287,
     "date": "2025-11-11T10:09:42.213273+00:00",
     "location": "Bengaluru",
-    "company": "Ai-First Company",
+    "company": "Startup",
     "role": "SDE 2",
     "yoe": 3.4,
     "base": 26,
@@ -5164,7 +5734,7 @@
     "date": "2025-11-11T09:06:52.643659+00:00",
     "location": "Chennai",
     "company": "PayPal",
-    "role": "Software Engineer Frontend",
+    "role": "SDE",
     "yoe": 2.4,
     "base": 23.5,
     "total": 30
@@ -5174,7 +5744,7 @@
     "date": "2025-11-10T18:19:04.265360+00:00",
     "location": "Bengaluru",
     "company": "Google",
-    "role": "Swe 21 - L4",
+    "role": "SDE 2",
     "yoe": 4.9,
     "base": 38,
     "total": 79
@@ -5184,7 +5754,7 @@
     "date": "2025-11-10T14:35:05.811364+00:00",
     "location": "Bengaluru",
     "company": "Blueoptima",
-    "role": "Senior Java Web Backend Engineer",
+    "role": "SSE",
     "yoe": 7,
     "base": 28,
     "total": null
@@ -5194,7 +5764,7 @@
     "date": "2025-11-09T15:26:19.849609+00:00",
     "location": "Bengaluru",
     "company": "LinkedIn",
-    "role": "Sse Talent Solutions Team",
+    "role": "SSE",
     "yoe": null,
     "base": 55,
     "total": null
@@ -5404,7 +5974,7 @@
     "date": "2025-11-04T14:56:56.372860+00:00",
     "location": "Bengaluru",
     "company": "Jlr",
-    "role": "Graduate Software Engineer Trainee",
+    "role": "SDE 1",
     "yoe": null,
     "base": 21,
     "total": 25.02
@@ -5424,7 +5994,7 @@
     "date": "2025-11-04T14:26:46.866799+00:00",
     "location": "",
     "company": "Qualcomm",
-    "role": "Senior Lead",
+    "role": "Lead Engineer",
     "yoe": 7.5,
     "base": 60,
     "total": 146
@@ -5443,7 +6013,7 @@
     "id": 7325290,
     "date": "2025-11-04T05:17:22.040100+00:00",
     "location": "",
-    "company": "Digital Marketing Startup (70 Employees)",
+    "company": "Startup",
     "role": "SDE 2",
     "yoe": 3.4,
     "base": 30,
@@ -5484,7 +6054,7 @@
     "date": "2025-11-02T16:58:04.531489+00:00",
     "location": "",
     "company": "Freshworks",
-    "role": "Lead Sre",
+    "role": "Lead Engineer",
     "yoe": 6.5,
     "base": 33,
     "total": 41
@@ -5494,7 +6064,7 @@
     "date": "2025-11-02T16:58:04.531489+00:00",
     "location": "Chennai",
     "company": "Workday",
-    "role": "P3 Software Engineer",
+    "role": "SSE",
     "yoe": 6.5,
     "base": 43,
     "total": 62
@@ -5524,7 +6094,7 @@
     "date": "2025-11-02T05:30:54.557312+00:00",
     "location": "",
     "company": "Intuit",
-    "role": "Swe 2 Frontend",
+    "role": "SDE 2",
     "yoe": 6,
     "base": 35,
     "total": 50
@@ -5554,7 +6124,7 @@
     "date": "2025-11-01T17:07:25.706650+00:00",
     "location": "",
     "company": "Qualcomm",
-    "role": "Sr Staff Engineer",
+    "role": "Senior Staff Engineer",
     "yoe": "20+",
     "base": 76,
     "total": 104
@@ -5573,7 +6143,7 @@
     "id": 7317846,
     "date": "2025-11-01T07:26:09.724788+00:00",
     "location": "Delhi",
-    "company": "Series A To B Startup",
+    "company": "Startup",
     "role": "SDE 1",
     "yoe": 1.5,
     "base": 42,
@@ -5654,7 +6224,7 @@
     "date": "2025-10-31T19:09:59.476904+00:00",
     "location": "Bengaluru",
     "company": "PayPal",
-    "role": "Sse Frontend",
+    "role": "SSE",
     "yoe": 6,
     "base": 49,
     "total": 53.9
@@ -5713,7 +6283,7 @@
     "id": 7312372,
     "date": "2025-10-30T03:46:28.725327+00:00",
     "location": "",
-    "company": "Us Based Series D Fintech Startup",
+    "company": "Startup",
     "role": "N/A",
     "yoe": 2.4,
     "base": 32,
@@ -5734,7 +6304,7 @@
     "date": "2025-10-29T19:14:59.369247+00:00",
     "location": "",
     "company": "Groww",
-    "role": "Sde Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -5794,7 +6364,7 @@
     "date": "2025-10-29T12:58:00.524535+00:00",
     "location": "Hyderabad",
     "company": "Salesforce",
-    "role": "Mts Backend Software Engineer",
+    "role": "MTS",
     "yoe": 3,
     "base": 31.5,
     "total": 45.7
@@ -5804,7 +6374,7 @@
     "date": "2025-10-29T09:17:14.307465+00:00",
     "location": "",
     "company": "Morgan Stanley",
-    "role": "Java Full Stack Developer",
+    "role": "SDE",
     "yoe": 7,
     "base": 39,
     "total": null
@@ -5814,7 +6384,7 @@
     "date": "2025-10-28T08:17:09.221115+00:00",
     "location": "",
     "company": "Millennium Management",
-    "role": "Software Developer",
+    "role": "SDE",
     "yoe": 2,
     "base": 40,
     "total": 50
@@ -5844,7 +6414,7 @@
     "date": "2025-10-26T17:32:57.320332+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "SWE 1",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 18,
     "total": 32.5
@@ -5924,7 +6494,7 @@
     "date": "2025-10-25T07:38:22.465476+00:00",
     "location": "Bengaluru",
     "company": "Expedia",
-    "role": "MLE 1",
+    "role": "ML Engineer 1",
     "yoe": 0,
     "base": 18,
     "total": 21.75
@@ -5964,7 +6534,7 @@
     "date": "2025-10-24T15:28:11.363608+00:00",
     "location": "",
     "company": "Qicap.Ai",
-    "role": "Quant Researcher/Trader",
+    "role": "Data Scientist",
     "yoe": null,
     "base": 55,
     "total": 70
@@ -6064,7 +6634,7 @@
     "date": "2025-10-23T15:10:09.830324+00:00",
     "location": "Hyderabad",
     "company": "JPMorgan Chase",
-    "role": "Ml Associate",
+    "role": "ML Engineer 1",
     "yoe": 4,
     "base": 40,
     "total": null
@@ -6074,7 +6644,7 @@
     "date": "2025-10-23T14:33:01.525193+00:00",
     "location": "",
     "company": "Freshworks",
-    "role": "L3 Lead Engineer",
+    "role": "Lead Engineer",
     "yoe": 6,
     "base": 50,
     "total": null
@@ -6084,7 +6654,7 @@
     "date": "2025-10-23T11:46:31.648010+00:00",
     "location": "Bengaluru",
     "company": "JPMorgan Chase",
-    "role": "Se3 Backend",
+    "role": "SDE 3",
     "yoe": 4,
     "base": 36,
     "total": null
@@ -6104,7 +6674,7 @@
     "date": "2025-10-23T04:08:45.844994+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "Member Of Technical Staff Mts",
+    "role": "MTS",
     "yoe": 0,
     "base": 19.18,
     "total": 29.24
@@ -6114,7 +6684,7 @@
     "date": "2025-10-23T04:01:12.835064+00:00",
     "location": "Pan India",
     "company": "Oracle",
-    "role": "Associate Software Engineer Ase",
+    "role": "SDE 1",
     "yoe": null,
     "base": 15.23,
     "total": null
@@ -6223,7 +6793,7 @@
     "id": 7290956,
     "date": "2025-10-21T16:26:54.400910+00:00",
     "location": "Bengaluru",
-    "company": "Walmart Global Tech India",
+    "company": "Walmart",
     "role": "SSE",
     "yoe": 6,
     "base": 36,
@@ -6244,7 +6814,7 @@
     "date": "2025-10-21T15:05:51.963397+00:00",
     "location": "India",
     "company": "Atlassian",
-    "role": "P30",
+    "role": "SDE 1",
     "yoe": 2.5,
     "base": 30,
     "total": null
@@ -6254,7 +6824,7 @@
     "date": "2025-10-21T12:20:39.969827+00:00",
     "location": "",
     "company": "Adobe",
-    "role": "MLE 2",
+    "role": "ML Engineer 2",
     "yoe": 3.5,
     "base": 30.5,
     "total": 68.5
@@ -6264,7 +6834,7 @@
     "date": "2025-10-21T12:20:39.969827+00:00",
     "location": "",
     "company": "Expedia",
-    "role": "Ml Sc1Ent1St 21",
+    "role": "ML Engineer 2",
     "yoe": 3.5,
     "base": 47,
     "total": 61
@@ -6314,7 +6884,7 @@
     "date": "2025-10-20T08:25:54.508212+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "Full-Time",
+    "role": "N/A",
     "yoe": 0,
     "base": 36,
     "total": 36.0
@@ -6354,7 +6924,7 @@
     "date": "2025-10-19T14:52:11.774773+00:00",
     "location": "",
     "company": "Adobe",
-    "role": "Sse Computer Scientist",
+    "role": "SSE",
     "yoe": 3.1,
     "base": 34,
     "total": 66
@@ -6404,7 +6974,7 @@
     "date": "2025-10-18T08:59:38.520691+00:00",
     "location": "Bengaluru",
     "company": "MakeMyTrip",
-    "role": "Sen1Or Sde 2",
+    "role": "SSE",
     "yoe": 4.5,
     "base": 35,
     "total": 35
@@ -6513,7 +7083,7 @@
     "id": 7281929,
     "date": "2025-10-17T12:18:16.698318+00:00",
     "location": "",
-    "company": "Product Base Company",
+    "company": "Startup",
     "role": "SDE 3",
     "yoe": null,
     "base": 33,
@@ -6553,8 +7123,8 @@
     "id": 7281387,
     "date": "2025-10-17T06:49:18.265025+00:00",
     "location": "Bengaluru",
-    "company": "Pre Seed Startup",
-    "role": "Founding Mle",
+    "company": "Startup",
+    "role": "ML Engineer",
     "yoe": null,
     "base": 32,
     "total": 40
@@ -6563,8 +7133,8 @@
     "id": 7281387,
     "date": "2025-10-17T06:49:18.265025+00:00",
     "location": "Remote",
-    "company": "Series A Startup",
-    "role": "MLE 2",
+    "company": "Startup",
+    "role": "ML Engineer 2",
     "yoe": null,
     "base": 31,
     "total": 35
@@ -6603,7 +7173,7 @@
     "id": 7279352,
     "date": "2025-10-16T09:02:46.948009+00:00",
     "location": "Remote",
-    "company": "Us Based Org",
+    "company": "MNC",
     "role": "SDE",
     "yoe": 3.5,
     "base": 40,
@@ -6624,7 +7194,7 @@
     "date": "2025-10-15T10:05:17.259378+00:00",
     "location": "",
     "company": "Expedia",
-    "role": "Ml Sc1Ent1St 21",
+    "role": "ML Engineer 2",
     "yoe": 3,
     "base": null,
     "total": 61
@@ -6663,7 +7233,7 @@
     "id": 7276579,
     "date": "2025-10-15T06:32:25.341138+00:00",
     "location": "",
-    "company": "Series A Startup",
+    "company": "Startup",
     "role": "N/A",
     "yoe": 2.9,
     "base": 32,
@@ -6694,7 +7264,7 @@
     "date": "2025-10-14T09:59:27.315512+00:00",
     "location": "",
     "company": "T-Mobile",
-    "role": "Sr Software Engineer",
+    "role": "SSE",
     "yoe": 4.5,
     "base": 29,
     "total": 33
@@ -6734,7 +7304,7 @@
     "date": "2025-10-12T19:15:49.185469+00:00",
     "location": "",
     "company": "Adobe",
-    "role": "MLE 2",
+    "role": "ML Engineer 2",
     "yoe": 3,
     "base": null,
     "total": 68.5
@@ -6884,7 +7454,7 @@
     "date": "2025-10-09T12:50:18.895749+00:00",
     "location": "",
     "company": "Amazon",
-    "role": "Sde Internship",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -6963,7 +7533,7 @@
     "id": 7257187,
     "date": "2025-10-07T19:00:32.160093+00:00",
     "location": "",
-    "company": "Banking Company",
+    "company": "MNC",
     "role": "SDE 2",
     "yoe": 3.5,
     "base": 33,
@@ -6994,7 +7564,7 @@
     "date": "2025-10-07T13:42:03.820000+00:00",
     "location": "Hyderabad",
     "company": "Goldman Sachs",
-    "role": "Analyst / Sde 1",
+    "role": "SDE 1",
     "yoe": 1.5,
     "base": 29,
     "total": 34
@@ -7014,7 +7584,7 @@
     "date": "2025-10-06T18:22:33.815508+00:00",
     "location": "Gurugram",
     "company": "Expedia",
-    "role": "Sde Intern Summer Internship",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -7053,7 +7623,7 @@
     "id": 7250868,
     "date": "2025-10-05T12:16:58.476351+00:00",
     "location": "Bengaluru",
-    "company": "B2B Saas Startup",
+    "company": "Startup",
     "role": "N/A",
     "yoe": null,
     "base": 17,
@@ -7073,7 +7643,7 @@
     "id": 7248944,
     "date": "2025-10-04T18:47:31.226103+00:00",
     "location": "Bengaluru",
-    "company": "Series B Startup",
+    "company": "Startup",
     "role": "SDE 1",
     "yoe": 1.5,
     "base": 13.1,
@@ -7093,7 +7663,7 @@
     "id": 7246781,
     "date": "2025-10-04T03:34:05.053402+00:00",
     "location": "Bengaluru",
-    "company": "Fintech Company",
+    "company": "Startup",
     "role": "SDE 2",
     "yoe": 2.25,
     "base": 32,
@@ -7134,7 +7704,7 @@
     "date": "2025-10-03T14:21:19.074596+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "Applications Engineer",
+    "role": "SDE",
     "yoe": 2.8,
     "base": 17.5,
     "total": null
@@ -7153,7 +7723,7 @@
     "id": 7245089,
     "date": "2025-10-03T10:09:28.154541+00:00",
     "location": "",
-    "company": "Fintech Startup",
+    "company": "Startup",
     "role": "SDE",
     "yoe": 0,
     "base": 15,
@@ -7173,7 +7743,7 @@
     "id": 7245017,
     "date": "2025-10-03T09:35:35.451024+00:00",
     "location": "",
-    "company": "Mid Startup Company",
+    "company": "Startup",
     "role": "SDE 3",
     "yoe": null,
     "base": 65,
@@ -7204,7 +7774,7 @@
     "date": "2025-10-03T06:01:00.751723+00:00",
     "location": "Bengaluru",
     "company": "PayPal",
-    "role": "Software Engineer Java Backend",
+    "role": "SDE",
     "yoe": 3.2,
     "base": 26,
     "total": 33.0
@@ -7384,7 +7954,7 @@
     "date": "2025-09-30T12:20:06.804083+00:00",
     "location": "",
     "company": "Mathco",
-    "role": "Trainee Analyst",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 19,
     "total": 19.0
@@ -7394,7 +7964,7 @@
     "date": "2025-09-30T07:01:26.542560+00:00",
     "location": "",
     "company": "Salesforce Lmts",
-    "role": "Salesforce Lmts",
+    "role": "MTS 4",
     "yoe": 7.5,
     "base": 64,
     "total": null
@@ -7404,7 +7974,7 @@
     "date": "2025-09-29T10:20:21.714072+00:00",
     "location": "",
     "company": "Microsoft",
-    "role": "L59 Ic2",
+    "role": "SDE 1",
     "yoe": 3,
     "base": 18,
     "total": 22.5
@@ -7414,7 +7984,7 @@
     "date": "2025-09-28T09:34:12.105794+00:00",
     "location": "Bengaluru",
     "company": "Grab",
-    "role": "Senior Software Engineer Mobile Android",
+    "role": "SSE",
     "yoe": 6,
     "base": 48,
     "total": 52
@@ -7494,7 +8064,7 @@
     "date": "2025-09-26T18:26:39.706766+00:00",
     "location": "",
     "company": "Exotel",
-    "role": "Integration And Customization Engineer 2",
+    "role": "SDE 2",
     "yoe": 2.7,
     "base": 11,
     "total": null
@@ -7614,7 +8184,7 @@
     "date": "2025-09-24T19:48:29.918873+00:00",
     "location": "",
     "company": "Microsoft",
-    "role": "Ic 2 Position",
+    "role": "SDE 2",
     "yoe": 2,
     "base": 22.5,
     "total": 40
@@ -7644,7 +8214,7 @@
     "date": "2025-09-24T13:25:13.957298+00:00",
     "location": "",
     "company": "INDmoney",
-    "role": "Backend Eng",
+    "role": "SDE",
     "yoe": 2,
     "base": 22.5,
     "total": 25
@@ -7663,7 +8233,7 @@
     "id": 7219791,
     "date": "2025-09-24T09:55:39.316702+00:00",
     "location": "Bengaluru",
-    "company": "Uk Based Fintech Startup",
+    "company": "Startup",
     "role": "SSE",
     "yoe": 7.8,
     "base": 54,
@@ -7694,7 +8264,7 @@
     "date": "2025-09-23T16:25:48.679195+00:00",
     "location": "",
     "company": "FNZ",
-    "role": "Analyst Developer",
+    "role": "SDE 1",
     "yoe": 4.2,
     "base": 24,
     "total": 24
@@ -7734,7 +8304,7 @@
     "date": "2025-09-20T13:31:11.189036+00:00",
     "location": "Bengaluru",
     "company": "Infineon",
-    "role": "Specialist It",
+    "role": "SDE",
     "yoe": 0,
     "base": 8.56639,
     "total": 8.566639
@@ -7894,7 +8464,7 @@
     "date": "2025-09-18T11:24:54.875166+00:00",
     "location": "",
     "company": "Bnpparibas",
-    "role": "Mern Fullstack Developer",
+    "role": "SDE",
     "yoe": 7,
     "base": 30,
     "total": 33
@@ -7914,7 +8484,7 @@
     "date": "2025-09-18T06:50:09.587383+00:00",
     "location": "Bengaluru",
     "company": "Nutanix",
-    "role": "Mts-3",
+    "role": "MTS 3",
     "yoe": 5,
     "base": 45,
     "total": null
@@ -7974,7 +8544,7 @@
     "date": "2025-09-17T12:37:58.757518+00:00",
     "location": "Bengaluru",
     "company": "Saviynt",
-    "role": "Eng1Neer 21 Software Eng1Neer1Ng",
+    "role": "SDE 2",
     "yoe": 3.4,
     "base": 33,
     "total": 34
@@ -7984,7 +8554,7 @@
     "date": "2025-09-17T12:37:58.757518+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 21",
+    "role": "SDE 2",
     "yoe": 3.4,
     "base": 24,
     "total": 32.5
@@ -8043,7 +8613,7 @@
     "id": 7196240,
     "date": "2025-09-16T12:41:17.553640+00:00",
     "location": "Gurugram",
-    "company": "Airtel Digital",
+    "company": "Airtel Payments Bank",
     "role": "N/A",
     "yoe": 2.5,
     "base": 22,
@@ -8094,7 +8664,7 @@
     "date": "2025-09-15T12:35:08.771325+00:00",
     "location": "Chennai",
     "company": "Citi",
-    "role": "Apps Dev Intermediate Program Analyst",
+    "role": "SDE 2",
     "yoe": 6,
     "base": 24,
     "total": 26
@@ -8134,7 +8704,7 @@
     "date": "2025-09-13T19:13:08.441886+00:00",
     "location": "Bengaluru",
     "company": "Stripe",
-    "role": "L1",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 29,
     "total": 65
@@ -8174,7 +8744,7 @@
     "date": "2025-09-13T09:38:58.675530+00:00",
     "location": "Bengaluru",
     "company": "NetApp",
-    "role": "SE 3",
+    "role": "SDE 3",
     "yoe": 7,
     "base": 41.8,
     "total": 51.24
@@ -8194,7 +8764,7 @@
     "date": "2025-09-12T20:23:17.189298+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "Associate Consultant",
+    "role": "Consultant",
     "yoe": null,
     "base": 9.82,
     "total": 9.82
@@ -8203,8 +8773,8 @@
     "id": 7183041,
     "date": "2025-09-12T16:29:29.943084+00:00",
     "location": "",
-    "company": "Large Indian Fintech",
-    "role": "Senior Swe",
+    "company": "Startup",
+    "role": "SSE",
     "yoe": 8,
     "base": 60,
     "total": 85
@@ -8394,7 +8964,7 @@
     "date": "2025-09-10T18:40:04.818030+00:00",
     "location": "Bengaluru",
     "company": "Abnormal AI",
-    "role": "SWE 1",
+    "role": "SDE 1",
     "yoe": 1,
     "base": 32,
     "total": null
@@ -8404,7 +8974,7 @@
     "date": "2025-09-10T08:27:25.886272+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "Software Engineer L60",
+    "role": "SDE 2",
     "yoe": 1.17,
     "base": 21.4,
     "total": 40.5
@@ -8434,7 +9004,7 @@
     "date": "2025-09-09T16:03:58.058680+00:00",
     "location": "Bengaluru",
     "company": "Oracle",
-    "role": "IC1",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 15,
     "total": null
@@ -8454,7 +9024,7 @@
     "date": "2025-09-09T15:03:04.217267+00:00",
     "location": "Bengaluru",
     "company": "Microsoft",
-    "role": "Swe 2 L61",
+    "role": "SDE 2",
     "yoe": null,
     "base": 31.9,
     "total": 55.3
@@ -8484,7 +9054,7 @@
     "date": "2025-09-09T07:36:38.119194+00:00",
     "location": "Noida",
     "company": "Adobe",
-    "role": "MTS2",
+    "role": "MTS 2",
     "yoe": null,
     "base": 23,
     "total": 39
@@ -8534,7 +9104,7 @@
     "date": "2025-09-08T10:23:05.966409+00:00",
     "location": "",
     "company": "Cisco",
-    "role": "Ppo G6 Intern",
+    "role": "Intern",
     "yoe": 0.17,
     "base": 17.5,
     "total": 41.5
@@ -8573,7 +9143,7 @@
     "id": 7162893,
     "date": "2025-09-06T22:35:39.855881+00:00",
     "location": "",
-    "company": "AI Startup",
+    "company": "Startup",
     "role": "SSE",
     "yoe": 2.2,
     "base": 27,
@@ -8584,7 +9154,7 @@
     "date": "2025-09-06T20:38:11.542617+00:00",
     "location": "Remote",
     "company": "Volga Partners",
-    "role": "C++ Software Engineer",
+    "role": "SDE",
     "yoe": 1,
     "base": 19,
     "total": null
@@ -8674,7 +9244,7 @@
     "date": "2025-09-05T04:33:07.382248+00:00",
     "location": "",
     "company": "Okta",
-    "role": "SWE 1",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 15,
     "total": 41
@@ -8724,7 +9294,7 @@
     "date": "2025-09-05T00:11:52.722794+00:00",
     "location": "Bengaluru",
     "company": "ThoughtWorks",
-    "role": "Consultant Developer",
+    "role": "Consultant",
     "yoe": 2.2,
     "base": 16,
     "total": 16.0
@@ -8734,7 +9304,7 @@
     "date": "2025-09-04T19:10:44.276098+00:00",
     "location": "",
     "company": "Citi",
-    "role": "Python Developer",
+    "role": "SDE",
     "yoe": 6.5,
     "base": 30,
     "total": null
@@ -8743,7 +9313,7 @@
     "id": 7156341,
     "date": "2025-09-04T18:48:00.925122+00:00",
     "location": "Bengaluru",
-    "company": "Wesco",
+    "company": "WESCO International",
     "role": "Data Scientist",
     "yoe": 5,
     "base": 31,
@@ -8793,7 +9363,7 @@
     "id": 7152827,
     "date": "2025-09-03T22:06:33.478720+00:00",
     "location": "",
-    "company": "Startup Offer 1",
+    "company": "Startup",
     "role": "N/A",
     "yoe": null,
     "base": 43.5,
@@ -8803,7 +9373,7 @@
     "id": 7152827,
     "date": "2025-09-03T22:06:33.478720+00:00",
     "location": "",
-    "company": "Startup Offer 2",
+    "company": "Startup",
     "role": "N/A",
     "yoe": null,
     "base": 49,
@@ -8863,7 +9433,7 @@
     "id": 7148634,
     "date": "2025-09-02T15:46:32.981354+00:00",
     "location": "Chennai",
-    "company": "Chennai Company",
+    "company": "Startup",
     "role": "SSE",
     "yoe": 6,
     "base": 43.5,
@@ -8914,7 +9484,7 @@
     "date": "2025-09-02T05:22:43.343452+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 21",
+    "role": "SDE 2",
     "yoe": 3.3,
     "base": 16.7,
     "total": 22.23
@@ -8924,7 +9494,7 @@
     "date": "2025-09-02T05:22:43.343452+00:00",
     "location": "Bengaluru",
     "company": "SAP Labs",
-    "role": "Dev Associate T1-3",
+    "role": "SDE 1",
     "yoe": 3.3,
     "base": 17.45,
     "total": 22
@@ -9003,7 +9573,7 @@
     "id": 7144833,
     "date": "2025-09-01T13:43:26.096019+00:00",
     "location": "",
-    "company": "Mid-Size Startup",
+    "company": "Startup",
     "role": "SDE",
     "yoe": 1,
     "base": 26.0,
@@ -9013,7 +9583,7 @@
     "id": 7144833,
     "date": "2025-09-01T13:43:26.096019+00:00",
     "location": "",
-    "company": "Financial Services Firm",
+    "company": "MNC",
     "role": "Data Engineer",
     "yoe": 1,
     "base": 26.0,
@@ -9023,7 +9593,7 @@
     "id": 7144303,
     "date": "2025-09-01T10:24:10.118910+00:00",
     "location": "",
-    "company": "Consulting Company",
+    "company": "MNC",
     "role": "SDE",
     "yoe": null,
     "base": 8,
@@ -9033,8 +9603,8 @@
     "id": 7144303,
     "date": "2025-09-01T10:24:10.118910+00:00",
     "location": "",
-    "company": "Fast-Growing Saas Startup In Ai Space",
-    "role": "Sde Intern",
+    "company": "Startup",
+    "role": "Intern",
     "yoe": null,
     "base": null,
     "total": null
@@ -9064,7 +9634,7 @@
     "date": "2025-08-30T06:09:48.464207+00:00",
     "location": "Pune",
     "company": "MindTickle",
-    "role": "Sde Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -9074,7 +9644,7 @@
     "date": "2025-08-29T18:07:00.033545+00:00",
     "location": "",
     "company": "eBay",
-    "role": "Senior Applied Researcher T26",
+    "role": "Senior Data Scientist",
     "yoe": 5,
     "base": 64.7,
     "total": 93.7
@@ -9104,7 +9674,7 @@
     "date": "2025-08-29T10:32:44.695887+00:00",
     "location": "",
     "company": "Uber",
-    "role": "L5 A",
+    "role": "SSE",
     "yoe": 9,
     "base": 73,
     "total": 87
@@ -9184,7 +9754,7 @@
     "date": "2025-08-27T15:23:00.305117+00:00",
     "location": "India",
     "company": "Amazon",
-    "role": "Applied Scientist",
+    "role": "Data Scientist",
     "yoe": 0,
     "base": 32,
     "total": 81
@@ -9233,7 +9803,7 @@
     "id": 7126595,
     "date": "2025-08-27T05:27:58.710425+00:00",
     "location": "",
-    "company": "Fintech Startup",
+    "company": "Startup",
     "role": "N/A",
     "yoe": 1.83,
     "base": 27,
@@ -9284,7 +9854,7 @@
     "date": "2025-08-26T10:23:15.762021+00:00",
     "location": "Hyderabad",
     "company": "Yext Inc",
-    "role": "Associate Business System Analyst",
+    "role": "SDE 1",
     "yoe": 0.5,
     "base": 9.0,
     "total": 9.5
@@ -9334,7 +9904,7 @@
     "date": "2025-08-25T14:39:34.425345+00:00",
     "location": "",
     "company": "ZS Associates",
-    "role": "BTSA",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 10,
     "total": 15
@@ -9353,8 +9923,8 @@
     "id": 7120985,
     "date": "2025-08-25T13:38:41.684186+00:00",
     "location": "",
-    "company": "Famous Fintech Company",
-    "role": "Frontend Role",
+    "company": "Startup",
+    "role": "SDE",
     "yoe": 3,
     "base": 25,
     "total": 27.6667
@@ -9363,8 +9933,8 @@
     "id": 7120985,
     "date": "2025-08-25T13:38:41.684186+00:00",
     "location": "",
-    "company": "Unicorn Startup",
-    "role": "Backend Role",
+    "company": "Startup",
+    "role": "SDE",
     "yoe": 3,
     "base": 26,
     "total": 29
@@ -9373,7 +9943,7 @@
     "id": 7119294,
     "date": "2025-08-25T04:26:19.077849+00:00",
     "location": "",
-    "company": "Uk Product Based Startup",
+    "company": "Startup",
     "role": "SDE",
     "yoe": 3.67,
     "base": 26,
@@ -9464,7 +10034,7 @@
     "date": "2025-08-23T08:40:22.607820+00:00",
     "location": "Pune",
     "company": "Barclays",
-    "role": "Ba4 Software Developer",
+    "role": "SDE 1",
     "yoe": 2,
     "base": 15,
     "total": 15
@@ -9514,7 +10084,7 @@
     "date": "2025-08-21T17:01:16.871660+00:00",
     "location": "Bengaluru",
     "company": "NetApp",
-    "role": "SE 3",
+    "role": "SDE 3",
     "yoe": 7.2,
     "base": 41.8,
     "total": 45.1
@@ -9534,7 +10104,7 @@
     "date": "2025-08-21T16:52:05.146757+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "IN4",
+    "role": "SDE 4",
     "yoe": 7.8,
     "base": 38.7,
     "total": 56
@@ -9554,7 +10124,7 @@
     "date": "2025-08-21T15:48:51.461532+00:00",
     "location": "Remote",
     "company": "Microsoft",
-    "role": "SWE 1",
+    "role": "SDE 1",
     "yoe": null,
     "base": 24,
     "total": null
@@ -9604,7 +10174,7 @@
     "date": "2025-08-20T20:41:15.086693+00:00",
     "location": "Noida",
     "company": "Synopsys",
-    "role": "Staff Software Engineer L3",
+    "role": "Staff Engineer",
     "yoe": 4.5,
     "base": 29,
     "total": 43
@@ -9624,7 +10194,7 @@
     "date": "2025-08-19T18:29:34.538227+00:00",
     "location": "Bengaluru",
     "company": "Takeda",
-    "role": "Principal Data Engineer",
+    "role": "Principal Engineer",
     "yoe": 9,
     "base": 33,
     "total": 42
@@ -9664,7 +10234,7 @@
     "date": "2025-08-19T10:05:24.058477+00:00",
     "location": "Bengaluru",
     "company": "Salesforce",
-    "role": "Principal Member Technical Staff",
+    "role": "Principal Engineer",
     "yoe": 13,
     "base": 105,
     "total": 175.0
@@ -9714,7 +10284,7 @@
     "date": "2025-08-17T16:32:40.234206+00:00",
     "location": "",
     "company": "Autodesk",
-    "role": "Sde C++",
+    "role": "SDE",
     "yoe": 3.5,
     "base": 22.5,
     "total": 24.3
@@ -9903,7 +10473,7 @@
     "id": 7080126,
     "date": "2025-08-14T12:50:43.315073+00:00",
     "location": "",
-    "company": "Startup 1 Month Ago",
+    "company": "Startup",
     "role": "N/A",
     "yoe": 7,
     "base": 47,
@@ -9913,7 +10483,7 @@
     "id": 7080126,
     "date": "2025-08-14T12:50:43.315073+00:00",
     "location": "",
-    "company": "Best Buy India",
+    "company": "Best Buy",
     "role": "N/A",
     "yoe": 7,
     "base": 46,
@@ -9924,7 +10494,7 @@
     "date": "2025-08-14T12:49:25.293299+00:00",
     "location": "Bengaluru",
     "company": "NVIDIA",
-    "role": "Asic Engineer",
+    "role": "SDE",
     "yoe": 0,
     "base": 18.25,
     "total": 24.74
@@ -9954,7 +10524,7 @@
     "date": "2025-08-14T08:40:42.638987+00:00",
     "location": "Bengaluru",
     "company": "Flexport",
-    "role": "SWE 1",
+    "role": "SDE 1",
     "yoe": null,
     "base": 30,
     "total": 36
@@ -9994,7 +10564,7 @@
     "date": "2025-08-13T15:24:29.504585+00:00",
     "location": "",
     "company": "WeWork",
-    "role": "Fullstack Engineer 2",
+    "role": "SDE 2",
     "yoe": 6.5,
     "base": 32,
     "total": 39
@@ -10043,7 +10613,7 @@
     "id": 7072046,
     "date": "2025-08-12T15:26:01.399433+00:00",
     "location": "Bengaluru",
-    "company": "N-Able India",
+    "company": "N-able",
     "role": "N/A",
     "yoe": null,
     "base": 4.9,
@@ -10053,7 +10623,7 @@
     "id": 7070673,
     "date": "2025-08-12T07:25:25.003454+00:00",
     "location": "Bengaluru",
-    "company": "Product Based Startup",
+    "company": "Startup",
     "role": "SSE",
     "yoe": 4,
     "base": 26,
@@ -10134,7 +10704,7 @@
     "date": "2025-08-10T08:06:46.489763+00:00",
     "location": "",
     "company": "Uber",
-    "role": "L4 Ds",
+    "role": "Data Scientist",
     "yoe": 3.5,
     "base": 43,
     "total": 59
@@ -10154,7 +10724,7 @@
     "date": "2025-08-09T08:37:41.390252+00:00",
     "location": "",
     "company": "Zalando",
-    "role": "Unknown",
+    "role": "N/A",
     "yoe": 3,
     "base": 33,
     "total": 47.7
@@ -10164,7 +10734,7 @@
     "date": "2025-08-09T08:37:41.390252+00:00",
     "location": "",
     "company": "Startup",
-    "role": "Unknown",
+    "role": "N/A",
     "yoe": 0,
     "base": 40,
     "total": 41.25
@@ -10174,7 +10744,7 @@
     "date": "2025-08-09T01:54:56.327259+00:00",
     "location": "Hyderabad",
     "company": "Google",
-    "role": "Swe 21 Ml L4",
+    "role": "SDE 2",
     "yoe": 2,
     "base": 39.1,
     "total": 103.0
@@ -10214,7 +10784,7 @@
     "date": "2025-08-06T19:44:58.683448+00:00",
     "location": "",
     "company": "Retail Giant",
-    "role": "Senior Decision Scientist",
+    "role": "Senior Data Scientist",
     "yoe": 4.5,
     "base": 21.75,
     "total": 27
@@ -10244,7 +10814,7 @@
     "date": "2025-08-06T18:39:03.282498+00:00",
     "location": "Bengaluru",
     "company": "Salesforce",
-    "role": "Member Of Technical Staff (Mts)",
+    "role": "MTS",
     "yoe": 3.5,
     "base": 29,
     "total": 43.3
@@ -10284,7 +10854,7 @@
     "date": "2025-08-06T07:32:12.342038+00:00",
     "location": "Bengaluru",
     "company": "Google",
-    "role": "Sde 2 / L3",
+    "role": "SDE 2",
     "yoe": 2,
     "base": 24,
     "total": 74
@@ -10323,7 +10893,7 @@
     "id": 7047513,
     "date": "2025-08-05T13:38:22.747941+00:00",
     "location": "",
-    "company": "Ebay India",
+    "company": "eBay",
     "role": "N/A",
     "yoe": 6,
     "base": 33,
@@ -10334,7 +10904,7 @@
     "date": "2025-08-05T02:50:18.948488+00:00",
     "location": "Mumbai",
     "company": "BrowserStack",
-    "role": "Devops Engineer",
+    "role": "SRE",
     "yoe": 2.2,
     "base": 18,
     "total": 20.5
@@ -10344,7 +10914,7 @@
     "date": "2025-08-04T16:07:27.308564+00:00",
     "location": "",
     "company": "ServiceNow",
-    "role": "Associate Software Engineer Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -10364,7 +10934,7 @@
     "date": "2025-08-04T06:40:45.563775+00:00",
     "location": "Bengaluru",
     "company": "Calix",
-    "role": "Graduate Trainee",
+    "role": "SDE 1",
     "yoe": 0,
     "base": null,
     "total": null
@@ -10454,7 +11024,7 @@
     "date": "2025-07-31T06:50:15.464933+00:00",
     "location": "",
     "company": "Amazon",
-    "role": "Applied Scientist 1",
+    "role": "Data Scientist",
     "yoe": 3,
     "base": 40,
     "total": null
@@ -10484,7 +11054,7 @@
     "date": "2025-07-30T13:40:49.790289+00:00",
     "location": "Onsite",
     "company": "Logoinfosoft",
-    "role": "LEAD",
+    "role": "Lead Engineer",
     "yoe": 4,
     "base": 32,
     "total": null
@@ -10494,7 +11064,7 @@
     "date": "2025-07-30T13:40:49.790289+00:00",
     "location": "Remote",
     "company": "Inge",
-    "role": "Senior Developer",
+    "role": "SSE",
     "yoe": 4,
     "base": 32,
     "total": null
@@ -10504,7 +11074,7 @@
     "date": "2025-07-30T10:27:32.341751+00:00",
     "location": "",
     "company": "Zoho",
-    "role": "Software Developer",
+    "role": "SDE",
     "yoe": null,
     "base": 7,
     "total": 8.2
@@ -10514,7 +11084,7 @@
     "date": "2025-07-30T10:27:32.341751+00:00",
     "location": "",
     "company": "IDFC First Bank",
-    "role": "Software Developer",
+    "role": "SDE",
     "yoe": null,
     "base": 12,
     "total": 13.8
@@ -10524,7 +11094,7 @@
     "date": "2025-07-30T03:38:07.506334+00:00",
     "location": "Remote",
     "company": "Amazon",
-    "role": "DE2",
+    "role": "Data Engineer 2",
     "yoe": 7,
     "base": 38,
     "total": 105
@@ -10544,7 +11114,7 @@
     "date": "2025-07-29T19:35:14.110218+00:00",
     "location": "Bengaluru",
     "company": "SAP Labs",
-    "role": "Software Developer",
+    "role": "SDE",
     "yoe": 3.75,
     "base": 22.5,
     "total": 26.5
@@ -10704,7 +11274,7 @@
     "date": "2025-07-26T11:12:17.647316+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "Ic3 Frontend",
+    "role": "SDE 3",
     "yoe": 4.5,
     "base": 34,
     "total": 44
@@ -10714,7 +11284,7 @@
     "date": "2025-07-26T11:12:17.647316+00:00",
     "location": "",
     "company": "Acko",
-    "role": "UI2",
+    "role": "SDE 2",
     "yoe": 4.5,
     "base": 30,
     "total": 37.5
@@ -10774,7 +11344,7 @@
     "date": "2025-07-24T19:03:47.090719+00:00",
     "location": "",
     "company": "Hopscotch",
-    "role": "Data Eng1Neer 2",
+    "role": "Data Engineer 2",
     "yoe": 3,
     "base": 29,
     "total": null
@@ -10784,7 +11354,7 @@
     "date": "2025-07-24T17:57:31.035656+00:00",
     "location": "Bengaluru",
     "company": "Zs",
-    "role": "Contract Role",
+    "role": "N/A",
     "yoe": 4.3,
     "base": 32,
     "total": null
@@ -10793,8 +11363,8 @@
     "id": 7000137,
     "date": "2025-07-24T17:57:31.035656+00:00",
     "location": "Bengaluru",
-    "company": "Early Stage Startup",
-    "role": "Full Time",
+    "company": "Startup",
+    "role": "N/A",
     "yoe": 4.3,
     "base": 35,
     "total": null
@@ -10844,7 +11414,7 @@
     "date": "2025-07-22T15:28:25.764576+00:00",
     "location": "",
     "company": "New Relic",
-    "role": "Se1 Backend",
+    "role": "SDE 1",
     "yoe": 3,
     "base": 32,
     "total": 32
@@ -10903,7 +11473,7 @@
     "id": 6985829,
     "date": "2025-07-21T12:27:58.243994+00:00",
     "location": "Pune",
-    "company": "Indian Clothing Brand",
+    "company": "Startup",
     "role": "SDE",
     "yoe": 3,
     "base": 26,
@@ -10913,7 +11483,7 @@
     "id": 6985829,
     "date": "2025-07-21T12:27:58.243994+00:00",
     "location": "Remote",
-    "company": "Uk-Based Startup",
+    "company": "Startup",
     "role": "SDE",
     "yoe": 3,
     "base": 28,
@@ -10924,7 +11494,7 @@
     "date": "2025-07-20T20:12:34.945260+00:00",
     "location": "",
     "company": "Amazon",
-    "role": "Sysdev",
+    "role": "SDE",
     "yoe": null,
     "base": 20,
     "total": 25.5
@@ -10974,7 +11544,7 @@
     "date": "2025-07-19T09:50:39.579237+00:00",
     "location": "",
     "company": "FNZ",
-    "role": "Analyst Dev",
+    "role": "SDE 1",
     "yoe": 2,
     "base": 21,
     "total": 23
@@ -11014,7 +11584,7 @@
     "date": "2025-07-18T16:06:09.796428+00:00",
     "location": "",
     "company": "Google",
-    "role": "Software Engineer L4",
+    "role": "SDE 2",
     "yoe": 7,
     "base": 40,
     "total": 73
@@ -11034,7 +11604,7 @@
     "date": "2025-07-18T11:10:43.252394+00:00",
     "location": "",
     "company": "Flipkart",
-    "role": "UI2",
+    "role": "SDE 2",
     "yoe": 2.0,
     "base": 27,
     "total": 33.2
@@ -11174,7 +11744,7 @@
     "date": "2025-07-16T12:17:16.906542+00:00",
     "location": "Bengaluru",
     "company": "Uber",
-    "role": "Sse L5A",
+    "role": "SSE",
     "yoe": 7,
     "base": 77.26,
     "total": 117
@@ -11234,7 +11804,7 @@
     "date": "2025-07-15T16:45:30.739129+00:00",
     "location": "",
     "company": "Imperva",
-    "role": "Technical Lead (Lead Sdet)",
+    "role": "Tech Lead",
     "yoe": 8,
     "base": 40,
     "total": 44
@@ -11343,7 +11913,7 @@
     "id": 6958356,
     "date": "2025-07-14T16:07:35.632970+00:00",
     "location": "",
-    "company": "Company A",
+    "company": "Startup",
     "role": "N/A",
     "yoe": null,
     "base": 20,
@@ -11353,7 +11923,7 @@
     "id": 6958356,
     "date": "2025-07-14T16:07:35.632970+00:00",
     "location": "",
-    "company": "Company B",
+    "company": "Startup",
     "role": "N/A",
     "yoe": null,
     "base": 25,
@@ -11364,7 +11934,7 @@
     "date": "2025-07-12T17:47:37.920797+00:00",
     "location": "",
     "company": "Ust Global",
-    "role": "Developer-1",
+    "role": "SDE 1",
     "yoe": 1,
     "base": null,
     "total": 4.25
@@ -11404,7 +11974,7 @@
     "date": "2025-07-11T17:18:15.636739+00:00",
     "location": "Gurugram",
     "company": "Graviton Research Llc",
-    "role": "Software Developer C++",
+    "role": "SDE",
     "yoe": 3,
     "base": 60,
     "total": 100
@@ -11483,7 +12053,7 @@
     "id": 6944525,
     "date": "2025-07-10T22:16:40.699732+00:00",
     "location": "",
-    "company": "Data Security Startup",
+    "company": "Startup",
     "role": "SDE",
     "yoe": 1,
     "base": 30,
@@ -11634,7 +12204,7 @@
     "date": "2025-07-09T08:03:45.921947+00:00",
     "location": "Bengaluru",
     "company": "Goldman Sachs",
-    "role": "Analyst 2 Yoe",
+    "role": "Analyst",
     "yoe": 2,
     "base": 25,
     "total": 33.3
@@ -11644,7 +12214,7 @@
     "date": "2025-07-09T07:33:16.187082+00:00",
     "location": "",
     "company": "JPMorgan Chase",
-    "role": "Lead Software Engineer Vp",
+    "role": "VP",
     "yoe": 8,
     "base": 60,
     "total": 70
@@ -11654,7 +12224,7 @@
     "date": "2025-07-09T07:33:16.187082+00:00",
     "location": "",
     "company": "eBay",
-    "role": "Senior Software Engineer Ml",
+    "role": "SSE",
     "yoe": 8,
     "base": 66,
     "total": 98
@@ -11674,7 +12244,7 @@
     "date": "2025-07-09T07:23:14.621944+00:00",
     "location": "",
     "company": "Adobe Mts-2",
-    "role": "Mts 2 Frontend",
+    "role": "MTS 2",
     "yoe": 2,
     "base": 26,
     "total": null
@@ -11744,7 +12314,7 @@
     "date": "2025-07-08T13:19:41.478294+00:00",
     "location": "Bengaluru",
     "company": "IBM",
-    "role": "Software Developer",
+    "role": "SDE",
     "yoe": 7.3,
     "base": 36.5,
     "total": 42
@@ -11774,7 +12344,7 @@
     "date": "2025-07-08T04:12:27.885283+00:00",
     "location": "Bengaluru",
     "company": "Cast Software",
-    "role": "Junior Software Engineer",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 11,
     "total": 13.35
@@ -11784,7 +12354,7 @@
     "date": "2025-07-07T17:04:21.460814+00:00",
     "location": "",
     "company": "Lowes",
-    "role": "Senior Pricing Analyst",
+    "role": "Analyst",
     "yoe": 3,
     "base": 21,
     "total": 23
@@ -11854,7 +12424,7 @@
     "date": "2025-07-06T07:19:39.411263+00:00",
     "location": "",
     "company": "Bharatgen",
-    "role": "Genai Ml Engineer",
+    "role": "ML Engineer",
     "yoe": null,
     "base": 33.38,
     "total": 100.0
@@ -11904,7 +12474,7 @@
     "date": "2025-07-06T07:19:39.411263+00:00",
     "location": "",
     "company": "Goldman Sachs",
-    "role": "Analyst Sde-1",
+    "role": "SDE 1",
     "yoe": null,
     "base": 23,
     "total": 36.5
@@ -11923,7 +12493,7 @@
     "id": 6926282,
     "date": "2025-07-06T06:36:04.978180+00:00",
     "location": "",
-    "company": "Us Banking Company",
+    "company": "MNC",
     "role": "N/A",
     "yoe": 1.8,
     "base": 26,
@@ -11944,7 +12514,7 @@
     "date": "2025-07-05T18:08:32.841615+00:00",
     "location": "",
     "company": "Juspay",
-    "role": "Sde Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -12024,7 +12594,7 @@
     "date": "2025-07-03T17:26:06.469561+00:00",
     "location": "",
     "company": "Dunnhumby",
-    "role": "Engineer Grade 2",
+    "role": "SDE 2",
     "yoe": 3,
     "base": 18,
     "total": 19.8
@@ -12053,8 +12623,8 @@
     "id": 6915392,
     "date": "2025-07-03T13:11:07.433474+00:00",
     "location": "Bengaluru",
-    "company": "Series B Funded Start-Up",
-    "role": "E3",
+    "company": "Startup",
+    "role": "SDE 1",
     "yoe": 8,
     "base": 70,
     "total": null
@@ -12094,7 +12664,7 @@
     "date": "2025-07-03T00:37:28.565177+00:00",
     "location": "Bengaluru",
     "company": "Goldman Sachs",
-    "role": "Software Engineer Analyst",
+    "role": "SDE 1",
     "yoe": 2,
     "base": 22,
     "total": 28
@@ -12144,7 +12714,7 @@
     "date": "2025-07-02T03:51:16.578571+00:00",
     "location": "",
     "company": "Sap Ariba",
-    "role": "Developer T2",
+    "role": "SDE 2",
     "yoe": 4,
     "base": 24,
     "total": 34
@@ -12204,7 +12774,7 @@
     "date": "2025-07-01T14:59:28.190361+00:00",
     "location": "",
     "company": "Amazon",
-    "role": "Application Engineer Offer",
+    "role": "SDE",
     "yoe": 1.92,
     "base": 10,
     "total": 15
@@ -12224,7 +12794,7 @@
     "date": "2025-07-01T13:32:27.065193+00:00",
     "location": "Bengaluru",
     "company": "Flipkart",
-    "role": "U1 Eng1Neer 2",
+    "role": "SDE 2",
     "yoe": 4,
     "base": 29,
     "total": 35.4
@@ -12313,8 +12883,8 @@
     "id": 6900907,
     "date": "2025-06-30T03:34:04.305701+00:00",
     "location": "Remote",
-    "company": "Global Logistics Mnc",
-    "role": "Jr Data Scientist",
+    "company": "MNC",
+    "role": "Data Scientist",
     "yoe": 0,
     "base": 23,
     "total": 23.0
@@ -12354,7 +12924,7 @@
     "date": "2025-06-29T11:16:39.204265+00:00",
     "location": "",
     "company": "Trinity Life Sciences",
-    "role": "Senior Product Engineer",
+    "role": "SSE",
     "yoe": 2,
     "base": 13.5,
     "total": 15
@@ -12374,7 +12944,7 @@
     "date": "2025-06-28T14:24:39.124822+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "Senior Sre",
+    "role": "SRE 2",
     "yoe": 4,
     "base": 32,
     "total": 42
@@ -12433,8 +13003,8 @@
     "id": 6892751,
     "date": "2025-06-27T16:02:48.032999+00:00",
     "location": "",
-    "company": "Mid-Sized Us Startup",
-    "role": "Mid-Level Engineer",
+    "company": "Startup",
+    "role": "SDE 2",
     "yoe": 4,
     "base": 33,
     "total": null
@@ -12454,7 +13024,7 @@
     "date": "2025-06-27T13:02:42.339046+00:00",
     "location": "",
     "company": "Flipkart",
-    "role": "Ui Engineer 2",
+    "role": "SDE 2",
     "yoe": 2.5,
     "base": 27,
     "total": 43.7
@@ -12524,7 +13094,7 @@
     "date": "2025-06-26T17:16:38.151406+00:00",
     "location": "Pune",
     "company": "ServiceNow",
-    "role": "Senior Software Engineer Qa Automation",
+    "role": "SDET 2",
     "yoe": 6.8,
     "base": 32,
     "total": 42.2
@@ -12574,7 +13144,7 @@
     "date": "2025-06-26T13:37:44.223746+00:00",
     "location": "Chennai",
     "company": "Thinkpalm Technologies",
-    "role": "Software Test Engineer",
+    "role": "SDET",
     "yoe": 2.1,
     "base": 60.0,
     "total": 70.0
@@ -12594,7 +13164,7 @@
     "date": "2025-06-26T13:09:34.020380+00:00",
     "location": "Chennai",
     "company": "Global Analytics",
-    "role": "Senior Qa Automation Engineer",
+    "role": "SDET 2",
     "yoe": 4.6,
     "base": 13.5,
     "total": 14.5
@@ -12604,7 +13174,7 @@
     "date": "2025-06-26T13:02:46.723654+00:00",
     "location": "Chennai",
     "company": "Kinaxis",
-    "role": "Test Automation Developer",
+    "role": "SDET",
     "yoe": 6.6,
     "base": 20,
     "total": 28
@@ -12704,7 +13274,7 @@
     "date": "2025-06-24T19:15:15.734444+00:00",
     "location": "Bengaluru",
     "company": "Google",
-    "role": "L3 / Swe2",
+    "role": "SDE 2",
     "yoe": 2,
     "base": 24,
     "total": 72
@@ -12853,7 +13423,7 @@
     "id": 6877450,
     "date": "2025-06-23T17:31:01.125413+00:00",
     "location": "Bengaluru",
-    "company": "Samya Ai Fractal Analytics",
+    "company": "Fractal",
     "role": "Data Scientist",
     "yoe": 1.3,
     "base": 9.4,
@@ -12934,7 +13504,7 @@
     "date": "2025-06-23T09:59:59.146227+00:00",
     "location": "Bengaluru",
     "company": "Guidewire",
-    "role": "SE2",
+    "role": "SDE 2",
     "yoe": 3,
     "base": 22,
     "total": null
@@ -12974,7 +13544,7 @@
     "date": "2025-06-22T07:26:02.081860+00:00",
     "location": "Bengaluru",
     "company": "Gallagher",
-    "role": "Senior Gen Ai Engineer",
+    "role": "SSE",
     "yoe": 3.1,
     "base": 11.7,
     "total": 31.7
@@ -13014,7 +13584,7 @@
     "date": "2025-06-21T13:07:16.206836+00:00",
     "location": "Bengaluru",
     "company": "Adobe",
-    "role": "Mts-2 Ui",
+    "role": "MTS 2",
     "yoe": 3,
     "base": 26,
     "total": null
@@ -13024,7 +13594,7 @@
     "date": "2025-06-21T10:23:54.960213+00:00",
     "location": "",
     "company": "Microsoft",
-    "role": "Level 59",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 15,
     "total": 31
@@ -13044,7 +13614,7 @@
     "date": "2025-06-20T18:57:20.654606+00:00",
     "location": "",
     "company": "Genesys",
-    "role": "Staff Data Engineer",
+    "role": "Staff Engineer",
     "yoe": 10,
     "base": null,
     "total": 48
@@ -13064,7 +13634,7 @@
     "date": "2025-06-20T17:52:57.104301+00:00",
     "location": "Mumbai",
     "company": "Nomura",
-    "role": "It Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -13074,7 +13644,7 @@
     "date": "2025-06-20T17:52:57.104301+00:00",
     "location": "Mumbai",
     "company": "Nomura",
-    "role": "Cdo Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -13203,7 +13773,7 @@
     "id": 6862691,
     "date": "2025-06-19T16:19:37.874531+00:00",
     "location": "",
-    "company": "Big Product Based Company",
+    "company": "MNC",
     "role": "N/A",
     "yoe": 4,
     "base": 14,
@@ -13234,7 +13804,7 @@
     "date": "2025-06-19T05:07:07.776649+00:00",
     "location": "Hyderabad",
     "company": "Amazon",
-    "role": "Sde Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -13254,7 +13824,7 @@
     "date": "2025-06-18T16:55:47.992270+00:00",
     "location": "",
     "company": "Amazon",
-    "role": "Amazon Sde Intern On Campus",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -13274,7 +13844,7 @@
     "date": "2025-06-18T15:09:18.929234+00:00",
     "location": "Bengaluru",
     "company": "Qualcomm",
-    "role": "Engineer Ml Systems",
+    "role": "ML Engineer",
     "yoe": 1.5,
     "base": 19.5,
     "total": 42
@@ -13283,7 +13853,7 @@
     "id": 6858262,
     "date": "2025-06-18T14:45:23.871811+00:00",
     "location": "",
-    "company": "Linkedin India",
+    "company": "LinkedIn",
     "role": "Staff Engineer",
     "yoe": 10,
     "base": 88,
@@ -13403,8 +13973,8 @@
     "id": 6851654,
     "date": "2025-06-16T18:55:32.344714+00:00",
     "location": "Bengaluru",
-    "company": "Goldman Sachs India",
-    "role": "Associate Tech",
+    "company": "Goldman Sachs",
+    "role": "SDE 1",
     "yoe": 3,
     "base": 42,
     "total": 45.0
@@ -13414,7 +13984,7 @@
     "date": "2025-06-16T13:51:14.306761+00:00",
     "location": "",
     "company": "Mts",
-    "role": "Ai Backend Developer",
+    "role": "SDE",
     "yoe": 3,
     "base": 30,
     "total": 44
@@ -13454,7 +14024,7 @@
     "date": "2025-06-16T07:02:52.193352+00:00",
     "location": "Remote",
     "company": "Twilio",
-    "role": "Senior Full Stack Eng P3",
+    "role": "SSE",
     "yoe": 5,
     "base": 42,
     "total": 56.5
@@ -13554,7 +14124,7 @@
     "date": "2025-06-15T06:54:08.674540+00:00",
     "location": "Bengaluru",
     "company": "IBM",
-    "role": "Software Developer",
+    "role": "SDE",
     "yoe": 7.8,
     "base": 37,
     "total": 41
@@ -13613,7 +14183,7 @@
     "id": 6841847,
     "date": "2025-06-14T06:56:10.620170+00:00",
     "location": "",
-    "company": "Early-Stage Startup",
+    "company": "Startup",
     "role": "N/A",
     "yoe": 1.92,
     "base": 25,
@@ -13644,7 +14214,7 @@
     "date": "2025-06-13T14:59:53.638750+00:00",
     "location": "",
     "company": "Flipkart",
-    "role": "Software Developer",
+    "role": "SDE",
     "yoe": null,
     "base": 29,
     "total": 35.9
@@ -13654,7 +14224,7 @@
     "date": "2025-06-13T14:59:53.638750+00:00",
     "location": "",
     "company": "DP World",
-    "role": "Software Developer",
+    "role": "SDE",
     "yoe": null,
     "base": 32.5,
     "total": 38.4
@@ -13664,7 +14234,7 @@
     "date": "2025-06-13T14:59:53.638750+00:00",
     "location": "",
     "company": "Morgan Stanley",
-    "role": "Software Developer",
+    "role": "SDE",
     "yoe": null,
     "base": 29,
     "total": 33.35
@@ -13674,7 +14244,7 @@
     "date": "2025-06-13T12:42:58.419477+00:00",
     "location": "",
     "company": "Hft1",
-    "role": "Infrastructure Specialist",
+    "role": "SDE",
     "yoe": 0,
     "base": 38,
     "total": 45
@@ -13684,7 +14254,7 @@
     "date": "2025-06-13T12:42:58.419477+00:00",
     "location": "",
     "company": "Hft2",
-    "role": "Quant Analyst",
+    "role": "Analyst",
     "yoe": 0,
     "base": 30,
     "total": 40
@@ -13734,7 +14304,7 @@
     "date": "2025-06-13T07:26:37.246727+00:00",
     "location": "Bengaluru",
     "company": "PhonePe",
-    "role": "Software Engineer Backend",
+    "role": "SDE",
     "yoe": 1.83,
     "base": 22,
     "total": 41.3
@@ -13754,7 +14324,7 @@
     "date": "2025-06-12T22:17:28.385311+00:00",
     "location": "Bengaluru",
     "company": "Veeam",
-    "role": "Experienced Developer",
+    "role": "SDE 2",
     "yoe": 5,
     "base": 35,
     "total": 38
@@ -13764,7 +14334,7 @@
     "date": "2025-06-12T22:06:39.859282+00:00",
     "location": "Bengaluru",
     "company": "American Express",
-    "role": "Eng1Neer 2",
+    "role": "SDE 2",
     "yoe": 5.2,
     "base": 23,
     "total": 26
@@ -13774,7 +14344,7 @@
     "date": "2025-06-12T21:50:43.057442+00:00",
     "location": "Bengaluru",
     "company": "ThoughtWorks",
-    "role": "Senior Consultant Node.Js",
+    "role": "Consultant",
     "yoe": 4.5,
     "base": 22,
     "total": 25
@@ -13814,7 +14384,7 @@
     "date": "2025-06-12T17:12:14.291512+00:00",
     "location": "Remote",
     "company": "Walmart",
-    "role": "Sde Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -13904,7 +14474,7 @@
     "date": "2025-06-11T16:43:09.173177+00:00",
     "location": "Bengaluru",
     "company": "Hft",
-    "role": "Analyst Devops",
+    "role": "SRE",
     "yoe": 0.5,
     "base": 13,
     "total": 15
@@ -13924,7 +14494,7 @@
     "date": "2025-06-11T15:15:07.885257+00:00",
     "location": "Chennai",
     "company": "KLA Tencor",
-    "role": "Associate Technical Lead Sde 3",
+    "role": "Tech Lead",
     "yoe": 4,
     "base": 28,
     "total": 45.8
@@ -13994,7 +14564,7 @@
     "date": "2025-06-10T05:03:28.672189+00:00",
     "location": "Bengaluru",
     "company": "Mcafee",
-    "role": "Sde Grade 6",
+    "role": "SDE",
     "yoe": 8,
     "base": 23,
     "total": 26.2
@@ -14004,7 +14574,7 @@
     "date": "2025-06-09T21:59:20.710790+00:00",
     "location": "Mumbai",
     "company": "Idfc",
-    "role": "Senior Ds",
+    "role": "Senior Data Scientist",
     "yoe": 4.5,
     "base": 42,
     "total": 77
@@ -14074,7 +14644,7 @@
     "date": "2025-06-07T14:12:30.383208+00:00",
     "location": "Bengaluru",
     "company": "Google",
-    "role": "L4 / Swe21",
+    "role": "SDE 2",
     "yoe": 4,
     "base": 41.5,
     "total": 83.5
@@ -14084,7 +14654,7 @@
     "date": "2025-06-07T14:00:30.825341+00:00",
     "location": "Bengaluru",
     "company": "Uber",
-    "role": "Software Engineer I",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 23,
     "total": 38.6685
@@ -14154,7 +14724,7 @@
     "date": "2025-06-06T11:48:09.159713+00:00",
     "location": "Chennai",
     "company": "Citi",
-    "role": "Assistant Vice President",
+    "role": "AVP",
     "yoe": 8,
     "base": 45,
     "total": null
@@ -14213,7 +14783,7 @@
     "id": 6814294,
     "date": "2025-06-05T16:07:27.045684+00:00",
     "location": "Bengaluru",
-    "company": "Invictus Data Ai",
+    "company": "Invictus",
     "role": "SSE",
     "yoe": 4,
     "base": 23,
@@ -14244,7 +14814,7 @@
     "date": "2025-06-05T12:51:19.295553+00:00",
     "location": "Bengaluru",
     "company": "Amazon",
-    "role": "Sde L4",
+    "role": "SDE 2",
     "yoe": null,
     "base": 18,
     "total": 39
@@ -14304,7 +14874,7 @@
     "date": "2025-06-04T20:09:22.310094+00:00",
     "location": "Bengaluru",
     "company": "Oracle",
-    "role": "Backend Dev",
+    "role": "SDE",
     "yoe": 7,
     "base": 43,
     "total": 66
@@ -14343,7 +14913,7 @@
     "id": 6809731,
     "date": "2025-06-04T07:09:39.542002+00:00",
     "location": "Hyderabad",
-    "company": "Digital Ocean",
+    "company": "DigitalOcean",
     "role": "SDE 2",
     "yoe": 3.8,
     "base": 24,
@@ -14454,7 +15024,7 @@
     "date": "2025-06-01T18:50:10.111726+00:00",
     "location": "Chennai",
     "company": "Workday",
-    "role": "Sde P2",
+    "role": "SDE 2",
     "yoe": 2,
     "base": 24,
     "total": 33.6
@@ -14504,7 +15074,7 @@
     "date": "2025-05-31T09:44:28.456958+00:00",
     "location": "",
     "company": "Kunato Ltd",
-    "role": "Sr Sde",
+    "role": "SSE",
     "yoe": 5,
     "base": 43,
     "total": null
@@ -14513,7 +15083,7 @@
     "id": 6798207,
     "date": "2025-05-31T09:44:28.456958+00:00",
     "location": "",
-    "company": "Mid Size Startup With 200-300 Peeps (Some 15+ Yr Old Company)",
+    "company": "Startup",
     "role": "Tech Lead",
     "yoe": 5,
     "base": 36,
@@ -14574,7 +15144,7 @@
     "date": "2025-05-30T12:27:32.112848+00:00",
     "location": "Bengaluru",
     "company": "FICO",
-    "role": "Lead Software Engineer Python",
+    "role": "Lead Engineer",
     "yoe": 9.5,
     "base": 40,
     "total": 59.0
@@ -14634,7 +15204,7 @@
     "date": "2025-05-30T08:35:41.102322+00:00",
     "location": "Bengaluru",
     "company": "Target",
-    "role": "Software Engineer L4",
+    "role": "SDE 2",
     "yoe": 2.5,
     "base": 17,
     "total": 18.2
@@ -14654,7 +15224,7 @@
     "date": "2025-05-30T07:14:21.315914+00:00",
     "location": "",
     "company": "Phone Pe",
-    "role": "Software Engineer Android",
+    "role": "SDE",
     "yoe": 3,
     "base": 32,
     "total": 60
@@ -14664,7 +15234,7 @@
     "date": "2025-05-30T07:14:21.315914+00:00",
     "location": "",
     "company": "Media.Net",
-    "role": "Software Engineer Android",
+    "role": "SDE",
     "yoe": null,
     "base": 32,
     "total": 36
@@ -14754,7 +15324,7 @@
     "date": "2025-05-29T03:15:06.191358+00:00",
     "location": "Hyderabad",
     "company": "Qualcomm",
-    "role": "Ml Engineer",
+    "role": "ML Engineer",
     "yoe": 2,
     "base": 20,
     "total": 40
@@ -14873,7 +15443,7 @@
     "id": 6783342,
     "date": "2025-05-26T14:47:25.567340+00:00",
     "location": "Bengaluru",
-    "company": "Gaming Startup",
+    "company": "Startup",
     "role": "SDE",
     "yoe": 2,
     "base": 9.0,
@@ -14894,7 +15464,7 @@
     "date": "2025-05-26T05:29:19.059503+00:00",
     "location": "Bengaluru",
     "company": "Pine Labs",
-    "role": "Sde Offer",
+    "role": "SDE",
     "yoe": 3,
     "base": 15.5,
     "total": 17
@@ -14904,7 +15474,7 @@
     "date": "2025-05-25T18:33:58.925960+00:00",
     "location": "Bengaluru",
     "company": "Qualcomm",
-    "role": "Ml Systems Engineer",
+    "role": "ML Engineer",
     "yoe": 0,
     "base": 19.5,
     "total": 51
@@ -14964,7 +15534,7 @@
     "date": "2025-05-25T03:31:27.541815+00:00",
     "location": "Pan India",
     "company": "Accenture",
-    "role": "Advanced App Engineering Analyst",
+    "role": "SDE 2",
     "yoe": null,
     "base": 9,
     "total": 11.89
@@ -14973,7 +15543,7 @@
     "id": 6775654,
     "date": "2025-05-24T08:06:08.803255+00:00",
     "location": "Hyderabad",
-    "company": "Google India",
+    "company": "Google",
     "role": "SDE 2",
     "yoe": 4.5,
     "base": 39.1,
@@ -15094,7 +15664,7 @@
     "date": "2025-05-22T09:34:41.883123+00:00",
     "location": "Hyderabad",
     "company": "Google",
-    "role": "Sde 21 L4",
+    "role": "SDE 2",
     "yoe": 3.8,
     "base": 39,
     "total": 88.22117
@@ -15144,7 +15714,7 @@
     "date": "2025-05-21T14:13:57.637132+00:00",
     "location": "Bengaluru",
     "company": "Alteryx",
-    "role": "Developer Experience Engineer",
+    "role": "SDE",
     "yoe": 2,
     "base": 30.74,
     "total": 34.64
@@ -15164,7 +15734,7 @@
     "date": "2025-05-21T12:01:42.538208+00:00",
     "location": "Bengaluru",
     "company": "Goldman Sachs",
-    "role": "System Engineer",
+    "role": "SDE",
     "yoe": null,
     "base": 26.5,
     "total": 31.5
@@ -15234,7 +15804,7 @@
     "date": "2025-05-20T14:48:32.414503+00:00",
     "location": "Bengaluru",
     "company": "Engineering Institute In Bengaluru",
-    "role": "Assistant Professor",
+    "role": "N/A",
     "yoe": null,
     "base": 7.2,
     "total": null
@@ -15243,8 +15813,8 @@
     "id": 6763629,
     "date": "2025-05-20T14:48:32.414503+00:00",
     "location": "Bengaluru",
-    "company": "Small It Startup Near My Home",
-    "role": "Software Developer",
+    "company": "Startup",
+    "role": "SDE",
     "yoe": null,
     "base": 2.4,
     "total": null
@@ -15254,7 +15824,7 @@
     "date": "2025-05-20T14:42:28.668658+00:00",
     "location": "Remote",
     "company": "Indeed",
-    "role": "L2(Data Engineering)",
+    "role": "SDE 1",
     "yoe": 3,
     "base": 35.4,
     "total": 36.5
@@ -15293,7 +15863,7 @@
     "id": 6763043,
     "date": "2025-05-20T10:58:47.218672+00:00",
     "location": "",
-    "company": "20-Member Ai Startup",
+    "company": "Startup",
     "role": "ML Engineer",
     "yoe": 0,
     "base": 30,
@@ -15303,8 +15873,8 @@
     "id": 6763043,
     "date": "2025-05-20T10:58:47.218672+00:00",
     "location": "",
-    "company": "Well-Known Financial Services Bank",
-    "role": "Analyst Role",
+    "company": "MNC",
+    "role": "Analyst",
     "yoe": 0,
     "base": 26,
     "total": 27
@@ -15314,7 +15884,7 @@
     "date": "2025-05-20T09:31:08.003314+00:00",
     "location": "",
     "company": "Adobe Mts 2 C++ (2025)",
-    "role": "Adobe Mts 2 C++",
+    "role": "MTS 2",
     "yoe": null,
     "base": 26,
     "total": 91.52441
@@ -15334,7 +15904,7 @@
     "date": "2025-05-20T02:36:27.460151+00:00",
     "location": "",
     "company": "Databricks",
-    "role": "Senior Se",
+    "role": "SSE",
     "yoe": null,
     "base": 70,
     "total": null
@@ -15354,7 +15924,7 @@
     "date": "2025-05-19T13:17:06.225802+00:00",
     "location": "",
     "company": "MakeMyTrip",
-    "role": "Lead Sde",
+    "role": "Lead Engineer",
     "yoe": 6,
     "base": 40.5,
     "total": 45
@@ -15404,7 +15974,7 @@
     "date": "2025-05-18T05:47:55.970312+00:00",
     "location": "Bengaluru",
     "company": "Juspay",
-    "role": "Product Engineer 1",
+    "role": "SDE 1",
     "yoe": 2.67,
     "base": 11,
     "total": 13
@@ -15464,7 +16034,7 @@
     "date": "2025-05-17T09:18:32.448994+00:00",
     "location": "Bengaluru",
     "company": "Microsoft",
-    "role": "Mobile Developer",
+    "role": "SDE",
     "yoe": null,
     "base": 50,
     "total": 61.2
@@ -15494,7 +16064,7 @@
     "date": "2025-05-17T04:02:54.704335+00:00",
     "location": "Chennai",
     "company": "Fiserv",
-    "role": "Technology Analyst Program",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 8.8,
     "total": 10.5
@@ -15534,7 +16104,7 @@
     "date": "2025-05-16T12:06:27.299854+00:00",
     "location": "Hyderabad",
     "company": "ServiceNow",
-    "role": "Software Engineer Ic2",
+    "role": "SDE 2",
     "yoe": 2.5,
     "base": 26.5,
     "total": 38.5
@@ -15544,7 +16114,7 @@
     "date": "2025-05-16T11:54:45.359926+00:00",
     "location": "Bengaluru",
     "company": "Google",
-    "role": "L4 / Swe 3",
+    "role": "SDE 3",
     "yoe": 4,
     "base": 37.5,
     "total": null
@@ -15574,7 +16144,7 @@
     "date": "2025-05-16T03:36:29.822910+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "Applied Scientist 2",
+    "role": "Data Scientist",
     "yoe": 4,
     "base": 42,
     "total": 80.2
@@ -15633,7 +16203,7 @@
     "id": 6744994,
     "date": "2025-05-14T22:16:13.983289+00:00",
     "location": "Bengaluru",
-    "company": "Startup (Series A)",
+    "company": "Startup",
     "role": "SDE 2",
     "yoe": null,
     "base": 40,
@@ -15674,7 +16244,7 @@
     "date": "2025-05-14T08:39:00.592907+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "Application Developer",
+    "role": "SDE",
     "yoe": 2,
     "base": 20,
     "total": 22.8
@@ -15694,7 +16264,7 @@
     "date": "2025-05-14T06:18:54.794991+00:00",
     "location": "Bengaluru",
     "company": "Ford Motors",
-    "role": "SG8",
+    "role": "SDE 2",
     "yoe": 4.5,
     "base": 51,
     "total": 68
@@ -15744,7 +16314,7 @@
     "date": "2025-05-13T11:35:06.395134+00:00",
     "location": "Bengaluru",
     "company": "Swiggy",
-    "role": "DS 1",
+    "role": "Data Scientist",
     "yoe": 0.5,
     "base": 20,
     "total": 30
@@ -15754,7 +16324,7 @@
     "date": "2025-05-13T10:29:58.753336+00:00",
     "location": "Bengaluru",
     "company": "Flipkart",
-    "role": "DS 2",
+    "role": "Data Scientist",
     "yoe": 0.5,
     "base": 30,
     "total": 48
@@ -15784,7 +16354,7 @@
     "date": "2025-05-13T02:43:39.541709+00:00",
     "location": "Bengaluru",
     "company": "Google",
-    "role": "Swe 2 L3",
+    "role": "SDE 2",
     "yoe": 2,
     "base": 24.1,
     "total": 45.5
@@ -15814,7 +16384,7 @@
     "date": "2025-05-12T15:40:36.601138+00:00",
     "location": "Gurugram",
     "company": "MakeMyTrip",
-    "role": "Sen1Or Sde 2",
+    "role": "SSE",
     "yoe": 4,
     "base": 33,
     "total": 33
@@ -15853,7 +16423,7 @@
     "id": 6733896,
     "date": "2025-05-11T10:46:35.548379+00:00",
     "location": "Bengaluru",
-    "company": "Healthtech Startup",
+    "company": "Startup",
     "role": "SDE 1",
     "yoe": 0,
     "base": 12,
@@ -15964,7 +16534,7 @@
     "date": "2025-05-09T12:27:00.423139+00:00",
     "location": "Bengaluru",
     "company": "Super.Money Flipkart",
-    "role": "UI 2",
+    "role": "SDE 2",
     "yoe": 3.5,
     "base": 35,
     "total": 35.0
@@ -16024,7 +16594,7 @@
     "date": "2025-05-08T17:17:51.900276+00:00",
     "location": "",
     "company": "Meta",
-    "role": "Level 5",
+    "role": "SSE",
     "yoe": 0,
     "base": 62.7,
     "total": 76.405
@@ -16034,7 +16604,7 @@
     "date": "2025-05-08T17:17:51.900276+00:00",
     "location": "",
     "company": "Google",
-    "role": "Level 5",
+    "role": "SSE",
     "yoe": 0,
     "base": 60.5,
     "total": 78.675
@@ -16114,7 +16684,7 @@
     "date": "2025-05-07T08:41:16.025125+00:00",
     "location": "Bengaluru",
     "company": "Applied Materials",
-    "role": "Associate Tech Lead",
+    "role": "Lead Engineer",
     "yoe": 5.83,
     "base": 25.1,
     "total": 29.61
@@ -16133,7 +16703,7 @@
     "id": 6721165,
     "date": "2025-05-06T18:24:22.515203+00:00",
     "location": "Kolkata",
-    "company": "Pwc India",
+    "company": "PwC",
     "role": "Associate",
     "yoe": null,
     "base": 10,
@@ -16224,7 +16794,7 @@
     "date": "2025-05-05T19:08:00.743447+00:00",
     "location": "Bengaluru",
     "company": "Super.Money By Flipkart",
-    "role": "Ui Engineer 1",
+    "role": "SDE 1",
     "yoe": 1.9,
     "base": 22,
     "total": 24
@@ -16293,7 +16863,7 @@
     "id": 6716268,
     "date": "2025-05-05T07:58:37.759347+00:00",
     "location": "Bengaluru",
-    "company": "Series D Startup",
+    "company": "Startup",
     "role": "Platform Engineer",
     "yoe": 4.6,
     "base": 35,
@@ -16373,7 +16943,7 @@
     "id": 6714691,
     "date": "2025-05-04T17:21:49.399964+00:00",
     "location": "Bengaluru",
-    "company": "Seed Stage Startup",
+    "company": "Startup",
     "role": "N/A",
     "yoe": 2,
     "base": 14,
@@ -16404,7 +16974,7 @@
     "date": "2025-05-04T07:44:31.151097+00:00",
     "location": "",
     "company": "Uber",
-    "role": "Senior",
+    "role": "SSE",
     "yoe": 8,
     "base": null,
     "total": 14.1
@@ -16414,7 +16984,7 @@
     "date": "2025-05-04T07:44:31.151097+00:00",
     "location": "",
     "company": "Meta",
-    "role": "Senior",
+    "role": "SSE",
     "yoe": 8,
     "base": null,
     "total": 13.0
@@ -16424,7 +16994,7 @@
     "date": "2025-05-04T07:44:31.151097+00:00",
     "location": "",
     "company": "Coupang",
-    "role": "Senior",
+    "role": "SSE",
     "yoe": 8,
     "base": null,
     "total": 13.0
@@ -16434,7 +17004,7 @@
     "date": "2025-05-04T07:44:31.151097+00:00",
     "location": "",
     "company": "Confluent",
-    "role": "Senior",
+    "role": "SSE",
     "yoe": 8,
     "base": null,
     "total": 12.6
@@ -16444,7 +17014,7 @@
     "date": "2025-05-04T07:44:31.151097+00:00",
     "location": "",
     "company": "DocuSign",
-    "role": "Senior",
+    "role": "SSE",
     "yoe": 8,
     "base": null,
     "total": 10.2
@@ -16454,7 +17024,7 @@
     "date": "2025-05-04T07:44:31.151097+00:00",
     "location": "",
     "company": "Samsara",
-    "role": "Senior",
+    "role": "SSE",
     "yoe": 8,
     "base": null,
     "total": 10.6
@@ -16464,7 +17034,7 @@
     "date": "2025-05-04T07:44:31.151097+00:00",
     "location": "",
     "company": "Roku",
-    "role": "Senior",
+    "role": "SSE",
     "yoe": 8,
     "base": null,
     "total": 10.0
@@ -16564,7 +17134,7 @@
     "date": "2025-04-30T18:21:10.618818+00:00",
     "location": "Bengaluru",
     "company": "Scaler",
-    "role": "Scaler Ai Engineer Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -16574,7 +17144,7 @@
     "date": "2025-04-30T11:32:32.802125+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "Sse H",
+    "role": "SSE",
     "yoe": 6,
     "base": 27.24,
     "total": 38.9
@@ -16584,7 +17154,7 @@
     "date": "2025-04-30T11:32:32.802125+00:00",
     "location": "Bengaluru",
     "company": "Sigmoid",
-    "role": "SDE 21",
+    "role": "SDE 2",
     "yoe": 6,
     "base": 31,
     "total": 34.6
@@ -16604,7 +17174,7 @@
     "date": "2025-04-29T19:12:45.091828+00:00",
     "location": "",
     "company": "Microsoft",
-    "role": "L61 Azure Team",
+    "role": "SDE 3",
     "yoe": 3.1,
     "base": 32,
     "total": 50.0
@@ -16643,7 +17213,7 @@
     "id": 6699555,
     "date": "2025-04-29T18:12:19.959279+00:00",
     "location": "Hyderabad",
-    "company": "Digitalocean",
+    "company": "DigitalOcean",
     "role": "SDE 2",
     "yoe": 2.8,
     "base": 25,
@@ -16664,7 +17234,7 @@
     "date": "2025-04-29T13:41:49.870543+00:00",
     "location": "",
     "company": "Microsoft",
-    "role": "Security Org",
+    "role": "N/A",
     "yoe": 5,
     "base": 42,
     "total": 52
@@ -16674,7 +17244,7 @@
     "date": "2025-04-29T13:41:49.870543+00:00",
     "location": "",
     "company": "Atlassian",
-    "role": "Ecosystem Team",
+    "role": "N/A",
     "yoe": 5,
     "base": 50,
     "total": 56
@@ -16694,7 +17264,7 @@
     "date": "2025-04-29T13:31:03.881492+00:00",
     "location": "Hyderabad",
     "company": "Google",
-    "role": "SDE 21",
+    "role": "SDE 2",
     "yoe": 2.7,
     "base": 39,
     "total": 88.22
@@ -16734,7 +17304,7 @@
     "date": "2025-04-29T07:50:57.576245+00:00",
     "location": "Remote",
     "company": "Citrix",
-    "role": "Senior Systems Software Engineer",
+    "role": "SSE",
     "yoe": 3.7,
     "base": 26,
     "total": 28
@@ -16834,7 +17404,7 @@
     "date": "2025-04-27T14:19:11.892623+00:00",
     "location": "Noida",
     "company": "Adobe",
-    "role": "CS 2",
+    "role": "SDE 2",
     "yoe": 7,
     "base": 49,
     "total": 87
@@ -16844,7 +17414,7 @@
     "date": "2025-04-27T07:26:35.574933+00:00",
     "location": "",
     "company": "ServiceNow",
-    "role": "Software Engineer Ui Ic2",
+    "role": "SDE 2",
     "yoe": 3.9,
     "base": 23.7,
     "total": 35
@@ -16883,7 +17453,7 @@
     "id": 6689040,
     "date": "2025-04-26T13:39:27.504606+00:00",
     "location": "",
-    "company": "Unicorn Start-Up",
+    "company": "Startup",
     "role": "SDE 1",
     "yoe": 1.5,
     "base": 25,
@@ -16944,7 +17514,7 @@
     "date": "2025-04-25T08:36:27.897192+00:00",
     "location": "",
     "company": "JPMorgan Chase",
-    "role": "Software Engineer Associate",
+    "role": "SDE 1",
     "yoe": 2.1,
     "base": 29,
     "total": 35.4
@@ -16954,7 +17524,7 @@
     "date": "2025-04-25T08:36:27.897192+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "Member Of Technical Staff",
+    "role": "MTS",
     "yoe": 2.1,
     "base": 28.87,
     "total": 45.47
@@ -16994,7 +17564,7 @@
     "date": "2025-04-25T02:51:49.210459+00:00",
     "location": "",
     "company": "PhonePe",
-    "role": "Software Engg",
+    "role": "SDE",
     "yoe": 3.1,
     "base": 30,
     "total": 37.5
@@ -17054,7 +17624,7 @@
     "date": "2025-04-22T19:04:40.726638+00:00",
     "location": "",
     "company": "Alteryx",
-    "role": "Associate Developer Experience Engineer",
+    "role": "SDE 1",
     "yoe": 2,
     "base": 30.74,
     "total": null
@@ -17064,7 +17634,7 @@
     "date": "2025-04-22T10:36:27.730722+00:00",
     "location": "",
     "company": "LinkedIn",
-    "role": "Software Engineer Fullstack",
+    "role": "SDE",
     "yoe": 3.8333333333333335,
     "base": 39,
     "total": 59
@@ -17304,7 +17874,7 @@
     "date": "2025-04-18T15:00:18.256740+00:00",
     "location": "Hyderabad",
     "company": "ServiceNow",
-    "role": "Sse Ic3",
+    "role": "SSE",
     "yoe": 5.1,
     "base": 35,
     "total": 51.7
@@ -17314,7 +17884,7 @@
     "date": "2025-04-18T14:42:05.322335+00:00",
     "location": "Bengaluru",
     "company": "Visa",
-    "role": "Software Engineer Ic4",
+    "role": "SDE 4",
     "yoe": 1.8,
     "base": 17,
     "total": 22
@@ -17324,7 +17894,7 @@
     "date": "2025-04-18T14:42:05.322335+00:00",
     "location": "Hyderabad",
     "company": "Amazon",
-    "role": "System Development Engineer L4",
+    "role": "SDE 2",
     "yoe": 1.8,
     "base": 21.5,
     "total": 25.108
@@ -17394,7 +17964,7 @@
     "date": "2025-04-17T08:28:24.124546+00:00",
     "location": "",
     "company": "IBM",
-    "role": "Software Developer",
+    "role": "SDE",
     "yoe": 1.5,
     "base": 10,
     "total": 15
@@ -17434,7 +18004,7 @@
     "date": "2025-04-16T17:07:57.986769+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SE3",
+    "role": "SDE 3",
     "yoe": 2.8,
     "base": 22,
     "total": 27.95
@@ -17504,7 +18074,7 @@
     "date": "2025-04-16T10:10:38.380936+00:00",
     "location": "Bengaluru",
     "company": "IBM",
-    "role": "Application Developer-Cloud Fullstack",
+    "role": "SDE",
     "yoe": null,
     "base": 15,
     "total": 15.0
@@ -17673,7 +18243,7 @@
     "id": 6647910,
     "date": "2025-04-13T20:22:47.816354+00:00",
     "location": "",
-    "company": "Apple India",
+    "company": "Apple",
     "role": "SDE 3",
     "yoe": 4.8,
     "base": 40,
@@ -17694,7 +18264,7 @@
     "date": "2025-04-13T16:12:47.305832+00:00",
     "location": "",
     "company": "Cohesity",
-    "role": "Mts-4",
+    "role": "MTS 4",
     "yoe": 7,
     "base": 69,
     "total": 99
@@ -17724,7 +18294,7 @@
     "date": "2025-04-13T15:58:38.077686+00:00",
     "location": "",
     "company": "Adobe",
-    "role": "CS2",
+    "role": "SDE 2",
     "yoe": 7,
     "base": 55,
     "total": 74.825
@@ -17794,7 +18364,7 @@
     "date": "2025-04-12T04:07:09.425746+00:00",
     "location": "Bengaluru",
     "company": "Meta",
-    "role": "E6",
+    "role": "Staff Engineer",
     "yoe": 15,
     "base": 11,
     "total": null
@@ -17804,7 +18374,7 @@
     "date": "2025-04-11T17:59:16.387742+00:00",
     "location": "Bengaluru",
     "company": "Rippling",
-    "role": "Frontend Eng1Neer 2",
+    "role": "SDE 2",
     "yoe": 2.8,
     "base": 60,
     "total": 71
@@ -17864,7 +18434,7 @@
     "date": "2025-04-11T09:52:52.151308+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 21",
+    "role": "SDE 2",
     "yoe": 2.8,
     "base": 17,
     "total": 24
@@ -17914,7 +18484,7 @@
     "date": "2025-04-10T15:11:58.595432+00:00",
     "location": "Bengaluru",
     "company": "Bt Group",
-    "role": "Software Engineering Professional",
+    "role": "SDE",
     "yoe": 3.17,
     "base": 9.0,
     "total": 11.33
@@ -17984,7 +18554,7 @@
     "date": "2025-04-08T15:51:47.324946+00:00",
     "location": "",
     "company": "Google",
-    "role": "Sde Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -18014,7 +18584,7 @@
     "date": "2025-04-08T13:47:47.721132+00:00",
     "location": "Bengaluru",
     "company": "Nike",
-    "role": "Software Engineer I",
+    "role": "SDE 1",
     "yoe": 1.3,
     "base": 11.4,
     "total": 14
@@ -18024,7 +18594,7 @@
     "date": "2025-04-08T13:47:47.430693+00:00",
     "location": "Bengaluru",
     "company": "Coupang",
-    "role": "Sse L5",
+    "role": "SSE",
     "yoe": 5,
     "base": 58,
     "total": 78.5
@@ -18034,7 +18604,7 @@
     "date": "2025-04-08T13:37:10.013457+00:00",
     "location": "Bengaluru",
     "company": "Goldman Sachs",
-    "role": "Sde Associate",
+    "role": "SDE 1",
     "yoe": 3.5,
     "base": 32,
     "total": 40
@@ -18274,7 +18844,7 @@
     "date": "2025-04-05T09:15:18.382829+00:00",
     "location": "Bengaluru",
     "company": "Visa Inc.",
-    "role": "SWE 1",
+    "role": "SDE 1",
     "yoe": 1.75,
     "base": 17,
     "total": 23
@@ -18343,7 +18913,7 @@
     "id": 6615181,
     "date": "2025-04-04T14:35:10.167193+00:00",
     "location": "",
-    "company": "Us Based Startup",
+    "company": "Startup",
     "role": "SDE",
     "yoe": 4,
     "base": 34,
@@ -18384,7 +18954,7 @@
     "date": "2025-04-03T11:36:57.019775+00:00",
     "location": "",
     "company": "Siemens Eda",
-    "role": "Siemens Eda",
+    "role": "SDE",
     "yoe": 5.8,
     "base": null,
     "total": 62
@@ -18414,7 +18984,7 @@
     "date": "2025-04-02T17:22:55.748891+00:00",
     "location": "Hyderabad",
     "company": "Lloyds Banking Group",
-    "role": "DE 2",
+    "role": "Data Engineer 2",
     "yoe": 2.5,
     "base": 20,
     "total": 21
@@ -18444,7 +19014,7 @@
     "date": "2025-04-02T05:36:24.506496+00:00",
     "location": "",
     "company": "Cisco",
-    "role": "New Grad Software Engineer 1",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 14.5,
     "total": 24.73
@@ -18564,7 +19134,7 @@
     "date": "2025-03-30T16:30:09.604776+00:00",
     "location": "Hyderabad",
     "company": "ServiceNow",
-    "role": "Ic2 Software Engineer",
+    "role": "SDE 2",
     "yoe": 4.0,
     "base": 27,
     "total": 32.0
@@ -18704,7 +19274,7 @@
     "date": "2025-03-28T07:07:45.022610+00:00",
     "location": "Bengaluru",
     "company": "Grab",
-    "role": "Senior Software Engineer G4",
+    "role": "SSE",
     "yoe": 5,
     "base": 46,
     "total": 60
@@ -18724,7 +19294,7 @@
     "date": "2025-03-27T13:48:28.900848+00:00",
     "location": "",
     "company": "Goldman Sachs",
-    "role": "Intern / Full-Time",
+    "role": "Intern",
     "yoe": null,
     "base": null,
     "total": null
@@ -18734,7 +19304,7 @@
     "date": "2025-03-27T13:48:28.900848+00:00",
     "location": "",
     "company": "Microsoft",
-    "role": "Intern / Ppo",
+    "role": "Intern",
     "yoe": null,
     "base": null,
     "total": null
@@ -18744,7 +19314,7 @@
     "date": "2025-03-27T13:48:28.900848+00:00",
     "location": "",
     "company": "Uber",
-    "role": "Intern / Ppo",
+    "role": "Intern",
     "yoe": null,
     "base": null,
     "total": null
@@ -18754,7 +19324,7 @@
     "date": "2025-03-27T13:48:28.900848+00:00",
     "location": "",
     "company": "Google",
-    "role": "Intern / Full-Time",
+    "role": "Intern",
     "yoe": null,
     "base": null,
     "total": null
@@ -18764,7 +19334,7 @@
     "date": "2025-03-27T13:48:28.900848+00:00",
     "location": "",
     "company": "Flipkart",
-    "role": "Intern / Full-Time",
+    "role": "Intern",
     "yoe": null,
     "base": null,
     "total": null
@@ -18784,7 +19354,7 @@
     "date": "2025-03-27T13:48:28.900848+00:00",
     "location": "",
     "company": "Myntra",
-    "role": "Intern / Full-Time",
+    "role": "Intern",
     "yoe": null,
     "base": null,
     "total": null
@@ -18804,7 +19374,7 @@
     "date": "2025-03-27T13:48:28.900848+00:00",
     "location": "",
     "company": "Major League Hacking (Mlh)",
-    "role": "Swe Fellowship",
+    "role": "Intern",
     "yoe": null,
     "base": 4,
     "total": null
@@ -18824,7 +19394,7 @@
     "date": "2025-03-27T13:48:28.900848+00:00",
     "location": "",
     "company": "LinkedIn",
-    "role": "Intern / Full-Time",
+    "role": "Intern",
     "yoe": null,
     "base": null,
     "total": null
@@ -18874,7 +19444,7 @@
     "date": "2025-03-27T13:48:28.900848+00:00",
     "location": "",
     "company": "Amazon",
-    "role": "Intern / Full-Time",
+    "role": "Intern",
     "yoe": null,
     "base": null,
     "total": null
@@ -18884,7 +19454,7 @@
     "date": "2025-03-27T13:48:28.900848+00:00",
     "location": "",
     "company": "Juspay",
-    "role": "Intern / Full-Time",
+    "role": "Intern",
     "yoe": null,
     "base": null,
     "total": null
@@ -18894,7 +19464,7 @@
     "date": "2025-03-27T13:48:28.900848+00:00",
     "location": "",
     "company": "American Express",
-    "role": "Intern / Full-Time",
+    "role": "Intern",
     "yoe": null,
     "base": null,
     "total": null
@@ -18914,7 +19484,7 @@
     "date": "2025-03-27T13:48:28.900848+00:00",
     "location": "",
     "company": "ServiceNow",
-    "role": "Intern / Full-Time",
+    "role": "Intern",
     "yoe": null,
     "base": 27.5,
     "total": null
@@ -18924,7 +19494,7 @@
     "date": "2025-03-27T13:48:28.900848+00:00",
     "location": "",
     "company": "Lowe'S",
-    "role": "Full-Time",
+    "role": "N/A",
     "yoe": null,
     "base": 19,
     "total": null
@@ -18934,7 +19504,7 @@
     "date": "2025-03-27T13:48:28.900848+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "Intern / Full-Time",
+    "role": "Intern",
     "yoe": null,
     "base": 27,
     "total": null
@@ -18944,7 +19514,7 @@
     "date": "2025-03-27T13:48:28.900848+00:00",
     "location": "",
     "company": "Intuit",
-    "role": "Intern / Full-Time",
+    "role": "Intern",
     "yoe": null,
     "base": null,
     "total": null
@@ -18974,7 +19544,7 @@
     "date": "2025-03-27T10:43:16.823367+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "Software Engineer L60",
+    "role": "SDE 2",
     "yoe": 2.8,
     "base": 21.5,
     "total": 33
@@ -19004,7 +19574,7 @@
     "date": "2025-03-26T19:19:18.316095+00:00",
     "location": "Hyderabad",
     "company": "ServiceNow",
-    "role": "Sse Ic3",
+    "role": "SSE",
     "yoe": 7,
     "base": 40,
     "total": 54.4
@@ -19034,7 +19604,7 @@
     "date": "2025-03-26T16:18:33.307755+00:00",
     "location": "Lucknow",
     "company": "IBM",
-    "role": "Software Developer",
+    "role": "SDE",
     "yoe": 7.0,
     "base": 40.77,
     "total": 44.7
@@ -19044,7 +19614,7 @@
     "date": "2025-03-25T20:39:41.245922+00:00",
     "location": "Bengaluru",
     "company": "Slice",
-    "role": "Sde I Backend",
+    "role": "SDE 1",
     "yoe": 1.67,
     "base": 24,
     "total": 30
@@ -19163,7 +19733,7 @@
     "id": 6574197,
     "date": "2025-03-24T14:00:53.736970+00:00",
     "location": "Hyderabad",
-    "company": "Evernorth Health Services",
+    "company": "Evernorth",
     "role": "SSE",
     "yoe": 5,
     "base": 27,
@@ -19264,7 +19834,7 @@
     "date": "2025-03-22T19:30:23.694048+00:00",
     "location": "Bengaluru",
     "company": "HiLabs",
-    "role": "Sde Backend",
+    "role": "SDE",
     "yoe": 3.5,
     "base": 37,
     "total": 44.4
@@ -19304,7 +19874,7 @@
     "date": "2025-03-22T10:04:49.979130+00:00",
     "location": "Bengaluru",
     "company": "Cognizant",
-    "role": "Sr Associate Projects",
+    "role": "SSE",
     "yoe": 5.75,
     "base": 29,
     "total": 32
@@ -19414,7 +19984,7 @@
     "date": "2025-03-21T10:24:09.207615+00:00",
     "location": "Bengaluru",
     "company": "Adobe",
-    "role": "Mts2 Role",
+    "role": "MTS 2",
     "yoe": 2.7,
     "base": 22.5,
     "total": 30.0
@@ -19594,7 +20164,7 @@
     "date": "2025-03-18T14:28:12.450379+00:00",
     "location": "",
     "company": "American Express",
-    "role": "Engineer 2",
+    "role": "SDE 2",
     "yoe": 2.67,
     "base": 28.6,
     "total": 33.7
@@ -19694,7 +20264,7 @@
     "date": "2025-03-17T18:23:32.168384+00:00",
     "location": "Bengaluru",
     "company": "Goldman Sachs",
-    "role": "Sde 2 Associate",
+    "role": "SDE 2",
     "yoe": null,
     "base": 32,
     "total": null
@@ -19724,7 +20294,7 @@
     "date": "2025-03-17T08:30:53.102512+00:00",
     "location": "Chennai",
     "company": "Tekion",
-    "role": "Contract Frontend Engineer",
+    "role": "SDE",
     "yoe": 0.8333333333,
     "base": 14,
     "total": 14
@@ -19784,7 +20354,7 @@
     "date": "2025-03-15T15:03:02.198437+00:00",
     "location": "Pune",
     "company": "OnlineSales.ai",
-    "role": "Senior Software Design Engineer",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 37,
     "total": null
@@ -19814,7 +20384,7 @@
     "date": "2025-03-15T04:01:12.455883+00:00",
     "location": "Remote",
     "company": "Avalara",
-    "role": "Software Engineer I2",
+    "role": "SDE 2",
     "yoe": 1,
     "base": 18,
     "total": 25
@@ -19824,7 +20394,7 @@
     "date": "2025-03-14T21:07:13.674724+00:00",
     "location": "Remote",
     "company": "Apollo.Io",
-    "role": "Senior Frontend Engineer",
+    "role": "SSE",
     "yoe": 6.5,
     "base": 57,
     "total": 80
@@ -19874,7 +20444,7 @@
     "date": "2025-03-13T13:59:27.621186+00:00",
     "location": "Noida",
     "company": "Adobe",
-    "role": "SDE 1",
+    "role": "Computer Scientist 1",
     "yoe": 4.5,
     "base": 35,
     "total": 58
@@ -19884,7 +20454,7 @@
     "date": "2025-03-13T12:46:21.296819+00:00",
     "location": "Noida",
     "company": "Microsoft",
-    "role": "Software Engineer L60",
+    "role": "SDE 2",
     "yoe": 2.7,
     "base": 22,
     "total": 59.8
@@ -20034,7 +20604,7 @@
     "date": "2025-03-11T05:19:52.177063+00:00",
     "location": "Bengaluru",
     "company": "Oracle",
-    "role": "Associate Application Developer",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 15.5,
     "total": 22.5
@@ -20104,7 +20674,7 @@
     "date": "2025-03-09T10:57:46.803078+00:00",
     "location": "Hyderabad",
     "company": "Verizon",
-    "role": "Full Stack Developer 2",
+    "role": "SDE 2",
     "yoe": null,
     "base": 15.8,
     "total": 17.88
@@ -20114,7 +20684,7 @@
     "date": "2025-03-09T10:57:46.803078+00:00",
     "location": "Hyderabad",
     "company": "Fedex",
-    "role": "Full Stack Developer I",
+    "role": "SDE 1",
     "yoe": null,
     "base": 14.5,
     "total": 14.5
@@ -20124,7 +20694,7 @@
     "date": "2025-03-09T09:36:33.694656+00:00",
     "location": "",
     "company": "Lg Ad Solutions Formerly Alphonso",
-    "role": "SWE 1",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 30,
     "total": 30.9
@@ -20164,7 +20734,7 @@
     "date": "2025-03-08T14:11:17.655589+00:00",
     "location": "",
     "company": "Citi",
-    "role": "Java Developer",
+    "role": "SDE",
     "yoe": 4,
     "base": 30.2,
     "total": null
@@ -20174,7 +20744,7 @@
     "date": "2025-03-08T10:54:49.294984+00:00",
     "location": "Hyderabad",
     "company": "Verizon",
-    "role": "Eng1Neer 2 Software Development",
+    "role": "SDE 2",
     "yoe": 3.5,
     "base": 15.5,
     "total": 21.33
@@ -20263,8 +20833,8 @@
     "id": 6511960,
     "date": "2025-03-08T06:13:29.718424+00:00",
     "location": "",
-    "company": "Seed Stage Startup",
-    "role": "Founding Engineer",
+    "company": "Startup",
+    "role": "SDE",
     "yoe": 2.5,
     "base": 45,
     "total": 50
@@ -20364,7 +20934,7 @@
     "date": "2025-03-07T05:05:24.440218+00:00",
     "location": "Hyderabad",
     "company": "Razor Group",
-    "role": "Senior Data Platform Engineer",
+    "role": "Senior Data Engineer",
     "yoe": 2.8,
     "base": 36,
     "total": 38
@@ -20404,7 +20974,7 @@
     "date": "2025-03-06T15:41:48.670154+00:00",
     "location": "Hyderabad",
     "company": "ServiceNow",
-    "role": "Ml Engineer Ic2",
+    "role": "ML Engineer 2",
     "yoe": 2.5,
     "base": 27.5,
     "total": null
@@ -20444,7 +21014,7 @@
     "date": "2025-03-06T07:03:26.597760+00:00",
     "location": "Bengaluru",
     "company": "Visa",
-    "role": "SWE 1",
+    "role": "SDE 1",
     "yoe": 1.92,
     "base": 17,
     "total": 20
@@ -20514,7 +21084,7 @@
     "date": "2025-03-05T18:25:49.936752+00:00",
     "location": "",
     "company": "Capgemini",
-    "role": "Analyst Software Engineer",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 5.5,
     "total": 5.75
@@ -20544,7 +21114,7 @@
     "date": "2025-03-05T13:31:26.063499+00:00",
     "location": "Bengaluru",
     "company": "Google",
-    "role": "Application Engineer L3",
+    "role": "SDE 1",
     "yoe": 8,
     "base": 21,
     "total": 49
@@ -20554,7 +21124,7 @@
     "date": "2025-03-05T13:31:26.063499+00:00",
     "location": "Mumbai",
     "company": "Unnamed Offer",
-    "role": "Unspecified Role",
+    "role": "N/A",
     "yoe": 8,
     "base": null,
     "total": 45
@@ -20564,7 +21134,7 @@
     "date": "2025-03-05T07:14:57.646678+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "Swe-3(In3)",
+    "role": "SDE 3",
     "yoe": 3.5,
     "base": 27.130000000000003,
     "total": 36.5
@@ -20574,7 +21144,7 @@
     "date": "2025-03-05T05:47:21.960107+00:00",
     "location": "Bengaluru",
     "company": "IBM",
-    "role": "Software Developer",
+    "role": "SDE",
     "yoe": 4,
     "base": 14,
     "total": 18
@@ -20614,7 +21184,7 @@
     "date": "2025-03-04T18:27:56.562373+00:00",
     "location": "Remote",
     "company": "Mcgraw Hill",
-    "role": "Ios Developer",
+    "role": "SDE",
     "yoe": 4,
     "base": 22,
     "total": 22
@@ -20694,7 +21264,7 @@
     "date": "2025-03-04T06:58:42.539436+00:00",
     "location": "Bengaluru",
     "company": "Meta",
-    "role": "Sde Mle E4",
+    "role": "SDE 2",
     "yoe": 5,
     "base": 45,
     "total": 78
@@ -20824,7 +21394,7 @@
     "date": "2025-03-02T11:50:07.556585+00:00",
     "location": "Bengaluru",
     "company": "Wayfair",
-    "role": "Sde Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -20844,7 +21414,7 @@
     "date": "2025-03-01T13:14:30.319108+00:00",
     "location": "Bengaluru",
     "company": "ZS Associates",
-    "role": "BTSA",
+    "role": "SDE 1",
     "yoe": 1.6,
     "base": 10,
     "total": 15.92
@@ -20914,7 +21484,7 @@
     "date": "2025-02-28T12:01:14.272997+00:00",
     "location": "",
     "company": "IBM",
-    "role": "Band 7A",
+    "role": "SDE 2",
     "yoe": 4.5,
     "base": 24,
     "total": 30.1
@@ -21024,7 +21594,7 @@
     "date": "2025-02-28T04:25:37.477428+00:00",
     "location": "Hyderabad",
     "company": "Google",
-    "role": "Swe 21 L4",
+    "role": "SDE 2",
     "yoe": 3.5,
     "base": 37.6,
     "total": null
@@ -21034,7 +21604,7 @@
     "date": "2025-02-27T18:48:32.080289+00:00",
     "location": "Noida",
     "company": "Paytm",
-    "role": "Software Engineer Backend",
+    "role": "SDE",
     "yoe": 1.4,
     "base": 11,
     "total": 12
@@ -21043,8 +21613,8 @@
     "id": 6475013,
     "date": "2025-02-27T17:14:08.374589+00:00",
     "location": "Hyderabad",
-    "company": "Service Now",
-    "role": "Sse Ic3",
+    "company": "ServiceNow",
+    "role": "SSE",
     "yoe": 7.5,
     "base": 43,
     "total": 67.5
@@ -21064,7 +21634,7 @@
     "date": "2025-02-27T16:17:54.556415+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "Lead Java Developer Pmts",
+    "role": "MTS 4",
     "yoe": 9.0,
     "base": 52,
     "total": 65.97
@@ -21074,7 +21644,7 @@
     "date": "2025-02-27T12:14:10.119053+00:00",
     "location": "Remote",
     "company": "Oracle",
-    "role": "Application Developer 3",
+    "role": "SDE 3",
     "yoe": 2.5,
     "base": 20,
     "total": 32
@@ -21094,7 +21664,7 @@
     "date": "2025-02-27T10:57:59.424716+00:00",
     "location": "",
     "company": "Deutsche Bank",
-    "role": "Associate Role",
+    "role": "Associate",
     "yoe": 4.2,
     "base": 20,
     "total": 21
@@ -21104,7 +21674,7 @@
     "date": "2025-02-27T10:57:59.424716+00:00",
     "location": "",
     "company": "Synechron",
-    "role": "Sr. Associate - Technology Role",
+    "role": "SSE",
     "yoe": 4.2,
     "base": 27.7,
     "total": 28.7
@@ -21164,7 +21734,7 @@
     "date": "2025-02-26T20:33:00.114133+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "SE 21",
+    "role": "SDE 2",
     "yoe": 4.8,
     "base": 31,
     "total": 62.55
@@ -21173,7 +21743,7 @@
     "id": 6472117,
     "date": "2025-02-26T20:33:00.114133+00:00",
     "location": "",
-    "company": "Us Based Company",
+    "company": "MNC",
     "role": "SDE",
     "yoe": 4.8,
     "base": 40,
@@ -21274,7 +21844,7 @@
     "date": "2025-02-25T12:20:10.915573+00:00",
     "location": "Bengaluru",
     "company": "Oracle",
-    "role": "Mts Devops Position",
+    "role": "MTS",
     "yoe": 8.5,
     "base": 27,
     "total": null
@@ -21294,7 +21864,7 @@
     "date": "2025-02-24T20:50:03.096149+00:00",
     "location": "Bengaluru",
     "company": "DocuSign",
-    "role": "Software Engineer(P2)",
+    "role": "SDE 2",
     "yoe": 2.8,
     "base": 29,
     "total": 44.5
@@ -21444,7 +22014,7 @@
     "date": "2025-02-22T06:41:34.436341+00:00",
     "location": "Bengaluru",
     "company": "Visa",
-    "role": "SWE 1",
+    "role": "SDE 1",
     "yoe": 1,
     "base": 10.4,
     "total": 17
@@ -21524,7 +22094,7 @@
     "date": "2025-02-19T19:18:14.878685+00:00",
     "location": "Bengaluru",
     "company": "Visa",
-    "role": "SWE 1",
+    "role": "SDE 1",
     "yoe": 1.5,
     "base": 19,
     "total": null
@@ -21554,7 +22124,7 @@
     "date": "2025-02-19T13:37:10.881339+00:00",
     "location": "Bengaluru",
     "company": "IBM",
-    "role": "Ibm Isl",
+    "role": "SDE",
     "yoe": 7,
     "base": 48,
     "total": 58
@@ -21594,7 +22164,7 @@
     "date": "2025-02-18T17:48:00.873028+00:00",
     "location": "Pune",
     "company": "Qualys",
-    "role": "Frontend Software Engineer",
+    "role": "SDE",
     "yoe": 2,
     "base": 12,
     "total": null
@@ -21604,7 +22174,7 @@
     "date": "2025-02-18T16:33:41.762325+00:00",
     "location": "Hyderabad",
     "company": "ServiceNow",
-    "role": "Software Engineer Ic2",
+    "role": "SDE 2",
     "yoe": 3,
     "base": 23,
     "total": 34
@@ -21614,7 +22184,7 @@
     "date": "2025-02-18T09:39:51.228772+00:00",
     "location": "Gurugram",
     "company": "Ciena",
-    "role": "Software Engineer New Grad",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 12.3,
     "total": 16
@@ -21634,7 +22204,7 @@
     "date": "2025-02-18T08:30:53.623748+00:00",
     "location": "Delhi",
     "company": "C-Dot",
-    "role": "Scientist-B",
+    "role": "Data Scientist",
     "yoe": 0,
     "base": null,
     "total": 19
@@ -21704,7 +22274,7 @@
     "date": "2025-02-16T17:09:48.516929+00:00",
     "location": "Hyderabad",
     "company": "Razor Group",
-    "role": "Senior Data Platform Engineer",
+    "role": "Senior Data Engineer",
     "yoe": 3.6,
     "base": 36,
     "total": 38
@@ -21884,7 +22454,7 @@
     "date": "2025-02-14T06:00:45.393880+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "Tech Lead Ic3",
+    "role": "Tech Lead",
     "yoe": 6.5,
     "base": 38,
     "total": null
@@ -21934,7 +22504,7 @@
     "date": "2025-02-13T20:33:48.500253+00:00",
     "location": "",
     "company": "Juspay",
-    "role": "Sde Intern + Ppo",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -21944,7 +22514,7 @@
     "date": "2025-02-13T20:11:09.025537+00:00",
     "location": "Hyderabad",
     "company": "ServiceNow",
-    "role": "Software Engineer Ic2",
+    "role": "SDE 2",
     "yoe": 2.5,
     "base": 27,
     "total": 40.5
@@ -22023,7 +22593,7 @@
     "id": 6417899,
     "date": "2025-02-13T13:34:29.224238+00:00",
     "location": "",
-    "company": "Product Based Company",
+    "company": "MNC",
     "role": "SDE 2",
     "yoe": 3,
     "base": 11,
@@ -22104,7 +22674,7 @@
     "date": "2025-02-12T17:07:18.792835+00:00",
     "location": "Bengaluru",
     "company": "Google",
-    "role": "Software Dev L4",
+    "role": "SDE 2",
     "yoe": 2.75,
     "base": 35,
     "total": 80
@@ -22113,7 +22683,7 @@
     "id": 6413629,
     "date": "2025-02-12T15:33:51.693246+00:00",
     "location": "Mumbai",
-    "company": "Us Based Trading Platform",
+    "company": "Startup",
     "role": "SDE",
     "yoe": 2.5,
     "base": 28,
@@ -22223,7 +22793,7 @@
     "id": 6408396,
     "date": "2025-02-11T15:08:29.235436+00:00",
     "location": "",
-    "company": "OCI",
+    "company": "Oracle",
     "role": "SDE 2",
     "yoe": 5,
     "base": 29,
@@ -22324,7 +22894,7 @@
     "date": "2025-02-10T16:05:17.666869+00:00",
     "location": "",
     "company": "Airbnb",
-    "role": "G9",
+    "role": "SSE",
     "yoe": 9,
     "base": 55,
     "total": 120.0
@@ -22354,7 +22924,7 @@
     "date": "2025-02-10T15:08:30.464780+00:00",
     "location": "",
     "company": "Rapido",
-    "role": "PE 2",
+    "role": "SDE 2",
     "yoe": null,
     "base": 30,
     "total": 35
@@ -22404,7 +22974,7 @@
     "date": "2025-02-09T16:50:52.263383+00:00",
     "location": "Bengaluru",
     "company": "Razorpay",
-    "role": "Frontend Engineer",
+    "role": "SDE",
     "yoe": 2.5,
     "base": 15,
     "total": 19
@@ -22444,7 +23014,7 @@
     "date": "2025-02-09T09:16:39.815269+00:00",
     "location": "Remote",
     "company": "Swiggy",
-    "role": "ASDE",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 8,
     "total": 8
@@ -22504,7 +23074,7 @@
     "date": "2025-02-08T12:48:29.863714+00:00",
     "location": "Hyderabad",
     "company": "ServiceNow",
-    "role": "SQA",
+    "role": "SDET",
     "yoe": 3.0,
     "base": 14.5,
     "total": 24.5
@@ -22514,7 +23084,7 @@
     "date": "2025-02-08T09:02:43.950583+00:00",
     "location": "Gurugram",
     "company": "Sirion Labs",
-    "role": "Integration Engineer",
+    "role": "SDE",
     "yoe": 2.5,
     "base": 18.5,
     "total": 20
@@ -22574,7 +23144,7 @@
     "date": "2025-02-07T08:34:17.702512+00:00",
     "location": "Bengaluru",
     "company": "Salesforce",
-    "role": "Salesforce Offer",
+    "role": "SDE",
     "yoe": 3.5,
     "base": 33,
     "total": 51
@@ -22584,7 +23154,7 @@
     "date": "2025-02-07T08:34:17.702512+00:00",
     "location": "Noida",
     "company": "Microsoft",
-    "role": "Microsoft Offer",
+    "role": "N/A",
     "yoe": 3.5,
     "base": 33,
     "total": 59
@@ -22614,7 +23184,7 @@
     "date": "2025-02-07T00:07:21.564117+00:00",
     "location": "India",
     "company": "Visa",
-    "role": "Sw Engineer",
+    "role": "SDE",
     "yoe": 1.5,
     "base": 14,
     "total": 16
@@ -22744,7 +23314,7 @@
     "date": "2025-02-05T17:29:03.034798+00:00",
     "location": "Hyderabad",
     "company": "Deloitte",
-    "role": "Analyst Trainee",
+    "role": "SDE 1",
     "yoe": 0.5,
     "base": 45.0,
     "total": 55.0
@@ -22774,7 +23344,7 @@
     "date": "2025-02-05T06:44:33.707511+00:00",
     "location": "Bengaluru",
     "company": "Saviynt",
-    "role": "SE 3",
+    "role": "SDE 3",
     "yoe": 10,
     "base": 65,
     "total": null
@@ -22804,7 +23374,7 @@
     "date": "2025-02-04T18:00:42.937996+00:00",
     "location": "",
     "company": "Saviynt",
-    "role": "Sen1Or Eng1Neer 21",
+    "role": "SSE",
     "yoe": 11,
     "base": 59,
     "total": 62
@@ -22824,7 +23394,7 @@
     "date": "2025-02-04T17:27:45.923255+00:00",
     "location": "",
     "company": "Saviynt",
-    "role": "Sen1Or Eng1Neer 21",
+    "role": "SSE",
     "yoe": 11,
     "base": 59,
     "total": 62
@@ -22914,7 +23484,7 @@
     "date": "2025-02-03T17:29:54.457639+00:00",
     "location": "Navi Mumbai",
     "company": "Reliance Industries Limited (Ril)",
-    "role": "Graduate Engineer Trainee (Get)",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 7.5,
     "total": 7.5
@@ -22983,8 +23553,8 @@
     "id": 6366976,
     "date": "2025-02-03T10:00:36.529500+00:00",
     "location": "Bengaluru",
-    "company": "Telus Digital Ai",
-    "role": "Devops 2",
+    "company": "Telus Digital",
+    "role": "SRE 2",
     "yoe": 2.6,
     "base": 30,
     "total": 32.4
@@ -22994,7 +23564,7 @@
     "date": "2025-02-03T10:00:36.529500+00:00",
     "location": "Bengaluru",
     "company": "CoinDCX",
-    "role": "Devops 1",
+    "role": "SRE 1",
     "yoe": 2.6,
     "base": 30,
     "total": 31
@@ -23024,7 +23594,7 @@
     "date": "2025-02-02T15:52:25.446317+00:00",
     "location": "",
     "company": "Amazon",
-    "role": "C++ Developer",
+    "role": "SDE",
     "yoe": 0.67,
     "base": 19.17,
     "total": 32.64
@@ -23114,7 +23684,7 @@
     "date": "2025-02-01T10:24:36.075327+00:00",
     "location": "",
     "company": "ServiceNow",
-    "role": "ASE",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 16.0,
     "total": 26.18
@@ -23134,7 +23704,7 @@
     "date": "2025-01-31T20:50:20.658261+00:00",
     "location": "",
     "company": "Salesforce",
-    "role": "Salesforce Smts",
+    "role": "SMTS",
     "yoe": 5.5,
     "base": 48,
     "total": 71
@@ -23184,7 +23754,7 @@
     "date": "2025-01-30T18:16:54.931892+00:00",
     "location": "Bengaluru",
     "company": "Visa",
-    "role": "Software Dev I",
+    "role": "SDE 1",
     "yoe": 1.5,
     "base": 20,
     "total": 23
@@ -23254,7 +23824,7 @@
     "date": "2025-01-30T09:35:29.066510+00:00",
     "location": "",
     "company": "Apollo",
-    "role": "Senior Frontend Engineer L5",
+    "role": "SSE",
     "yoe": 5.5,
     "base": 60,
     "total": 120.0
@@ -23314,7 +23884,7 @@
     "date": "2025-01-29T09:48:56.169249+00:00",
     "location": "",
     "company": "Flipkart",
-    "role": "Sde Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -23414,7 +23984,7 @@
     "date": "2025-01-27T19:17:13.295920+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SE3",
+    "role": "SDE 3",
     "yoe": 2.6,
     "base": 25,
     "total": 34
@@ -23434,7 +24004,7 @@
     "date": "2025-01-27T17:00:40.787023+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SE 3",
+    "role": "SDE 3",
     "yoe": 2.6,
     "base": 25,
     "total": 34
@@ -23524,7 +24094,7 @@
     "date": "2025-01-25T17:58:54.763790+00:00",
     "location": "Bengaluru",
     "company": "Dell Technologies",
-    "role": "Software Engineer I",
+    "role": "SDE 1",
     "yoe": 0.5,
     "base": 11.5,
     "total": 12.35
@@ -23654,7 +24224,7 @@
     "date": "2025-01-23T18:40:09.869154+00:00",
     "location": "",
     "company": "Angel One",
-    "role": "SDE 21",
+    "role": "SDE 2",
     "yoe": 7.8,
     "base": 50,
     "total": 76
@@ -23744,7 +24314,7 @@
     "date": "2025-01-23T03:28:17.731206+00:00",
     "location": "Bengaluru",
     "company": "Hft (Cant Disclose)",
-    "role": "Staff Frontend",
+    "role": "Staff Engineer",
     "yoe": 9.5,
     "base": 95,
     "total": 125.0
@@ -23754,7 +24324,7 @@
     "date": "2025-01-22T19:40:56.384856+00:00",
     "location": "Bengaluru",
     "company": "Gameberry Labs",
-    "role": "Golang , C++ , Cocos",
+    "role": "SDE",
     "yoe": 2.5,
     "base": 23,
     "total": 25
@@ -23764,7 +24334,7 @@
     "date": "2025-01-22T19:40:56.384856+00:00",
     "location": "Gurugram",
     "company": "Cars24",
-    "role": "Java Springboot",
+    "role": "SDE",
     "yoe": 2.5,
     "base": 22,
     "total": 23
@@ -23794,7 +24364,7 @@
     "date": "2025-01-22T06:26:03.723836+00:00",
     "location": "Bengaluru",
     "company": "DocuSign",
-    "role": "Software Engineer P2",
+    "role": "SDE 2",
     "yoe": 2.0,
     "base": 30,
     "total": 45
@@ -23854,7 +24424,7 @@
     "date": "2025-01-20T16:21:57.599786+00:00",
     "location": "",
     "company": "Kuku Fm",
-    "role": "Sde Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -23894,7 +24464,7 @@
     "date": "2025-01-20T12:07:46.428097+00:00",
     "location": "Bengaluru",
     "company": "Google",
-    "role": "Google Winter Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -23914,7 +24484,7 @@
     "date": "2025-01-19T22:39:07.737602+00:00",
     "location": "Bengaluru",
     "company": "Visa",
-    "role": "Senior Consultant",
+    "role": "Consultant",
     "yoe": 14.4,
     "base": 60,
     "total": 84
@@ -23943,7 +24513,7 @@
     "id": 6302834,
     "date": "2025-01-19T13:52:09.552897+00:00",
     "location": "Hyderabad",
-    "company": "Qapita Fintech",
+    "company": "Qapita",
     "role": "SDE 1",
     "yoe": 0,
     "base": 6,
@@ -23964,7 +24534,7 @@
     "date": "2025-01-19T09:47:37.615399+00:00",
     "location": "Bengaluru",
     "company": "EPAM",
-    "role": "Software Dev A2",
+    "role": "SDE 2",
     "yoe": 4,
     "base": 27,
     "total": 29
@@ -23984,7 +24554,7 @@
     "date": "2025-01-18T17:53:17.773997+00:00",
     "location": "Bengaluru",
     "company": "EPAM",
-    "role": "Software A2",
+    "role": "SDE 2",
     "yoe": 4.0,
     "base": 27,
     "total": 29
@@ -24033,8 +24603,8 @@
     "id": 6295825,
     "date": "2025-01-17T18:48:18.477070+00:00",
     "location": "Bengaluru",
-    "company": "Sap Labs India Private Limited",
-    "role": "Developer T2 Grade 1",
+    "company": "SAP Labs",
+    "role": "SDE 1",
     "yoe": 3.5,
     "base": 22.5,
     "total": 25
@@ -24054,7 +24624,7 @@
     "date": "2025-01-17T16:30:55.865240+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "Software Engineer L60",
+    "role": "SDE 2",
     "yoe": 1.5,
     "base": 21,
     "total": 38.5
@@ -24064,7 +24634,7 @@
     "date": "2025-01-16T18:34:42.089791+00:00",
     "location": "Bengaluru",
     "company": "Amazon",
-    "role": "System Development Engineer 1",
+    "role": "SDE 1",
     "yoe": 2.5,
     "base": 16,
     "total": 39
@@ -24074,7 +24644,7 @@
     "date": "2025-01-16T16:32:47.925794+00:00",
     "location": "Bengaluru",
     "company": "Amazon",
-    "role": "Sde L4",
+    "role": "SDE 2",
     "yoe": 2.5,
     "base": 16,
     "total": 39
@@ -24114,7 +24684,7 @@
     "date": "2025-01-16T10:36:25.857271+00:00",
     "location": "Pune",
     "company": "Eaton",
-    "role": "Summer Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -24124,7 +24694,7 @@
     "date": "2025-01-16T10:34:49.650846+00:00",
     "location": "",
     "company": "ZS Associates",
-    "role": "Data Science Associate",
+    "role": "Data Scientist",
     "yoe": 1,
     "base": 14,
     "total": 19.8
@@ -24133,7 +24703,7 @@
     "id": 6287303,
     "date": "2025-01-16T05:18:34.627585+00:00",
     "location": "Remote",
-    "company": "A Us Based Remote Startup Young",
+    "company": "Startup",
     "role": "SDE",
     "yoe": 2,
     "base": null,
@@ -24143,7 +24713,7 @@
     "id": 6287269,
     "date": "2025-01-16T05:10:10.341579+00:00",
     "location": "Remote",
-    "company": "Service Based",
+    "company": "MNC",
     "role": "SDE",
     "yoe": 2,
     "base": null,
@@ -24224,7 +24794,7 @@
     "date": "2025-01-15T14:00:04.631942+00:00",
     "location": "Gurugram",
     "company": "BlackRock",
-    "role": "Ml Engineer 3",
+    "role": "ML Engineer 3",
     "yoe": 5.5,
     "base": 56.5,
     "total": 68
@@ -24244,7 +24814,7 @@
     "date": "2025-01-15T10:26:36.188113+00:00",
     "location": "Bengaluru",
     "company": "Havells",
-    "role": "Intern+Fte",
+    "role": "Intern",
     "yoe": 0.5,
     "base": 8.0,
     "total": 11.5
@@ -24403,7 +24973,7 @@
     "id": 6270281,
     "date": "2025-01-12T17:27:25.088202+00:00",
     "location": "",
-    "company": "Highspot India",
+    "company": "HighSpot",
     "role": "SDE 2",
     "yoe": null,
     "base": 23,
@@ -24444,7 +25014,7 @@
     "date": "2025-01-11T20:52:26.472730+00:00",
     "location": "New Delhi",
     "company": "Uidai",
-    "role": "Technical Executive",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 15,
     "total": 17
@@ -24454,7 +25024,7 @@
     "date": "2025-01-11T20:52:26.472730+00:00",
     "location": "",
     "company": "Propertyguru Group",
-    "role": "Graduate Software Developer",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 15,
     "total": 18
@@ -24504,7 +25074,7 @@
     "date": "2025-01-11T13:37:49.755024+00:00",
     "location": "",
     "company": "Accenture",
-    "role": "Advanced Application Engineering Analyst",
+    "role": "SDE 2",
     "yoe": 0,
     "base": 9,
     "total": 10.89
@@ -24544,7 +25114,7 @@
     "date": "2025-01-10T18:38:28.363618+00:00",
     "location": "",
     "company": "Cisco",
-    "role": "G10",
+    "role": "SSE",
     "yoe": 7,
     "base": 44,
     "total": 60
@@ -24554,7 +25124,7 @@
     "date": "2025-01-10T18:32:16.521898+00:00",
     "location": "",
     "company": "DocuSign",
-    "role": "P4",
+    "role": "SDE 4",
     "yoe": 7,
     "base": 62,
     "total": 90
@@ -24704,7 +25274,7 @@
     "date": "2025-01-09T09:49:38.947096+00:00",
     "location": "",
     "company": "Capgemini",
-    "role": "Analyst A4",
+    "role": "Analyst",
     "yoe": null,
     "base": 4,
     "total": null
@@ -24714,7 +25284,7 @@
     "date": "2025-01-09T08:38:58.934822+00:00",
     "location": "",
     "company": "Google",
-    "role": "Technical Solutions Consultant",
+    "role": "Consultant",
     "yoe": 2.5,
     "base": 20,
     "total": 35.0
@@ -24734,7 +25304,7 @@
     "date": "2025-01-08T15:58:23.419603+00:00",
     "location": "Bengaluru",
     "company": "Amazon",
-    "role": "Data Engineer I",
+    "role": "Data Engineer",
     "yoe": 0,
     "base": 15.34,
     "total": 20.1165
@@ -24884,7 +25454,7 @@
     "date": "2025-01-07T06:50:24.395834+00:00",
     "location": "Bengaluru",
     "company": "Asper.Ai",
-    "role": "Software Engineer Intern",
+    "role": "Intern",
     "yoe": 0,
     "base": null,
     "total": null
@@ -24904,7 +25474,7 @@
     "date": "2025-01-04T16:47:07.456230+00:00",
     "location": "Bengaluru",
     "company": "CRED",
-    "role": "Backend Developer L3",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 24,
     "total": 28.8
