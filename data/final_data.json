@@ -14,7 +14,7 @@
     "date": "2026-03-27T13:20:26.169105+00:00",
     "location": "",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": 32,
     "total": 43.3
@@ -54,7 +54,7 @@
     "date": "2026-03-26T13:54:18.440266+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 6.75,
     "base": 42,
     "total": 58.2
@@ -174,7 +174,7 @@
     "date": "2026-03-24T15:05:05.063957+00:00",
     "location": "Bengaluru",
     "company": "HPE",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": 32,
     "total": 35
@@ -314,7 +314,7 @@
     "date": "2026-03-21T08:33:58.139889+00:00",
     "location": "",
     "company": "Tesco",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 8,
     "base": 67,
     "total": 80
@@ -424,7 +424,7 @@
     "date": "2026-03-18T03:26:49.255247+00:00",
     "location": "Bengaluru",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4,
     "base": 33.4,
     "total": 57
@@ -604,7 +604,7 @@
     "date": "2026-03-12T20:01:26.146944+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.7,
     "base": 28,
     "total": 45
@@ -614,7 +614,7 @@
     "date": "2026-03-12T17:55:48.108439+00:00",
     "location": "Bengaluru",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.67,
     "base": 30.6,
     "total": 53.06
@@ -844,7 +844,7 @@
     "date": "2026-03-02T14:52:03.963276+00:00",
     "location": "Bengaluru",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 6.67,
     "base": 42.0,
     "total": null
@@ -864,7 +864,7 @@
     "date": "2026-03-02T06:01:53.856741+00:00",
     "location": "",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": 40.0,
     "total": 40.0
@@ -884,7 +884,7 @@
     "date": "2026-03-01T17:03:39.322107+00:00",
     "location": "",
     "company": "eBay",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.5,
     "base": 20.0,
     "total": null
@@ -1254,7 +1254,7 @@
     "date": "2026-02-17T07:04:45.834918+00:00",
     "location": "Bengaluru",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5,
     "base": 42,
     "total": 72
@@ -1404,7 +1404,7 @@
     "date": "2026-02-12T20:55:14.964169+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": 26,
     "total": 34.5
@@ -1464,7 +1464,7 @@
     "date": "2026-02-12T04:40:58.617698+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2.5,
     "base": 29.34,
     "total": 46.94
@@ -1754,7 +1754,7 @@
     "date": "2026-02-05T06:33:23.239661+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.5,
     "base": 35,
     "total": 35
@@ -1954,7 +1954,7 @@
     "date": "2026-01-30T04:30:32.497862+00:00",
     "location": "",
     "company": "Apple",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.5,
     "base": null,
     "total": 54
@@ -1964,7 +1964,7 @@
     "date": "2026-01-30T02:27:07.043740+00:00",
     "location": "",
     "company": "NetApp",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 8,
     "base": 54,
     "total": 79
@@ -1974,7 +1974,7 @@
     "date": "2026-01-29T10:33:04.821303+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.8,
     "base": 30,
     "total": null
@@ -1984,7 +1984,7 @@
     "date": "2026-01-29T06:36:48.005471+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.5,
     "base": 31,
     "total": null
@@ -2064,7 +2064,7 @@
     "date": "2026-01-26T15:36:23.932153+00:00",
     "location": "Bengaluru",
     "company": "MakeMyTrip",
-    "role": "SSE 2",
+    "role": "SSE",
     "yoe": 5.5,
     "base": 38,
     "total": null
@@ -2124,7 +2124,7 @@
     "date": "2026-01-25T10:46:53.691088+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 23.2,
     "total": 36
@@ -2354,7 +2354,7 @@
     "date": "2026-01-20T03:41:31.256928+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.6,
     "base": 28.45,
     "total": 28.45
@@ -2594,7 +2594,7 @@
     "date": "2026-01-15T08:24:46.357804+00:00",
     "location": "India",
     "company": "Meesho",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 6,
     "base": 61,
     "total": 75
@@ -2604,7 +2604,7 @@
     "date": "2026-01-15T07:00:38.259595+00:00",
     "location": "",
     "company": "NetApp",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.5,
     "base": 43,
     "total": 55
@@ -2634,7 +2634,7 @@
     "date": "2026-01-14T16:59:41.022857+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 6.5,
     "base": 41,
     "total": 72.16
@@ -2674,7 +2674,7 @@
     "date": "2026-01-13T18:04:32.420256+00:00",
     "location": "India",
     "company": "Bloomreach",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.8,
     "base": 58,
     "total": 79.7
@@ -2704,7 +2704,7 @@
     "date": "2026-01-12T20:22:36.408316+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5.5,
     "base": 33,
     "total": 50.75
@@ -2784,7 +2784,7 @@
     "date": "2026-01-11T06:46:27.541019+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4,
     "base": 25.6,
     "total": 33.6
@@ -3044,7 +3044,7 @@
     "date": "2026-01-07T13:19:45.949501+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5,
     "base": 35,
     "total": null
@@ -3264,7 +3264,7 @@
     "date": "2025-12-31T11:01:49.057418+00:00",
     "location": "",
     "company": "eBay",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.4,
     "base": 32,
     "total": 45.0
@@ -3394,7 +3394,7 @@
     "date": "2025-12-28T07:14:31.084833+00:00",
     "location": "",
     "company": "eBay",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.8,
     "base": 37,
     "total": 40.712
@@ -3404,7 +3404,7 @@
     "date": "2025-12-27T14:09:53.717750+00:00",
     "location": "Bengaluru",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 36,
     "total": 50.3
@@ -3434,7 +3434,7 @@
     "date": "2025-12-27T12:13:22.461674+00:00",
     "location": "Bengaluru",
     "company": "Apple",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5.33,
     "base": 45,
     "total": 91.375
@@ -3514,7 +3514,7 @@
     "date": "2025-12-26T10:17:56.371727+00:00",
     "location": "Pune",
     "company": "Mastercard",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.75,
     "base": 30,
     "total": 33
@@ -3904,7 +3904,7 @@
     "date": "2025-12-18T19:22:29.003735+00:00",
     "location": "",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 32,
     "total": 59.2
@@ -3914,7 +3914,7 @@
     "date": "2025-12-18T18:29:44.904766+00:00",
     "location": "Bengaluru",
     "company": "NetApp",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": 36,
     "total": null
@@ -4144,7 +4144,7 @@
     "date": "2025-12-12T08:57:10.272323+00:00",
     "location": "Bengaluru",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5,
     "base": 36,
     "total": 44
@@ -4344,7 +4344,7 @@
     "date": "2025-12-09T06:22:18.151773+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 22.5,
     "total": 28.57
@@ -4394,7 +4394,7 @@
     "date": "2025-12-08T16:27:51.361463+00:00",
     "location": "",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.17,
     "base": 35,
     "total": 40
@@ -4554,7 +4554,7 @@
     "date": "2025-12-04T18:22:02.991265+00:00",
     "location": "Bengaluru",
     "company": "Target",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 3,
     "base": 18,
     "total": null
@@ -4594,7 +4594,7 @@
     "date": "2025-12-04T05:31:44.074284+00:00",
     "location": "Bengaluru",
     "company": "CRED",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.3,
     "base": 70,
     "total": 80
@@ -4684,7 +4684,7 @@
     "date": "2025-12-02T07:07:06.354849+00:00",
     "location": "Bengaluru",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 6,
     "base": 44,
     "total": 49
@@ -4724,7 +4724,7 @@
     "date": "2025-12-01T02:45:47.379483+00:00",
     "location": "Bengaluru",
     "company": "Zeta",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5,
     "base": 42,
     "total": 46.5
@@ -4824,7 +4824,7 @@
     "date": "2025-11-29T09:26:30.886031+00:00",
     "location": "Bengaluru",
     "company": "Meta",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 0,
     "base": 30.87,
     "total": 53.55
@@ -4854,7 +4854,7 @@
     "date": "2025-11-28T18:40:16.523283+00:00",
     "location": "Bengaluru",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 6,
     "base": 44,
     "total": 50.0
@@ -4864,7 +4864,7 @@
     "date": "2025-11-28T18:40:16.523283+00:00",
     "location": "Bengaluru",
     "company": "Sixt",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 6,
     "base": 48,
     "total": 61
@@ -5134,7 +5134,7 @@
     "date": "2025-11-21T08:57:45.668241+00:00",
     "location": "Mumbai",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.4,
     "base": 30,
     "total": 30
@@ -5184,7 +5184,7 @@
     "date": "2025-11-20T14:21:39.399770+00:00",
     "location": "",
     "company": "BharatPe",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 6.5,
     "base": 34,
     "total": 35.5
@@ -5304,7 +5304,7 @@
     "date": "2025-11-19T09:21:59.064184+00:00",
     "location": "Remote",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5,
     "base": 42,
     "total": 72
@@ -5344,7 +5344,7 @@
     "date": "2025-11-18T09:15:30.589564+00:00",
     "location": "Gurugram",
     "company": "Blinkit",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 6,
     "base": 58,
     "total": 82
@@ -5484,7 +5484,7 @@
     "date": "2025-11-15T14:46:08.429951+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.5,
     "base": 36,
     "total": 45.25
@@ -5494,7 +5494,7 @@
     "date": "2025-11-15T14:20:48.752995+00:00",
     "location": "",
     "company": "Target",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 2.3,
     "base": 18.5,
     "total": 19.845
@@ -5654,7 +5654,7 @@
     "date": "2025-11-12T20:45:18.594483+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5,
     "base": 42,
     "total": null
@@ -5704,7 +5704,7 @@
     "date": "2025-11-11T14:05:29.700683+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.5,
     "base": 42.5,
     "total": 62
@@ -5774,7 +5774,7 @@
     "date": "2025-11-09T15:26:19.849609+00:00",
     "location": "Bengaluru",
     "company": "Microsoft",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": null,
     "base": 38.5,
     "total": null
@@ -5834,7 +5834,7 @@
     "date": "2025-11-08T07:41:28.007551+00:00",
     "location": "",
     "company": "Microsoft",
-    "role": "SSE 2",
+    "role": "SSE",
     "yoe": 4.5,
     "base": 40,
     "total": 76
@@ -6204,7 +6204,7 @@
     "date": "2025-10-31T21:16:51.188180+00:00",
     "location": "Hyderabad",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 31,
     "total": 35
@@ -6264,7 +6264,7 @@
     "date": "2025-10-30T16:26:43.597592+00:00",
     "location": "",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": 40,
     "total": null
@@ -6314,7 +6314,7 @@
     "date": "2025-10-29T15:56:20.107362+00:00",
     "location": "",
     "company": "Flipkart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5.3,
     "base": 41,
     "total": 54
@@ -6324,7 +6324,7 @@
     "date": "2025-10-29T15:56:20.107362+00:00",
     "location": "",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5.3,
     "base": 40,
     "total": 45.5
@@ -6434,7 +6434,7 @@
     "date": "2025-10-25T19:43:58.386686+00:00",
     "location": "Bengaluru",
     "company": "F5 Networks",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.5,
     "base": 26.8,
     "total": 36.91
@@ -6454,7 +6454,7 @@
     "date": "2025-10-25T19:15:45.432599+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": 42.5,
     "total": 62.5
@@ -6524,7 +6524,7 @@
     "date": "2025-10-24T17:56:22.474602+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.5,
     "base": 25.15,
     "total": 33.95
@@ -6654,7 +6654,7 @@
     "date": "2025-10-23T11:46:31.648010+00:00",
     "location": "Bengaluru",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4,
     "base": 36,
     "total": null
@@ -7074,7 +7074,7 @@
     "date": "2025-10-17T12:18:16.698318+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": 23,
     "total": 32.9
@@ -7084,7 +7084,7 @@
     "date": "2025-10-17T12:18:16.698318+00:00",
     "location": "",
     "company": "Startup",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": 33,
     "total": 34
@@ -7204,7 +7204,7 @@
     "date": "2025-10-15T08:39:36.968181+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 6.5,
     "base": 42,
     "total": 85
@@ -7294,7 +7294,7 @@
     "date": "2025-10-13T12:42:14.480335+00:00",
     "location": "Remote",
     "company": "Other Organization",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.5,
     "base": 47.1,
     "total": 54.35
@@ -7334,7 +7334,7 @@
     "date": "2025-10-11T07:30:56.934894+00:00",
     "location": "Gurugram",
     "company": "MakeMyTrip",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 6.5,
     "base": 45,
     "total": 45
@@ -7344,7 +7344,7 @@
     "date": "2025-10-11T07:30:56.934894+00:00",
     "location": "Bengaluru",
     "company": "DP World",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 6.5,
     "base": 50,
     "total": 50
@@ -7354,7 +7354,7 @@
     "date": "2025-10-11T05:06:29.824284+00:00",
     "location": "Bengaluru",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5,
     "base": 33,
     "total": null
@@ -7424,7 +7424,7 @@
     "date": "2025-10-09T17:47:25.343774+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.33,
     "base": 23.2,
     "total": 33
@@ -7444,7 +7444,7 @@
     "date": "2025-10-09T15:03:01.122210+00:00",
     "location": "",
     "company": "BharatPe",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5,
     "base": 30,
     "total": 31
@@ -7484,7 +7484,7 @@
     "date": "2025-10-09T02:29:46.413537+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5,
     "base": 24,
     "total": 32
@@ -7594,7 +7594,7 @@
     "date": "2025-10-06T15:45:20.093198+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": 20,
     "total": 28.67
@@ -7654,7 +7654,7 @@
     "date": "2025-10-04T14:16:22.548552+00:00",
     "location": "Bengaluru",
     "company": "Wayfair",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 8,
     "base": 72,
     "total": null
@@ -7744,7 +7744,7 @@
     "date": "2025-10-03T09:35:35.451024+00:00",
     "location": "",
     "company": "Startup",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": 65,
     "total": 80
@@ -7814,7 +7814,7 @@
     "date": "2025-10-02T05:42:29.087274+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.17,
     "base": 23,
     "total": 32.5
@@ -7834,7 +7834,7 @@
     "date": "2025-10-02T05:35:32.145988+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 7.5,
     "base": 40,
     "total": 73
@@ -7874,7 +7874,7 @@
     "date": "2025-10-01T17:04:21.564715+00:00",
     "location": "Bengaluru",
     "company": "Flipkart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 6,
     "base": 48,
     "total": 62
@@ -7884,7 +7884,7 @@
     "date": "2025-10-01T13:10:30.983247+00:00",
     "location": "Bengaluru",
     "company": "DocuSign",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4,
     "base": 52,
     "total": 80
@@ -7904,7 +7904,7 @@
     "date": "2025-10-01T07:12:24.756320+00:00",
     "location": "",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.17,
     "base": 29,
     "total": 29
@@ -7924,7 +7924,7 @@
     "date": "2025-09-30T14:53:37.015384+00:00",
     "location": "",
     "company": "Microsoft",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 4,
     "base": 35,
     "total": 65
@@ -8224,7 +8224,7 @@
     "date": "2025-09-24T09:55:39.316702+00:00",
     "location": "Remote",
     "company": "Atlassian",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 7.8,
     "base": 47,
     "total": 70.39
@@ -8574,7 +8574,7 @@
     "date": "2025-09-16T20:06:11.543630+00:00",
     "location": "Chennai",
     "company": "Nextiva",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4,
     "base": 29.5,
     "total": null
@@ -8744,7 +8744,7 @@
     "date": "2025-09-13T09:38:58.675530+00:00",
     "location": "Bengaluru",
     "company": "NetApp",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 7,
     "base": 41.8,
     "total": 51.24
@@ -8954,7 +8954,7 @@
     "date": "2025-09-11T07:51:32.705679+00:00",
     "location": "Bengaluru",
     "company": "Make My Trip",
-    "role": "SSE 2",
+    "role": "SSE",
     "yoe": 5,
     "base": 35,
     "total": null
@@ -8994,7 +8994,7 @@
     "date": "2025-09-09T16:38:12.363135+00:00",
     "location": "Remote",
     "company": "Tide",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.5,
     "base": 46,
     "total": 49.75
@@ -9264,7 +9264,7 @@
     "date": "2025-09-05T03:20:18.632876+00:00",
     "location": "Bengaluru",
     "company": "Emergent Labs",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 6,
     "base": 53,
     "total": 60.5
@@ -9274,7 +9274,7 @@
     "date": "2025-09-05T03:20:18.632876+00:00",
     "location": "",
     "company": "Super Money",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 6,
     "base": 55,
     "total": 57
@@ -9414,7 +9414,7 @@
     "date": "2025-09-03T14:30:27.028019+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.33,
     "base": 22.5,
     "total": 33.7
@@ -9744,7 +9744,7 @@
     "date": "2025-08-27T15:25:44.215690+00:00",
     "location": "",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.17,
     "base": 30,
     "total": 36.6
@@ -10084,7 +10084,7 @@
     "date": "2025-08-21T17:01:16.871660+00:00",
     "location": "Bengaluru",
     "company": "NetApp",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 7.2,
     "base": 41.8,
     "total": 45.1
@@ -10104,7 +10104,7 @@
     "date": "2025-08-21T16:52:05.146757+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 7.8,
     "base": 38.7,
     "total": 56
@@ -10144,7 +10144,7 @@
     "date": "2025-08-21T03:45:47.200990+00:00",
     "location": "Bengaluru",
     "company": "Nike",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 8,
     "base": 35,
     "total": 40
@@ -10224,7 +10224,7 @@
     "date": "2025-08-19T13:23:45.273445+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.2,
     "base": 17.81,
     "total": 25.21
@@ -10324,7 +10324,7 @@
     "date": "2025-08-16T12:22:40.538256+00:00",
     "location": "Hyderabad",
     "company": "Google",
-    "role": "SSE 2",
+    "role": "SSE",
     "yoe": 4,
     "base": 39.1,
     "total": null
@@ -10364,7 +10364,7 @@
     "date": "2025-08-15T17:12:48.084352+00:00",
     "location": "Gurugram",
     "company": "Nykaa",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 7,
     "base": 48,
     "total": 53.76
@@ -10584,7 +10584,7 @@
     "date": "2025-08-13T07:10:39.403781+00:00",
     "location": "Bengaluru",
     "company": "eBay",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 33,
     "total": 48.3
@@ -10924,7 +10924,7 @@
     "date": "2025-08-04T13:30:49.951341+00:00",
     "location": "Noida",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4,
     "base": 33,
     "total": 38
@@ -10954,7 +10954,7 @@
     "date": "2025-08-03T17:47:07.013258+00:00",
     "location": "Remote",
     "company": "IDFC First Bank",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.5,
     "base": 43,
     "total": 49.5
@@ -11194,7 +11194,7 @@
     "date": "2025-07-27T15:08:05.053580+00:00",
     "location": "Bengaluru",
     "company": "Flipkart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.67,
     "base": 46.5,
     "total": 60.5
@@ -11274,7 +11274,7 @@
     "date": "2025-07-26T11:12:17.647316+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.5,
     "base": 34,
     "total": 44
@@ -11534,7 +11534,7 @@
     "date": "2025-07-19T18:04:27.229920+00:00",
     "location": "",
     "company": "Microsoft",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 4,
     "base": 35,
     "total": 62.56
@@ -11874,7 +11874,7 @@
     "date": "2025-07-15T09:44:36.533738+00:00",
     "location": "Bengaluru",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 42,
     "total": 57.75
@@ -12024,7 +12024,7 @@
     "date": "2025-07-11T11:38:32.664494+00:00",
     "location": "",
     "company": "Adobe",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 9,
     "base": 46,
     "total": 82.9
@@ -12034,7 +12034,7 @@
     "date": "2025-07-11T11:38:21.593308+00:00",
     "location": "",
     "company": "Adobe",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 9,
     "base": 46,
     "total": 82.9
@@ -12064,7 +12064,7 @@
     "date": "2025-07-10T18:51:38.516031+00:00",
     "location": "",
     "company": "New Relic",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.8,
     "base": 51,
     "total": 57.6
@@ -12124,7 +12124,7 @@
     "date": "2025-07-10T06:19:45.742811+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3,
     "base": 24,
     "total": 32.4
@@ -12484,7 +12484,7 @@
     "date": "2025-07-06T07:06:18.794319+00:00",
     "location": "",
     "company": "Xpressbees",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 7.58,
     "base": 37,
     "total": 40
@@ -12504,7 +12504,7 @@
     "date": "2025-07-06T06:20:04.833544+00:00",
     "location": "",
     "company": "Microsoft",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 6,
     "base": 42,
     "total": 82.917
@@ -12744,7 +12744,7 @@
     "date": "2025-07-01T20:46:38.448737+00:00",
     "location": "Bengaluru",
     "company": "6Sense",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 6.5,
     "base": 55,
     "total": 64.25
@@ -12764,7 +12764,7 @@
     "date": "2025-07-01T20:33:37.196128+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 6.5,
     "base": 43,
     "total": 89.42
@@ -13114,7 +13114,7 @@
     "date": "2025-06-26T15:50:56.125075+00:00",
     "location": "Gurugram",
     "company": "GoDaddy",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5,
     "base": 39,
     "total": 42.9
@@ -13534,7 +13534,7 @@
     "date": "2025-06-22T10:10:00.578390+00:00",
     "location": "Bengaluru",
     "company": "InMobi",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 10,
     "base": 48,
     "total": 53
@@ -13874,7 +13874,7 @@
     "date": "2025-06-18T06:39:49.988643+00:00",
     "location": "",
     "company": "Amazon",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 11,
     "base": 85,
     "total": null
@@ -14014,7 +14014,7 @@
     "date": "2025-06-16T11:56:11.081263+00:00",
     "location": "Bengaluru",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5,
     "base": 36,
     "total": 36
@@ -14764,7 +14764,7 @@
     "date": "2025-06-05T21:25:20.923969+00:00",
     "location": "",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.67,
     "base": 40,
     "total": 45
@@ -15004,7 +15004,7 @@
     "date": "2025-06-02T10:17:32.632837+00:00",
     "location": "Bengaluru",
     "company": "Tesco",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 8.5,
     "base": 69,
     "total": 84.5
@@ -15524,7 +15524,7 @@
     "date": "2025-05-25T07:16:08.684998+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2.9,
     "base": 24,
     "total": 33.1
@@ -15594,7 +15594,7 @@
     "date": "2025-05-23T13:48:52.249425+00:00",
     "location": "Pune",
     "company": "Lattice Semiconductors",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3,
     "base": 26,
     "total": null
@@ -15614,7 +15614,7 @@
     "date": "2025-05-23T04:44:11.977678+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 21,
     "total": 24.75
@@ -15684,7 +15684,7 @@
     "date": "2025-05-21T23:51:36.224050+00:00",
     "location": "",
     "company": "Google",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 39.5,
     "total": 49.425
@@ -15744,7 +15744,7 @@
     "date": "2025-05-21T11:21:12.020009+00:00",
     "location": "Mumbai",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 6.83,
     "base": 39,
     "total": null
@@ -15754,7 +15754,7 @@
     "date": "2025-05-21T08:34:26.300354+00:00",
     "location": "Bengaluru",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5.92,
     "base": 33,
     "total": null
@@ -16114,7 +16114,7 @@
     "date": "2025-05-16T11:54:45.359926+00:00",
     "location": "Bengaluru",
     "company": "Google",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4,
     "base": 37.5,
     "total": null
@@ -16454,7 +16454,7 @@
     "date": "2025-05-10T13:45:01.989265+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2.67,
     "base": 21,
     "total": 35.45
@@ -16524,7 +16524,7 @@
     "date": "2025-05-09T17:24:27.154023+00:00",
     "location": "Hyderabad",
     "company": "Oracle",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 9,
     "base": 48,
     "total": 55
@@ -16874,7 +16874,7 @@
     "date": "2025-05-05T07:34:50.621215+00:00",
     "location": "Bengaluru",
     "company": "6Sense",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.92,
     "base": 41,
     "total": 52
@@ -17174,7 +17174,7 @@
     "date": "2025-04-29T19:12:45.091828+00:00",
     "location": "",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.1,
     "base": 32,
     "total": 50.0
@@ -17184,7 +17184,7 @@
     "date": "2025-04-29T19:12:45.091828+00:00",
     "location": "Bengaluru",
     "company": "6Sense",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.1,
     "base": 43,
     "total": 50.0
@@ -17284,7 +17284,7 @@
     "date": "2025-04-29T11:50:17.676719+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.8,
     "base": 22.5,
     "total": 28.47
@@ -17444,7 +17444,7 @@
     "date": "2025-04-26T18:14:27.249210+00:00",
     "location": "Chennai",
     "company": "PayPal",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.2,
     "base": 28.8,
     "total": 31.68
@@ -17464,7 +17464,7 @@
     "date": "2025-04-25T17:16:54.102995+00:00",
     "location": "",
     "company": "PayPal",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5.1,
     "base": 33.4,
     "total": 49
@@ -17474,7 +17474,7 @@
     "date": "2025-04-25T10:44:31.807839+00:00",
     "location": "",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2.1,
     "base": 28.65,
     "total": 31.0
@@ -17664,7 +17664,7 @@
     "date": "2025-04-22T05:08:58.657717+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.11,
     "base": 24.1,
     "total": 29.7
@@ -17884,7 +17884,7 @@
     "date": "2025-04-18T14:42:05.322335+00:00",
     "location": "Bengaluru",
     "company": "Visa",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 1.8,
     "base": 17,
     "total": 22
@@ -17904,7 +17904,7 @@
     "date": "2025-04-17T19:30:04.232166+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2.92,
     "base": 23,
     "total": 34.45
@@ -17944,7 +17944,7 @@
     "date": "2025-04-17T12:27:23.669925+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2.25,
     "base": 15,
     "total": 22.47
@@ -17974,7 +17974,7 @@
     "date": "2025-04-17T05:28:45.350306+00:00",
     "location": "",
     "company": "PayPal",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.25,
     "base": 30,
     "total": 46
@@ -18004,7 +18004,7 @@
     "date": "2025-04-16T17:07:57.986769+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2.8,
     "base": 22,
     "total": 27.95
@@ -18014,7 +18014,7 @@
     "date": "2025-04-16T16:44:31.003770+00:00",
     "location": "",
     "company": "JumpCloud",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5,
     "base": 35,
     "total": null
@@ -18244,7 +18244,7 @@
     "date": "2025-04-13T20:22:47.816354+00:00",
     "location": "",
     "company": "Apple",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.8,
     "base": 40,
     "total": null
@@ -18274,7 +18274,7 @@
     "date": "2025-04-13T16:09:17.646333+00:00",
     "location": "",
     "company": "Confluent",
-    "role": "SSE 2",
+    "role": "SSE",
     "yoe": 7,
     "base": 74,
     "total": 104
@@ -18404,7 +18404,7 @@
     "date": "2025-04-11T14:53:56.516194+00:00",
     "location": "Gurugram",
     "company": "GoDaddy",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5,
     "base": 44,
     "total": null
@@ -18654,7 +18654,7 @@
     "date": "2025-04-08T10:59:06.159993+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.8,
     "base": 37,
     "total": 47
@@ -18674,7 +18674,7 @@
     "date": "2025-04-08T07:35:58.231009+00:00",
     "location": "Bengaluru",
     "company": "Amazon",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 9,
     "base": 85,
     "total": 131
@@ -18704,7 +18704,7 @@
     "date": "2025-04-06T19:46:56.886463+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4,
     "base": 22,
     "total": 34.45
@@ -18964,7 +18964,7 @@
     "date": "2025-04-03T06:46:57.125809+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4,
     "base": 15.72,
     "total": 22.47
@@ -19174,7 +19174,7 @@
     "date": "2025-03-29T09:07:16.469606+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2.67,
     "base": 22,
     "total": 30.95
@@ -19594,7 +19594,7 @@
     "date": "2025-03-26T17:54:05.488781+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 40,
     "total": 65.5
@@ -19664,7 +19664,7 @@
     "date": "2025-03-25T09:17:24.733782+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.7,
     "base": 23.5,
     "total": 32.4
@@ -19714,7 +19714,7 @@
     "date": "2025-03-24T16:45:05.257253+00:00",
     "location": "Hyderabad",
     "company": "Google",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3,
     "base": 40,
     "total": 86.5
@@ -20004,7 +20004,7 @@
     "date": "2025-03-20T18:17:27.799298+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2.75,
     "base": 19.91,
     "total": 28.43
@@ -20034,7 +20034,7 @@
     "date": "2025-03-20T14:00:16.981585+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": 21,
     "total": 31
@@ -20094,7 +20094,7 @@
     "date": "2025-03-19T19:10:41.491769+00:00",
     "location": "",
     "company": "DP World",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": 56.5,
     "total": 64.975
@@ -20104,7 +20104,7 @@
     "date": "2025-03-19T10:58:02.987954+00:00",
     "location": "",
     "company": "PayPal",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.8,
     "base": 30,
     "total": 33.015
@@ -20174,7 +20174,7 @@
     "date": "2025-03-18T14:28:12.450379+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2.67,
     "base": 24.5,
     "total": 31.5
@@ -20314,7 +20314,7 @@
     "date": "2025-03-16T07:21:49.374295+00:00",
     "location": "Bengaluru",
     "company": "PayPal",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": 33,
     "total": 45
@@ -20854,7 +20854,7 @@
     "date": "2025-03-08T05:05:23.266246+00:00",
     "location": "Noida",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.8,
     "base": 26,
     "total": 42
@@ -21134,7 +21134,7 @@
     "date": "2025-03-05T07:14:57.646678+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 27.130000000000003,
     "total": 36.5
@@ -21194,7 +21194,7 @@
     "date": "2025-03-04T18:13:32.270109+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5,
     "base": 15.7,
     "total": 22.45
@@ -21204,7 +21204,7 @@
     "date": "2025-03-04T17:13:26.200047+00:00",
     "location": "Bengaluru",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.6,
     "base": 28,
     "total": 28
@@ -21294,7 +21294,7 @@
     "date": "2025-03-04T04:21:17.418255+00:00",
     "location": "Remote",
     "company": "Sophos",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2,
     "base": 28,
     "total": 32.6
@@ -21304,7 +21304,7 @@
     "date": "2025-03-03T20:29:01.482404+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2.5,
     "base": 24.5,
     "total": 37
@@ -21324,7 +21324,7 @@
     "date": "2025-03-03T16:15:18.792355+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2.83,
     "base": 23.6,
     "total": 33.6
@@ -21534,7 +21534,7 @@
     "date": "2025-02-28T05:20:18.420679+00:00",
     "location": "Bengaluru",
     "company": "Google",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5.0,
     "base": 38,
     "total": 98
@@ -21624,7 +21624,7 @@
     "date": "2025-02-27T16:17:54.556415+00:00",
     "location": "Hyderabad",
     "company": "ServiceNow",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 9.0,
     "base": 43.75,
     "total": 58.6
@@ -21644,7 +21644,7 @@
     "date": "2025-02-27T12:14:10.119053+00:00",
     "location": "Remote",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2.5,
     "base": 20,
     "total": 32
@@ -21794,7 +21794,7 @@
     "date": "2025-02-26T07:56:33.387430+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": 22,
     "total": 34.3
@@ -21804,7 +21804,7 @@
     "date": "2025-02-26T07:04:40.630896+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 24,
     "total": 33
@@ -21874,7 +21874,7 @@
     "date": "2025-02-24T19:19:46.463497+00:00",
     "location": "Noida",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 6.5,
     "base": 33,
     "total": 60
@@ -21884,7 +21884,7 @@
     "date": "2025-02-24T19:10:32.271283+00:00",
     "location": "",
     "company": "PayPal",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.6,
     "base": 32,
     "total": 48
@@ -21894,7 +21894,7 @@
     "date": "2025-02-24T19:07:59.357670+00:00",
     "location": "Noida",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 6.5,
     "base": 33,
     "total": 60
@@ -21904,7 +21904,7 @@
     "date": "2025-02-24T12:15:20.796333+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 17.5,
     "total": 22.46
@@ -21924,7 +21924,7 @@
     "date": "2025-02-24T11:38:15.338800+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 17.5,
     "total": 25.37
@@ -21934,7 +21934,7 @@
     "date": "2025-02-24T02:44:28.064115+00:00",
     "location": "",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 7.11,
     "base": 33,
     "total": 33
@@ -22064,7 +22064,7 @@
     "date": "2025-02-20T10:57:34.584890+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": null,
     "total": null
@@ -22694,7 +22694,7 @@
     "date": "2025-02-12T14:40:36.656153+00:00",
     "location": "Bengaluru",
     "company": "Coinbase",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 3.5,
     "base": 47.5,
     "total": 73.7
@@ -22784,7 +22784,7 @@
     "date": "2025-02-11T15:23:28.344517+00:00",
     "location": "Bengaluru",
     "company": "Falconx",
-    "role": "SSE 2",
+    "role": "SSE",
     "yoe": 6.5,
     "base": 96,
     "total": 97.8
@@ -22834,7 +22834,7 @@
     "date": "2025-02-11T08:47:34.052221+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2.5,
     "base": 17.5,
     "total": 27.7
@@ -23194,7 +23194,7 @@
     "date": "2025-02-06T16:49:23.406851+00:00",
     "location": "Bengaluru",
     "company": "Flipkart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5,
     "base": 43,
     "total": 56
@@ -23344,7 +23344,7 @@
     "date": "2025-02-05T06:44:33.707511+00:00",
     "location": "Bengaluru",
     "company": "Saviynt",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 10,
     "base": 65,
     "total": null
@@ -23404,7 +23404,7 @@
     "date": "2025-02-04T11:07:25.810652+00:00",
     "location": "Bengaluru",
     "company": "Google",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 37.0,
     "total": 138.0
@@ -23424,7 +23424,7 @@
     "date": "2025-02-04T06:45:12.304104+00:00",
     "location": "Remote",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4,
     "base": 30,
     "total": 43
@@ -23464,7 +23464,7 @@
     "date": "2025-02-03T18:36:44.925422+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2.5,
     "base": 25.15,
     "total": 34.18
@@ -23714,7 +23714,7 @@
     "date": "2025-01-31T14:09:48.331327+00:00",
     "location": "Bengaluru",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4.5,
     "base": 35,
     "total": 35.0
@@ -23764,7 +23764,7 @@
     "date": "2025-01-30T12:01:27.348274+00:00",
     "location": "",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 31,
     "total": 41.5
@@ -23784,7 +23784,7 @@
     "date": "2025-01-30T12:01:27.348274+00:00",
     "location": "",
     "company": "PayPal",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 32,
     "total": 41.5
@@ -23874,7 +23874,7 @@
     "date": "2025-01-29T10:43:41.931593+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5,
     "base": 31,
     "total": 60
@@ -23984,7 +23984,7 @@
     "date": "2025-01-27T19:17:13.295920+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2.6,
     "base": 25,
     "total": 34
@@ -24004,7 +24004,7 @@
     "date": "2025-01-27T17:00:40.787023+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 2.6,
     "base": 25,
     "total": 34
@@ -24014,7 +24014,7 @@
     "date": "2025-01-27T16:50:06.755832+00:00",
     "location": "Bengaluru",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.5,
     "base": 21,
     "total": 30
@@ -24174,7 +24174,7 @@
     "date": "2025-01-25T10:57:41.933819+00:00",
     "location": "Hyderabad",
     "company": "Microsoft",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5,
     "base": 31,
     "total": 45.7
@@ -24194,7 +24194,7 @@
     "date": "2025-01-25T05:23:54.134705+00:00",
     "location": "Bengaluru",
     "company": "Flipkart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 5.5,
     "base": 45,
     "total": 80
@@ -24724,7 +24724,7 @@
     "date": "2025-01-16T04:14:41.193773+00:00",
     "location": "Hyderabad",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 3.1,
     "base": 29.0,
     "total": 31.9
@@ -25124,7 +25124,7 @@
     "date": "2025-01-10T18:32:16.521898+00:00",
     "location": "",
     "company": "DocuSign",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 7,
     "base": 62,
     "total": 90
@@ -25214,7 +25214,7 @@
     "date": "2025-01-09T14:33:10.020784+00:00",
     "location": "",
     "company": "Walmart",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": 25.73,
     "total": 32.67
@@ -25224,7 +25224,7 @@
     "date": "2025-01-09T14:33:10.020784+00:00",
     "location": "",
     "company": "Maersk",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": null,
     "base": 30,
     "total": 32.8
@@ -25344,7 +25344,7 @@
     "date": "2025-01-08T11:54:49.857542+00:00",
     "location": "Remote",
     "company": "Coinbase",
-    "role": "SDE 4",
+    "role": "Staff Engineer",
     "yoe": 5,
     "base": 42.8,
     "total": 72
@@ -25354,7 +25354,7 @@
     "date": "2025-01-08T08:43:20.694106+00:00",
     "location": "Bengaluru",
     "company": "EPAM",
-    "role": "SSE 2",
+    "role": "SSE",
     "yoe": 5.8,
     "base": 38.3,
     "total": 41.58
@@ -25384,7 +25384,7 @@
     "date": "2025-01-08T05:15:01.621346+00:00",
     "location": "Bengaluru",
     "company": "JPMorgan Chase",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 6,
     "base": 45,
     "total": 51
@@ -25424,7 +25424,7 @@
     "date": "2025-01-07T13:26:30.279502+00:00",
     "location": "Bengaluru",
     "company": "Oracle",
-    "role": "SDE 3",
+    "role": "SSE",
     "yoe": 4,
     "base": 30,
     "total": 43
@@ -25444,7 +25444,7 @@
     "date": "2025-01-07T06:52:09.715558+00:00",
     "location": "",
     "company": "Airbase",
-    "role": "SSE 2",
+    "role": "SSE",
     "yoe": 9,
     "base": null,
     "total": 48
