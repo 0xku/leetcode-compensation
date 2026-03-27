@@ -21,7 +21,7 @@
             position: relative;
         }
 
-        /* Side boundaries like OpenCode */
+        /* Side rail lines */
         body::before,
         body::after {
             content: '';
@@ -29,58 +29,37 @@
             top: 0;
             bottom: 0;
             width: 1px;
-            background: #d0d0d0;
+            background: #e0e0e0;
             z-index: 1000;
         }
+        body::before { left: calc(50% - 632.5px); }
+        body::after  { right: calc(50% - 632.5px); }
 
-        body::before {
-            left: calc(50% - 632.5px);
-        }
-
-        body::after {
-            right: calc(50% - 632.5px);
-        }
-
+        /* ── Header ──────────────────────────────────────────────── */
         header {
             max-width: 1265px;
             margin: 0 auto;
-            padding: 10px 40px;
-            border-bottom: 1px solid #d0d0d0;
-            margin-bottom: 20px;
+            padding: 12px 40px;
+            border-bottom: 1px solid #e8e8e8;
+            margin-bottom: 32px;
             display: flex;
             align-items: center;
             justify-content: space-between;
             gap: 20px;
         }
-        
+
         .header-left {
             display: flex;
             align-items: center;
-            gap: 0;
         }
 
         .header-right {
             display: flex;
             align-items: center;
-            gap: 24px;
-        }
-        
-        h1 {
-            display: flex;
-            align-items: center;
+            gap: 32px;
         }
 
-        .container {
-            max-width: 1265px;
-            margin: 0 auto;
-            padding: 0 40px 60px 40px;
-        }
-
-        h1 {
-            margin: 0;
-            padding: 0;
-        }
-
+        h1 { margin: 0; padding: 0; display: flex; align-items: center; }
         h1 img {
             width: 18.75%;
             min-width: 150px;
@@ -90,379 +69,54 @@
             box-shadow: none;
         }
 
-        .github-section {
-            text-align: left;
+        .stats {
+            font-size: 12px;
+            color: #aaa;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            line-height: 1.6;
         }
 
         .github-link {
-            color: #1a1a1a;
+            color: #888;
             text-decoration: none;
-            font-size: 16px;
-            transition: opacity 0.15s ease;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 1px dotted #ccc;
+            padding-bottom: 1px;
+            transition: color 0.15s, border-color 0.15s;
         }
-
-        .github-link:hover {
-            opacity: 0.7;
-        }
+        .github-link:hover { color: #1a1a1a; border-color: #1a1a1a; }
 
         .github-stars {
-            color: #666;
-            font-size: 12px;
-            margin-top: 2px;
-        }
-
-        .stats {
-            color: #666;
-            font-size: 13px;
-            font-weight: 400;
-            opacity: 0.85;
-        }
-
-        .controls {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            margin-bottom: 20px;
-            gap: 20px;
-        }
-
-        .table-controls {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            margin-bottom: 20px;
-            gap: 20px;
-        }
-
-        .per-page {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            font-size: 14px;
-            color: #666;
-        }
-
-        .per-page select {
-            padding: 6px 12px;
-            border: 1px solid #d0d0d0;
-            border-radius: 6px;
-            background: white;
-            color: #1a1a1a;
-            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-            font-size: 14px;
-            cursor: pointer;
-        }
-
-        .per-page select:hover {
-            border-color: #bbb;
-        }
-
-        .table-container {
-            overflow-x: auto;
-            margin-bottom: 30px;
-            border: 1px solid #e0e0e0;
-            border-radius: 8px;
-            background: #f8f7f7;
-            overflow: hidden;
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            font-size: 14px;
-        }
-
-        thead {
-            border-bottom: 1px solid #e0e0e0;
-            background: #e8e7e7;
-        }
-
-        tbody tr:nth-child(odd) {
-            background: #ffffff;
-        }
-
-        tbody tr:nth-child(even) {
-            background: #f8f7f7;
-        }
-
-        th {
-            text-align: left;
-            padding: 14px 16px;
-            font-weight: 600;
-            color: #666;
-            text-transform: uppercase;
-            font-size: 12px;
-            letter-spacing: 0.5px;
-            line-height: 1.6;
-            vertical-align: top;
-        }
-
-        th.sortable {
-            cursor: pointer;
-            user-select: none;
-            transition: background 0.15s ease;
-        }
-
-        th.sortable:hover {
-            background: #ddd;
-        }
-
-        th.sortable .sort-indicator {
-            margin-left: 4px;
-            font-size: 14px;
-            opacity: 0.5;
-        }
-
-        th.sortable.active .sort-indicator {
-            opacity: 1;
-        }
-
-        .th-sub.sortable {
-            cursor: pointer;
-            user-select: none;
-            transition: opacity 0.15s ease;
-        }
-
-        .th-sub.sortable:hover {
-            opacity: 0.7;
-        }
-
-        .th-sub.sortable.active .sort-indicator {
-            opacity: 1;
-        }
-
-        th .th-main {
-            display: block;
-            margin-bottom: 2px;
-        }
-
-        th .th-sub {
-            display: block;
             font-size: 11px;
-            font-weight: 500;
-            opacity: 0.85;
+            color: #ccc;
+            margin-top: 2px;
+            letter-spacing: 0.5px;
         }
 
-        tbody tr {
-            border-bottom: 1px solid #f0f0f0;
-            transition: background 0.15s ease;
+        /* ── Container ───────────────────────────────────────────── */
+        .container {
+            max-width: 1265px;
+            margin: 0 auto;
+            padding: 0 40px 60px 40px;
         }
 
-        tbody tr:last-child {
-            border-bottom: none;
-        }
-
-        tbody tr:hover {
-            background: #ebebeb !important;
-        }
-
-        td {
-            padding: 16px;
-            vertical-align: top;
-        }
-
-        .index-col {
-            color: #626262;
-            font-size: 13px;
-            width: 60px;
-        }
-
-        .id-col {
-            width: 90px;
-        }
-
-        .id-link {
-            color: #626262;
-            text-decoration: underline;
-            text-decoration-style: dotted;
-            text-decoration-color: #999;
-            font-size: 13px;
-            transition: opacity 0.15s ease;
-        }
-
-        .id-link:hover {
-            opacity: 0.7;
-        }
-
-        .company-col {
-            color: #626262;
-            width: 280px;
-        }
-
-        .company-name {
-            font-weight: 500;
-            margin-bottom: 6px;
-            line-height: 1.4;
-            color: #000;
-        }
-
-        .company-meta {
-            font-size: 12px;
-            color: #626262;
-            line-height: 1.4;
-        }
-
-        .role-col {
-            color: #626262;
-            width: 220px;
-        }
-
-        .yoe-col {
-            color: #626262;
-            width: 80px;
-        }
-
-        .total-col {
-            width: 140px;
-        }
-
-        .total-amount {
-            color: #000;
-            font-weight: 500;
-            margin-bottom: 6px;
-            line-height: 1.4;
-        }
-
-        .base-amount {
-            font-size: 12px;
-            color: #626262;
-            line-height: 1.4;
-        }
-
-        .pagination {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }
-
-        .pagination button {
-            background: white;
-            border: 1px solid #d0d0d0;
-            color: #1a1a1a;
-            padding: 8px 16px;
-            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-            cursor: pointer;
-            transition: all 0.15s ease;
-            font-size: 14px;
-            border-radius: 6px;
-        }
-
-        .pagination button:hover:not(:disabled) {
-            background: #f8f8f8;
-            border-color: #bbb;
-        }
-
-        .pagination button:disabled {
-            opacity: 0.3;
-            cursor: not-allowed;
-        }
-
-        .pagination .page-info {
-            color: #666;
-            font-size: 14px;
-        }
-
-        .loading {
-            text-align: center;
-            padding: 60px;
-            color: #999;
-            font-size: 14px;
-        }
-
-        .search-controls {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-            margin-bottom: 20px;
-        }
-
-        .search-controls select {
-            padding: 10px 14px;
-            border: 1px solid #d0d0d0;
-            border-radius: 6px;
-            background: white;
-            color: #1a1a1a;
-            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-            font-size: 14px;
-            cursor: pointer;
-            min-width: 120px;
-        }
-
-        .search-controls select:hover {
-            border-color: #bbb;
-        }
-
-        .search-controls select:focus {
-            outline: none;
-            border-color: #55b17f;
-        }
-
-        .search-input-wrapper {
-            flex: 1;
-            max-width: 400px;
-            position: relative;
-        }
-
-        .search-input-wrapper input {
-            width: 100%;
-            padding: 10px 14px;
-            padding-left: 38px;
-            border: 1px solid #d0d0d0;
-            border-radius: 6px;
-            background: white;
-            color: #1a1a1a;
-            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-            font-size: 14px;
-        }
-
-        .search-input-wrapper input:hover {
-            border-color: #bbb;
-        }
-
-        .search-input-wrapper input:focus {
-            outline: none;
-            border-color: #55b17f;
-        }
-
-        .search-input-wrapper input::placeholder {
-            color: #999;
-        }
-
-        .search-input-wrapper .search-icon {
-            position: absolute;
-            left: 12px;
-            top: 50%;
-            transform: translateY(-50%);
-            color: #999;
-            font-size: 14px;
-            pointer-events: none;
-        }
-
-        .search-results-info {
-            font-size: 13px;
-            color: #666;
-            margin-left: auto;
-        }
-
-        .clear-search {
-            background: none;
-            border: 1px solid #d0d0d0;
-            border-radius: 6px;
-            padding: 10px 14px;
-            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-            font-size: 14px;
-            color: #666;
-            cursor: pointer;
-            transition: all 0.15s ease;
-        }
-
-        .clear-search:hover {
-            border-color: #bbb;
-            color: #1a1a1a;
-        }
-
+        /* ── Charts ──────────────────────────────────────────────── */
         .charts-section {
-            margin-bottom: 40px;
+            margin-bottom: 48px;
+            padding-bottom: 48px;
+            border-bottom: 1px solid #e8e8e8;
+        }
+
+        .section-label {
+            font-size: 10px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: #bbb;
+            margin-bottom: 20px;
         }
 
         .charts-grid {
@@ -473,125 +127,411 @@
 
         .chart-container {
             background: #ffffff;
-            border: none;
-            border-radius: 0;
-            padding: 0;
             min-height: 300px;
         }
+        .chart-container.wide   { flex: 0 0 65%; }
+        .chart-container.narrow { flex: 0 0 calc(35% - 15px); }
 
-        .chart-container.wide {
-            flex: 0 0 65%;
+        /* ── Query Bar ───────────────────────────────────────────── */
+        .query-bar-section {
+            margin-bottom: 8px;
         }
 
-        .chart-container.narrow {
-            flex: 0 0 calc(35% - 15px);
+        .query-bar-wrap {
+            background: #fafafa;
+            border: none;
+            border-bottom: 2px solid #e0e0e0;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 0 4px;
+            height: 52px;
+            transition: border-color 0.2s;
+        }
+        .query-bar-wrap:focus-within {
+            border-bottom-color: #1a1a1a;
         }
 
-        .chart-container.full-width {
+        .query-icon {
+            color: #ccc;
+            font-size: 18px;
+            flex-shrink: 0;
+            user-select: none;
+        }
+
+        .query-editor {
+            flex: 1;
+            position: relative;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            overflow: hidden;
+        }
+
+        .query-hl {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            align-items: center;
+            pointer-events: none;
+            overflow: hidden;
+        }
+        .query-hl-inner {
+            white-space: pre;
+            font-size: 15px;
+            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+            display: inline-block;
+        }
+
+        .query-input {
+            position: relative;
+            z-index: 1;
             width: 100%;
+            height: 100%;
+            background: transparent;
+            border: none;
+            outline: none;
+            color: transparent;
+            caret-color: #1a1a1a;
+            font-size: 15px;
+            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        }
+        .query-input::placeholder { color: #ccc; }
+
+        .query-right {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            flex-shrink: 0;
+        }
+
+        .query-meta {
+            font-size: 11px;
+            color: #aaa;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            white-space: nowrap;
+        }
+
+        .query-clear-btn {
+            background: none;
+            border: none;
+            padding: 4px 0;
+            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+            font-size: 11px;
+            color: #ccc;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 1px dotted transparent;
+            transition: color 0.15s, border-color 0.15s;
+        }
+        .query-clear-btn:hover { color: #1a1a1a; border-color: #1a1a1a; }
+
+        /* query token colors */
+        .q-op      { color: #d97706; font-weight: 600; }
+        .q-field   { color: #2563eb; }
+        .q-colon   { color: #ccc; }
+        .q-str     { color: #16a34a; }
+        .q-num     { color: #7c3aed; }
+        .q-unknown { color: #dc2626; text-decoration: underline; text-decoration-style: dotted; }
+
+        /* hints row */
+        .query-hints {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: 8px;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+        }
+
+        .query-hint-label {
+            font-size: 10px;
+            color: #ccc;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .q-chip {
+            font-size: 10px;
+            color: #888;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 1px dotted #ccc;
+            padding-bottom: 1px;
+            transition: color 0.1s, border-color 0.1s;
+            user-select: none;
+        }
+        .q-chip:hover { color: #2563eb; border-color: #2563eb; }
+
+        .query-hint-sep { color: #e8e8e8; font-size: 12px; }
+
+        .query-hint-eg { font-size: 12px; color: #ccc; }
+        .q-example {
+            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+            font-size: 12px;
+            color: #aaa;
+            cursor: pointer;
+            border-bottom: 1px dotted #ddd;
+            padding-bottom: 1px;
+            transition: color 0.15s, border-color 0.15s;
+        }
+        .q-example:hover { color: #1a1a1a; border-color: #999; }
+
+        /* ── Table ───────────────────────────────────────────────── */
+        .table-container {
+            overflow-x: auto;
+            margin-bottom: 24px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+        }
+
+        thead {
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        th {
+            text-align: left;
+            padding: 10px 16px;
+            font-weight: 600;
+            color: #bbb;
+            text-transform: uppercase;
+            font-size: 10px;
+            letter-spacing: 1px;
+            line-height: 1.6;
+            vertical-align: top;
+        }
+
+        th.sortable {
+            cursor: pointer;
+            user-select: none;
+            transition: color 0.15s;
+        }
+        th.sortable:hover { color: #888; }
+        th.sortable.active { color: #1a1a1a; }
+
+        .th-sub.sortable {
+            cursor: pointer;
+            user-select: none;
+            transition: color 0.15s;
+        }
+        .th-sub.sortable:hover { color: #888; }
+        .th-sub.sortable.active { color: #1a1a1a; }
+
+        th .th-main { display: block; margin-bottom: 2px; }
+        th .th-sub  {
+            display: block;
+            font-size: 10px;
+            font-weight: 500;
+            opacity: 0.9;
+        }
+
+        .sort-indicator {
+            margin-left: 3px;
+            font-size: 11px;
+            opacity: 0.4;
+        }
+        th.sortable.active .sort-indicator,
+        .th-sub.sortable.active .sort-indicator {
+            opacity: 1;
+        }
+
+        tbody tr {
+            border-bottom: 1px solid #f0f0f0;
+            transition: background 0.1s;
+        }
+        tbody tr:last-child { border-bottom: none; }
+        tbody tr:hover { background: #f8f8f8 !important; }
+
+        td {
+            padding: 14px 16px;
+            vertical-align: top;
+        }
+
+        .index-col { color: #ccc; font-size: 12px; width: 50px; }
+
+        .id-col { width: 90px; }
+        .id-link {
+            color: #bbb;
+            text-decoration: none;
+            font-size: 12px;
+            border-bottom: 1px dotted #ddd;
+            padding-bottom: 1px;
+            transition: color 0.15s, border-color 0.15s;
+        }
+        .id-link:hover { color: #1a1a1a; border-color: #1a1a1a; }
+
+        .company-col  { width: 280px; }
+        .company-name {
+            font-weight: 500;
+            margin-bottom: 5px;
+            line-height: 1.4;
+            color: #1a1a1a;
+            font-size: 14px;
+        }
+        .company-meta {
+            font-size: 11px;
+            color: #bbb;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+            line-height: 1.4;
+        }
+
+        .role-col  { width: 220px; color: #444; }
+        .yoe-col   { width: 80px; color: #444; }
+
+        .total-col  { width: 140px; }
+        .total-amount {
+            color: #1a1a1a;
+            font-weight: 500;
+            margin-bottom: 5px;
+        }
+        .base-amount {
+            font-size: 11px;
+            color: #bbb;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        }
+
+        /* ── Controls Row ────────────────────────────────────────── */
+        .controls {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding-top: 16px;
+            border-top: 1px solid #f0f0f0;
+            gap: 20px;
+        }
+
+        .per-page {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 11px;
+            color: #aaa;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .per-page-select-wrap {
+            position: relative;
+            display: inline-flex;
+            align-items: center;
+        }
+        .per-page-select-wrap::after {
+            content: '▾';
+            position: absolute;
+            right: 0;
+            font-size: 9px;
+            color: #bbb;
+            pointer-events: none;
+        }
+
+        .per-page select {
+            -webkit-appearance: none;
+            appearance: none;
+            background: transparent;
+            border: none;
+            border-bottom: 1px solid #e0e0e0;
+            border-radius: 0;
+            color: #1a1a1a;
+            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+            font-size: 12px;
+            padding: 2px 14px 2px 2px;
+            cursor: pointer;
+            transition: border-color 0.15s;
+        }
+        .per-page select:focus {
+            outline: none;
+            border-bottom-color: #1a1a1a;
+        }
+
+        /* ── Pagination ──────────────────────────────────────────── */
+        .pagination {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .pagination button {
+            background: none;
+            border: none;
+            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+            font-size: 11px;
+            color: #aaa;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            cursor: pointer;
+            padding: 0 0 1px 0;
+            border-bottom: 1px dotted #ddd;
+            transition: color 0.15s, border-color 0.15s;
+        }
+        .pagination button:hover:not(:disabled) {
+            color: #1a1a1a;
+            border-color: #1a1a1a;
+        }
+        .pagination button:disabled {
+            opacity: 0.25;
+            cursor: not-allowed;
+            border-bottom-color: transparent;
+        }
+
+        .pagination .page-info {
+            font-size: 11px;
+            color: #aaa;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            white-space: nowrap;
+        }
+
+        /* ── Loading ─────────────────────────────────────────────── */
+        .loading {
+            text-align: center;
+            padding: 60px;
+            color: #bbb;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        /* ── Responsive ──────────────────────────────────────────── */
+        @media (max-width: 1315px) {
+            body::before, body::after { display: none; }
         }
 
         @media (max-width: 1024px) {
-            .charts-grid {
-                flex-direction: column;
-            }
-
+            .charts-grid { flex-direction: column; }
             .chart-container.wide,
-            .chart-container.narrow,
-            .chart-container {
-                flex: 1 1 100% !important;
-            }
-        }
-
-        @media (max-width: 1315px) {
-            body::before,
-            body::after {
-                display: none;
-            }
+            .chart-container.narrow { flex: 1 1 100% !important; }
         }
 
         @media (max-width: 768px) {
             header {
-                padding: 8px 20px;
+                padding: 10px 20px;
                 flex-direction: column;
                 align-items: flex-start;
                 gap: 10px;
             }
-            
-            .header-left {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 8px;
-                width: 100%;
-            }
+            .header-right { flex-direction: column; align-items: flex-start; gap: 8px; }
+            .container { padding: 0 20px 30px 20px; }
+            h1 img { min-width: 112px; }
 
-            .header-right {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 8px;
-                width: 100%;
-            }
+            .controls { flex-direction: column; align-items: flex-start; }
+            .query-hints { gap: 6px; }
 
-            .container {
-                padding: 0 20px 30px 20px;
-            }
+            table { font-size: 13px; }
+            th, td { padding: 10px 10px; }
+            .index-col { width: 36px; }
+            .yoe-col   { width: 60px; }
+            .total-col { width: 100px; }
 
-            h1 img {
-                min-width: 112px;
-            }
-
-            .controls {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 12px;
-            }
-
-            .table-controls {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 12px;
-            }
-
-            .search-controls {
-                flex-wrap: wrap;
-                gap: 10px;
-            }
-
-            .search-input-wrapper {
-                width: 100%;
-                max-width: none;
-                order: -1;
-            }
-
-            .search-results-info {
-                width: 100%;
-                margin-left: 0;
-            }
-
-            .pagination {
-                flex-wrap: wrap;
-                gap: 8px;
-            }
-
-            table {
-                font-size: 12px;
-            }
-
-            th, td {
-                padding: 12px 8px;
-            }
-
-            .index-col {
-                width: 40px;
-            }
-
-            .yoe-col {
-                width: 60px;
-            }
-
-            .total-col {
-                width: 110px;
-            }
+            .pagination { flex-wrap: wrap; gap: 10px; }
         }
     </style>
 </head>
@@ -604,38 +544,69 @@
             <div class="stats">
                 <span id="stats">Loading...</span>
             </div>
-            <div class="github-section">
+            <div>
                 <a href="https://github.com/kuutsav/leetcode-compensation" target="_blank" rel="noopener noreferrer" class="github-link">GitHub</a>
                 <div class="github-stars" id="github-stars"></div>
             </div>
         </div>
     </header>
+
     <div class="container">
+
+        <!-- Charts -->
         <div class="charts-section">
+            <div class="section-label">Overview</div>
             <div class="charts-grid">
-                <div class="chart-container wide" id="distribution-chart"></div>
+                <div class="chart-container wide"   id="distribution-chart"></div>
                 <div class="chart-container narrow" id="experience-chart"></div>
             </div>
             <div class="charts-grid">
-                <div class="chart-container wide" id="company-chart"></div>
+                <div class="chart-container wide"   id="company-chart"></div>
                 <div class="chart-container narrow" id="top-companies-chart"></div>
             </div>
         </div>
 
-        <div class="search-controls">
-            <select id="search-field">
-                <option value="company">Company</option>
-                <option value="role">Role</option>
-                <option value="location">Location</option>
-            </select>
-            <div class="search-input-wrapper">
-                <span class="search-icon">⌕</span>
-                <input type="text" id="search-input" placeholder="Search by company...">
+        <!-- Query Bar -->
+        <div class="query-bar-section">
+            <div class="query-bar-wrap" id="query-bar-wrap">
+                <span class="query-icon">⌕</span>
+                <div class="query-editor">
+                    <div class="query-hl"><span class="query-hl-inner" id="query-hl-inner"></span></div>
+                    <input
+                        type="text"
+                        id="query-input"
+                        class="query-input"
+                        placeholder="company:Google AND yoe:3-7 AND base:50-100"
+                        autocomplete="off"
+                        spellcheck="false"
+                    >
+                </div>
+                <div class="query-right">
+                    <span class="query-meta" id="query-meta"></span>
+                    <button class="query-clear-btn" id="query-clear">Clear</button>
+                </div>
             </div>
-            <button class="clear-search" id="clear-search">Clear</button>
-            <span class="search-results-info" id="search-results-info"></span>
         </div>
 
+        <!-- Hints -->
+        <div class="query-hints">
+            <span class="query-hint-label">Fields</span>
+            <span class="q-chip" data-field="company">company</span>
+            <span class="q-chip" data-field="role">role</span>
+            <span class="q-chip" data-field="location">location</span>
+            <span class="q-chip" data-field="yoe">yoe</span>
+            <span class="q-chip" data-field="base">base</span>
+            <span class="q-chip" data-field="ctc">ctc</span>
+            <span class="query-hint-sep">·</span>
+            <span class="query-hint-eg">e.g.</span>
+            <span class="q-example" data-query="company:Google AND yoe:3-7">company:Google AND yoe:3-7</span>
+            <span class="query-hint-sep">·</span>
+            <span class="q-example" data-query="company:Google OR company:Meta">company:Google OR company:Meta</span>
+            <span class="query-hint-sep">·</span>
+            <span class="q-example" data-query="role:SDE AND base:50-100 AND ctc:80+">role:SDE AND base:50-100 AND ctc:80+</span>
+        </div>
+
+        <!-- Table -->
         <div class="table-container">
             <table id="data-table">
                 <thead>
@@ -644,7 +615,7 @@
                         <th>ID</th>
                         <th>
                             <span class="th-main">Company</span>
-                            <span class="th-sub">Date | Location</span>
+                            <span class="th-sub">Date · Location</span>
                         </th>
                         <th>Role</th>
                         <th class="sortable" data-sort="yoe">
@@ -657,60 +628,69 @@
                     </tr>
                 </thead>
                 <tbody id="table-body">
-                    <tr>
-                        <td colspan="6" class="loading">Loading data...</td>
-                    </tr>
+                    <tr><td colspan="6" class="loading">Loading data...</td></tr>
                 </tbody>
             </table>
         </div>
 
+        <!-- Controls -->
         <div class="controls">
             <div class="per-page">
-                <label for="per-page-select">Show</label>
-                <select id="per-page-select">
-                    <option value="10" selected>10</option>
-                    <option value="25">25</option>
-                    <option value="50">50</option>
-                    <option value="100">100</option>
-                </select>
+                <span>Show</span>
+                <div class="per-page-select-wrap">
+                    <select id="per-page-select">
+                        <option value="10" selected>10</option>
+                        <option value="25">25</option>
+                        <option value="50">50</option>
+                        <option value="100">100</option>
+                    </select>
+                </div>
                 <span>entries</span>
             </div>
             <div class="pagination">
-                <button id="first-page">&lt;&lt; First</button>
-                <button id="prev-page">&lt; Prev</button>
+                <button id="first-page">First</button>
+                <button id="prev-page">Prev</button>
                 <span class="page-info">
                     Page <span id="current-page">1</span> of <span id="total-pages">1</span>
                 </span>
-                <button id="next-page">Next &gt;</button>
-                <button id="last-page">Last &gt;&gt;</button>
+                <button id="next-page">Next</button>
+                <button id="last-page">Last</button>
             </div>
         </div>
-    </div>
+
+    </div><!-- /container -->
 
     <script src="https://code.highcharts.com/highcharts.js"></script>
     <script src="https://code.highcharts.com/highcharts-more.js"></script>
     <script>
+        /* ── State ───────────────────────────────────────────────── */
         let itemsPerPage = 10;
-        let allData = [];
-        let displayData = [];
-        let currentPage = 1;
-        let totalPages = 1;
-        let currentSort = { column: null, direction: 'asc' };
-        let currentSearch = { field: 'company', query: '' };
+        let allData      = [];
+        let displayData  = [];
+        let currentPage  = 1;
+        let totalPages   = 1;
+        let currentSort  = { column: null, direction: 'asc' };
+        let currentQuery = '';
+        let chartInstances = {};
 
+        const FIELDS     = ['company', 'role', 'location', 'yoe', 'base', 'ctc'];
+        const NUM_FIELDS  = ['yoe', 'base', 'ctc'];
+        const FIELD_MAP   = { ctc: 'total', base: 'base', yoe: 'yoe', company: 'company', role: 'role', location: 'location' };
+
+        /* ── Load ────────────────────────────────────────────────── */
         async function loadData() {
             try {
                 const response = await fetch('data/final_data.json');
-                allData = await response.json();
+                allData     = await response.json();
                 displayData = [...allData];
-                totalPages = Math.ceil(displayData.length / itemsPerPage);
+                totalPages  = Math.ceil(displayData.length / itemsPerPage);
 
                 updateStats();
-                renderCharts();
+                renderCharts(allData);
                 renderPage(1);
                 updatePaginationControls();
                 setupSortListeners();
-                setupSearchListeners();
+                setupQueryBar();
             } catch (error) {
                 document.getElementById('table-body').innerHTML =
                     '<tr><td colspan="6" class="loading">Error loading data. Please run the conversion script first.</td></tr>';
@@ -718,524 +698,262 @@
             }
         }
 
-        function setupSortListeners() {
-            document.querySelectorAll('th.sortable').forEach(th => {
-                th.addEventListener('click', (e) => {
-                    const sortColumn = th.getAttribute('data-sort');
-                    sortData(sortColumn);
-                });
-            });
-            
-            // Add listener for base salary (which is inside a span)
-            document.querySelectorAll('.th-sub.sortable').forEach(span => {
-                span.addEventListener('click', (e) => {
-                    e.stopPropagation(); // Prevent parent th click
-                    const sortColumn = span.getAttribute('data-sort');
-                    sortData(sortColumn);
-                });
-            });
-        }
+        /* ── Query Bar ───────────────────────────────────────────── */
+        function setupQueryBar() {
+            const input    = document.getElementById('query-input');
+            const hlInner  = document.getElementById('query-hl-inner');
+            const meta     = document.getElementById('query-meta');
+            const clearBtn = document.getElementById('query-clear');
 
-        function setupSearchListeners() {
-            const searchInput = document.getElementById('search-input');
-            const searchField = document.getElementById('search-field');
-            const clearSearch = document.getElementById('clear-search');
+            function syncHighlight() {
+                hlInner.innerHTML = highlightQuery(input.value);
+                hlInner.style.marginLeft = `-${input.scrollLeft}px`;
+            }
 
-            // Update placeholder when field changes
-            searchField.addEventListener('change', () => {
-                currentSearch.field = searchField.value;
-                const fieldLabels = {
-                    'company': 'company',
-                    'role': 'role',
-                    'location': 'location'
-                };
-                searchInput.placeholder = `Search by ${fieldLabels[currentSearch.field]}...`;
-                
-                // Re-filter if there's a query
-                if (currentSearch.query) {
-                    filterData();
+            input.addEventListener('input', () => {
+                currentQuery = input.value;
+                syncHighlight();
+                applyFilter();
+            });
+
+            input.addEventListener('scroll', () => {
+                hlInner.style.marginLeft = `-${input.scrollLeft}px`;
+            });
+
+            input.addEventListener('keydown', e => {
+                if (e.key === 'Escape') {
+                    input.value = '';
+                    currentQuery = '';
+                    syncHighlight();
+                    applyFilter();
                 }
             });
 
-            // Filter on input
-            searchInput.addEventListener('input', () => {
-                currentSearch.query = searchInput.value.trim();
-                filterData();
+            clearBtn.addEventListener('click', () => {
+                input.value = '';
+                currentQuery = '';
+                syncHighlight();
+                applyFilter();
+                input.focus();
             });
 
-            // Clear search
-            clearSearch.addEventListener('click', () => {
-                searchInput.value = '';
-                currentSearch.query = '';
-                filterData();
+            // Field chips → insert into query
+            document.querySelectorAll('.q-chip[data-field]').forEach(chip => {
+                chip.addEventListener('click', () => {
+                    const pos  = input.selectionStart;
+                    const val  = input.value;
+                    const gap  = val.length > 0 && !val.endsWith(' ') ? ' ' : '';
+                    const ins  = gap + chip.dataset.field + ':';
+                    input.value = val.slice(0, pos) + ins + val.slice(pos);
+                    const newPos = pos + ins.length;
+                    input.focus();
+                    input.setSelectionRange(newPos, newPos);
+                    currentQuery = input.value;
+                    syncHighlight();
+                    applyFilter();
+                });
+            });
+
+            // Example queries → replace
+            document.querySelectorAll('.q-example[data-query]').forEach(ex => {
+                ex.addEventListener('click', () => {
+                    input.value  = ex.dataset.query;
+                    currentQuery = input.value;
+                    syncHighlight();
+                    applyFilter();
+                    input.focus();
+                });
             });
         }
 
-        function filterData() {
-            const query = currentSearch.query.toLowerCase();
-            
-            if (!query) {
+        /* ── Highlight ───────────────────────────────────────────── */
+        function escHtml(s) {
+            return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+        }
+
+        function highlightQuery(str) {
+            if (!str) return '';
+            const fp  = FIELDS.join('|');
+            const re  = new RegExp(`\\b(AND|OR)\\b|(${fp}):((?:"[^"]*"|[^\\s]+))|(\\S+)`, 'gi');
+            let result = '', lastIdx = 0, m;
+
+            while ((m = re.exec(str)) !== null) {
+                if (m.index > lastIdx) result += escHtml(str.slice(lastIdx, m.index));
+                if (m[1]) {
+                    result += `<span class="q-op">${escHtml(m[1])}</span>`;
+                } else if (m[2]) {
+                    const cls = NUM_FIELDS.includes(m[2].toLowerCase()) ? 'q-num' : 'q-str';
+                    result += `<span class="q-field">${escHtml(m[2])}</span>`
+                           + `<span class="q-colon">:</span>`
+                           + `<span class="${cls}">${escHtml(m[3])}</span>`;
+                } else {
+                    result += `<span class="q-unknown">${escHtml(m[4])}</span>`;
+                }
+                lastIdx = m.index + m[0].length;
+            }
+            if (lastIdx < str.length) result += escHtml(str.slice(lastIdx));
+            return result;
+        }
+
+        /* ── Query Parser ────────────────────────────────────────── */
+        // Splits by OR (low precedence), then by AND (high precedence)
+        // Returns null if empty, or Array<Array<Condition>>
+        function parseQuery(str) {
+            if (!str || !str.trim()) return null;
+            const orGroups = str.split(/\bOR\b/i)
+                .map(part => {
+                    return part.split(/\bAND\b/i)
+                        .map(s => parseCondition(s.trim()))
+                        .filter(c => c !== null);
+                })
+                .filter(g => g.length > 0);
+            return orGroups.length > 0 ? orGroups : null;
+        }
+
+        function parseCondition(str) {
+            if (!str) return null;
+            const fp = FIELDS.join('|');
+            const m  = str.match(new RegExp(`^(${fp}):((?:"[^"]*"|\\S+))$`, 'i'));
+            if (!m) return null;
+
+            const field = m[1].toLowerCase();
+            let   value = m[2].replace(/^["']|["']$/g, '');
+
+            if (NUM_FIELDS.includes(field)) {
+                const range = value.match(/^(\d+(?:\.\d+)?)-(\d+(?:\.\d+)?)$/);
+                if (range) return { field, type: 'range', min: +range[1], max: +range[2] };
+
+                const gte = value.match(/^(\d+(?:\.\d+)?)\+$/);
+                if (gte)   return { field, type: 'gte', value: +gte[1] };
+
+                const num = value.match(/^(\d+(?:\.\d+)?)$/);
+                if (num)   return { field, type: 'exact_num', value: +num[1] };
+
+                return null;
+            }
+            return { field, type: 'contains', value: value.toLowerCase() };
+        }
+
+        function matchCondition(entry, cond) {
+            const val = entry[FIELD_MAP[cond.field]];
+            if (val === null || val === undefined) return false;
+            if (cond.type === 'range')     return +val >= cond.min && +val <= cond.max;
+            if (cond.type === 'gte')       return +val >= cond.value;
+            if (cond.type === 'exact_num') return +val === cond.value;
+            if (cond.type === 'contains')  return String(val).toLowerCase().includes(cond.value);
+            return false;
+        }
+
+        function evaluateQuery(entry, orGroups) {
+            return orGroups.some(andGroup => andGroup.every(cond => matchCondition(entry, cond)));
+        }
+
+        /* ── Apply Filter ────────────────────────────────────────── */
+        function applyFilter() {
+            const parsed = parseQuery(currentQuery);
+
+            if (!parsed) {
                 displayData = [...allData];
-                document.getElementById('search-results-info').textContent = '';
+                document.getElementById('query-meta').textContent = '';
             } else {
-                displayData = allData.filter(entry => {
-                    const fieldValue = entry[currentSearch.field];
-                    if (fieldValue === null || fieldValue === undefined) return false;
-                    return fieldValue.toLowerCase().includes(query);
-                });
-                document.getElementById('search-results-info').textContent = 
-                    `${displayData.length} result${displayData.length !== 1 ? 's' : ''} found`;
+                displayData = allData.filter(e => evaluateQuery(e, parsed));
+                const n = displayData.length;
+                document.getElementById('query-meta').textContent =
+                    `${n.toLocaleString()} result${n !== 1 ? 's' : ''}`;
             }
 
-            // Re-apply current sort if active
+            // Re-apply sort
             if (currentSort.column) {
                 displayData.sort((a, b) => {
-                    let valA = a[currentSort.column];
-                    let valB = b[currentSort.column];
-
-                    if (valA === null || valA === undefined) return 1;
-                    if (valB === null || valB === undefined) return -1;
-
-                    valA = Number(valA);
-                    valB = Number(valB);
-
-                    if (currentSort.direction === 'asc') {
-                        return valA - valB;
-                    } else {
-                        return valB - valA;
-                    }
+                    let va = a[currentSort.column], vb = b[currentSort.column];
+                    if (va == null) return 1;
+                    if (vb == null) return -1;
+                    va = Number(va); vb = Number(vb);
+                    return currentSort.direction === 'asc' ? va - vb : vb - va;
                 });
             }
 
-            totalPages = Math.ceil(displayData.length / itemsPerPage) || 1;
+            renderCharts(displayData);
+            totalPages  = Math.ceil(displayData.length / itemsPerPage) || 1;
             currentPage = 1;
             renderPage(1);
             updatePaginationControls();
         }
 
+        /* ── Sort ────────────────────────────────────────────────── */
+        function setupSortListeners() {
+            document.querySelectorAll('th.sortable').forEach(th => {
+                th.addEventListener('click', () => sortData(th.getAttribute('data-sort')));
+            });
+            document.querySelectorAll('.th-sub.sortable').forEach(span => {
+                span.addEventListener('click', e => {
+                    e.stopPropagation();
+                    sortData(span.getAttribute('data-sort'));
+                });
+            });
+        }
+
         function sortData(column) {
-            // Cycle through: desc -> asc -> reset (null)
             if (currentSort.column === column) {
                 if (currentSort.direction === 'desc') {
                     currentSort.direction = 'asc';
-                } else if (currentSort.direction === 'asc') {
-                    // Reset to original order
-                    currentSort.column = null;
+                } else {
+                    currentSort.column    = null;
                     currentSort.direction = 'asc';
-                    displayData = [...allData];
-                    
-                    // Update sort indicators
-                    document.querySelectorAll('th.sortable, .th-sub.sortable').forEach(el => {
-                        el.classList.remove('active');
-                        const indicators = el.querySelectorAll('.sort-indicator');
-                        indicators.forEach(indicator => indicator.textContent = '↕');
-                    });
-                    
-                    // Reset to first page and render
-                    currentPage = 1;
-                    renderPage(1);
+                    updateSortIndicators();
+                    applyFilter();
                     return;
                 }
             } else {
-                currentSort.column = column;
+                currentSort.column    = column;
                 currentSort.direction = 'desc';
             }
 
-            // Sort the display data
             displayData.sort((a, b) => {
-                let valA = a[column];
-                let valB = b[column];
-
-                // Handle null/undefined values
-                if (valA === null || valA === undefined) return 1;
-                if (valB === null || valB === undefined) return -1;
-
-                // Convert to numbers for comparison
-                valA = Number(valA);
-                valB = Number(valB);
-
-                if (currentSort.direction === 'asc') {
-                    return valA - valB;
-                } else {
-                    return valB - valA;
-                }
+                let va = a[column], vb = b[column];
+                if (va == null) return 1;
+                if (vb == null) return -1;
+                va = Number(va); vb = Number(vb);
+                return currentSort.direction === 'asc' ? va - vb : vb - va;
             });
 
-            // Update sort indicators
-            document.querySelectorAll('th.sortable, .th-sub.sortable').forEach(el => {
-                el.classList.remove('active');
-                const indicators = el.querySelectorAll('.sort-indicator');
-                indicators.forEach(indicator => indicator.textContent = '↕');
-            });
-
-            const activeTh = document.querySelector(`th[data-sort="${column}"]`);
-            const activeSpan = document.querySelector(`.th-sub[data-sort="${column}"]`);
-            const activeEl = activeTh || activeSpan;
-            
-            if (activeEl) {
-                activeEl.classList.add('active');
-                const indicator = activeEl.querySelector('.sort-indicator');
-                if (indicator) {
-                    indicator.textContent = currentSort.direction === 'asc' ? '↑' : '↓';
-                }
-            }
-
-            // Reset to first page and render
+            updateSortIndicators();
             currentPage = 1;
             renderPage(1);
+            updatePaginationControls();
         }
 
-        function getExperienceLevel(yoe) {
-            if (yoe === null || yoe === undefined) return null;
-            if (yoe <= 1) return 'Entry (0-1)';
-            if (yoe <= 6) return 'Mid (2-6)';
-            if (yoe <= 10) return 'Senior (7-10)';
-            return 'Senior + (11+)';
-        }
-
-        function renderCharts() {
-            // Filter out entries with null total compensation
-            const validData = allData.filter(entry => entry.total !== null && entry.total !== undefined);
-
-            // 1. Distribution Chart
-            renderDistributionChart(validData);
-            
-            // 2. Experience Level Chart
-            renderExperienceChart(validData);
-            
-            // 3. Company Chart
-            renderCompanyChart(validData);
-            
-            // 4. Top Companies Bar Chart
-            renderTopCompaniesChart(allData);
-        }
-
-        function renderDistributionChart(data) {
-            const bins = [
-                { min: 0, max: 9.99, label: '0-9' },
-                { min: 10, max: 19.99, label: '10-19' },
-                { min: 20, max: 29.99, label: '20-29' },
-                { min: 30, max: 39.99, label: '30-39' },
-                { min: 40, max: 49.99, label: '40-49' },
-                { min: 50, max: 59.99, label: '50-59' },
-                { min: 60, max: 69.99, label: '60-69' },
-                { min: 70, max: 79.99, label: '70-79' },
-                { min: 80, max: 89.99, label: '80-89' },
-                { min: 90, max: 99.99, label: '90-99' },
-                { min: 100, max: 109.99, label: '100-109' },
-                { min: 110, max: 119.99, label: '110-119' },
-                { min: 120, max: 129.99, label: '120-129' },
-                { min: 130, max: 139.99, label: '130-139' },
-                { min: 140, max: 149.99, label: '140-149' },
-                { min: 150, max: 159.99, label: '150-159' },
-                { min: 160, max: 169.99, label: '160-169' },
-                { min: 170, max: 179.99, label: '170-179' },
-                { min: 180, max: Infinity, label: '180+' }
-            ];
-
-            const counts = bins.map(bin => {
-                const count = data.filter(entry => entry.total >= bin.min && entry.total <= bin.max).length;
-                return { label: bin.label, count };
+        function updateSortIndicators() {
+            document.querySelectorAll('th.sortable, .th-sub.sortable').forEach(el => {
+                el.classList.remove('active');
+                const ind = el.querySelector('.sort-indicator');
+                if (ind) ind.textContent = '↕';
             });
-
-            Highcharts.chart('distribution-chart', {
-                chart: {
-                    type: 'column',
-                    backgroundColor: '#ffffff',
-                    height: 300
-                },
-                title: {
-                    text: 'Total Compensation Distribution',
-                    style: { 
-                        fontSize: '12px',
-                        fontWeight: 'normal',
-                        fontFamily: '"Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace'
-                    }
-                },
-                xAxis: {
-                    categories: counts.map(c => c.label),
-                    title: { text: 'Total Compensation (₹ LPA)', style: { fontSize: '11px' } },
-                    labels: { rotation: 0, style: { fontSize: '10px' } }
-                },
-                yAxis: {
-                    title: { text: 'Count', style: { fontSize: '11px' } },
-                    labels: { style: { fontSize: '10px' } }
-                },
-                series: [{
-                    name: 'Offers',
-                    data: counts.map(c => c.count),
-                    color: '#55b17f',
-                    dataLabels: {
-                        enabled: true,
-                        style: { fontSize: '11px', fontWeight: 'bold' }
-                    }
-                }],
-                legend: { enabled: false },
-                credits: { enabled: false },
-                plotOptions: {
-                    column: {
-                        borderRadius: 3
-                    }
-                }
-            });
-        }
-
-        function calculateBoxPlotStats(values) {
-            if (values.length === 0) return null;
-            
-            const sorted = [...values].sort((a, b) => a - b);
-            const q1Index = Math.floor(sorted.length * 0.25);
-            const q2Index = Math.floor(sorted.length * 0.5);
-            const q3Index = Math.floor(sorted.length * 0.75);
-            
-            const q1 = sorted[q1Index];
-            const q2 = sorted[q2Index];
-            const q3 = sorted[q3Index];
-            const iqr = q3 - q1;
-            
-            // Calculate whiskers using IQR method (1.5 * IQR)
-            const lowerFence = q1 - 1.5 * iqr;
-            const upperFence = q3 + 1.5 * iqr;
-            
-            // Find actual whisker values (closest values within fences)
-            const lowerWhisker = sorted.find(v => v >= lowerFence) || sorted[0];
-            const upperWhisker = sorted.reverse().find(v => v <= upperFence) || sorted[0];
-            
-            return [lowerWhisker, q1, q2, q3, upperWhisker];
-        }
-
-        function renderExperienceChart(data) {
-            const levels = ['Entry (0-1)', 'Mid (2-6)', 'Senior (7-10)', 'Senior + (11+)'];
-            const levelLabels = ['Entry<br/>(0-1)', 'Mid<br/>(2-6)', 'Senior<br/>(7-10)', 'Senior +<br/>(11+)'];
-            const boxPlotData = levels.map(level => {
-                const levelData = data
-                    .filter(entry => entry.yoe !== null && entry.yoe !== undefined && getExperienceLevel(entry.yoe) === level)
-                    .map(entry => entry.total);
-                
-                return calculateBoxPlotStats(levelData);
-            }).filter(d => d !== null);
-
-            Highcharts.chart('experience-chart', {
-                chart: {
-                    type: 'boxplot',
-                    backgroundColor: '#ffffff',
-                    height: 300
-                },
-                title: {
-                    text: 'Compensation by Experience',
-                    style: { 
-                        fontSize: '12px',
-                        fontWeight: 'normal',
-                        fontFamily: '"Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace'
-                    }
-                },
-                xAxis: {
-                    categories: levelLabels,
-                    title: { text: null },
-                    labels: { 
-                        useHTML: true,
-                        style: { fontSize: '10px', textAlign: 'center' }
-                    }
-                },
-                yAxis: {
-                    title: { text: 'Total Compensation (₹ LPA)', style: { fontSize: '11px' } },
-                    labels: { style: { fontSize: '10px' } }
-                },
-                series: [{
-                    name: 'Compensation',
-                    data: boxPlotData,
-                    color: '#55b17f',
-                    fillColor: 'transparent',
-                    lineWidth: 2,
-                    medianWidth: 3,
-                    stemWidth: 2,
-                    whiskerLength: '50%',
-                    whiskerWidth: 2
-                }],
-                legend: { enabled: false },
-                credits: { enabled: false }
-            });
-        }
-
-        function renderCompanyChart(data) {
-            // Count offers per company and calculate stats
-            const companyCounts = {};
-            data.forEach(entry => {
-                if (!companyCounts[entry.company]) {
-                    companyCounts[entry.company] = [];
-                }
-                companyCounts[entry.company].push(entry.total);
-            });
-
-            // Get companies with at least 10 entries, calculate median, and sort by median
-            const companiesWithStats = Object.entries(companyCounts)
-                .filter(([company, values]) => values.length >= 10)
-                .map(([company, values]) => {
-                    const sorted = [...values].sort((a, b) => a - b);
-                    const medianIndex = Math.floor(sorted.length * 0.5);
-                    return {
-                        company,
-                        median: sorted[medianIndex],
-                        values
-                    };
-                })
-                .sort((a, b) => b.median - a.median)
-                .slice(0, 20);
-
-            const topCompanies = companiesWithStats.map(c => c.company);
-            const boxPlotData = companiesWithStats.map(c => calculateBoxPlotStats(c.values)).filter(d => d !== null);
-
-            Highcharts.chart('company-chart', {
-                chart: {
-                    type: 'boxplot',
-                    backgroundColor: '#ffffff',
-                    height: 300
-                },
-                title: {
-                    text: 'Compensation by Company (Top 20 by Median)',
-                    style: { 
-                        fontSize: '12px',
-                        fontWeight: 'normal',
-                        fontFamily: '"Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace'
-                    }
-                },
-                xAxis: {
-                    categories: topCompanies,
-                    title: { text: null },
-                    labels: { 
-                        rotation: -90,
-                        style: { fontSize: '10px' }
-                    }
-                },
-                yAxis: {
-                    title: { text: 'Total Compensation (₹ LPA)', style: { fontSize: '11px' } },
-                    labels: { style: { fontSize: '10px' } }
-                },
-                series: [{
-                    name: 'Compensation',
-                    data: boxPlotData,
-                    color: '#55b17f',
-                    fillColor: 'transparent',
-                    lineWidth: 2,
-                    medianWidth: 3,
-                    stemWidth: 2,
-                    whiskerLength: '50%',
-                    whiskerWidth: 2
-                }],
-                legend: { enabled: false },
-                credits: { enabled: false }
-            });
-        }
-
-        function renderTopCompaniesChart(data) {
-            // Count offers per company
-            const companyCounts = {};
-            data.forEach(entry => {
-                companyCounts[entry.company] = (companyCounts[entry.company] || 0) + 1;
-            });
-
-            // Get top 10 companies by offer count
-            const topCompanies = Object.entries(companyCounts)
-                .sort((a, b) => b[1] - a[1])
-                .slice(0, 10);
-
-            const companies = topCompanies.map(entry => entry[0]);
-            const counts = topCompanies.map(entry => entry[1]);
-
-            Highcharts.chart('top-companies-chart', {
-                chart: {
-                    type: 'bar',
-                    backgroundColor: '#ffffff',
-                    height: 300
-                },
-                title: {
-                    text: 'Companies with Most Offers',
-                    style: { 
-                        fontSize: '12px',
-                        fontWeight: 'normal',
-                        fontFamily: '"Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace'
-                    }
-                },
-                xAxis: {
-                    categories: companies,
-                    title: { text: null },
-                    labels: { style: { fontSize: '10px' } }
-                },
-                yAxis: {
-                    title: { text: '# Offers', style: { fontSize: '11px' } },
-                    labels: { style: { fontSize: '10px' } }
-                },
-                series: [{
-                    name: 'Offers',
-                    data: counts,
-                    color: '#55b17f',
-                    dataLabels: {
-                        enabled: true,
-                        style: { fontSize: '11px', fontWeight: 'bold' }
-                    }
-                }],
-                legend: { enabled: false },
-                credits: { enabled: false },
-                plotOptions: {
-                    bar: {
-                        borderRadius: 3
-                    }
-                }
-            });
-        }
-
-        function updateStats() {
-            const stats = document.getElementById('stats');
-            
-            // Get date range
-            const dates = allData.map(entry => new Date(entry.date)).sort((a, b) => a - b);
-            const startDate = dates[0];
-            const endDate = dates[dates.length - 1];
-            
-            const formatDate = (date) => {
-                const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-                return `${monthNames[date.getMonth()]}-${date.getFullYear().toString().slice(-2)}`;
-            };
-            
-            stats.innerHTML = `<span style="white-space: nowrap;">${allData.length.toLocaleString()} records [${formatDate(startDate)} — ${formatDate(endDate)}]</span><br><span style="white-space: nowrap;">from <a href="https://leetcode.com/discuss/" target="_blank" rel="noopener noreferrer" style="color: #666; text-decoration: underline; text-decoration-style: dotted;">leetcode/compensation</a></span>`;
-        }
-
-        function formatDate(dateString) {
-            const date = new Date(dateString);
-            const day = String(date.getDate()).padStart(2, '0');
-            const month = String(date.getMonth() + 1).padStart(2, '0');
-            const year = date.getFullYear();
-            return `${day}-${month}-${year}`;
-        }
-
-        function formatSalary(amount) {
-            if (amount === null || amount === undefined) {
-                return 'N/A';
+            if (!currentSort.column) return;
+            const el = document.querySelector(`th[data-sort="${currentSort.column}"]`)
+                    || document.querySelector(`.th-sub[data-sort="${currentSort.column}"]`);
+            if (el) {
+                el.classList.add('active');
+                const ind = el.querySelector('.sort-indicator');
+                if (ind) ind.textContent = currentSort.direction === 'asc' ? '↑' : '↓';
             }
-            return Number(amount).toFixed(1);
         }
 
-        function formatYOE(yoe) {
-            if (yoe === null || yoe === undefined) {
-                return 'N/A';
-            }
-            return yoe;
-        }
-
+        /* ── Render Table ────────────────────────────────────────── */
         function renderPage(page) {
             currentPage = page;
-            const startIdx = (page - 1) * itemsPerPage;
-            const endIdx = startIdx + itemsPerPage;
-            const pageData = displayData.slice(startIdx, endIdx);
+            const start   = (page - 1) * itemsPerPage;
+            const pageData = displayData.slice(start, start + itemsPerPage);
 
-            const tbody = document.getElementById('table-body');
-            tbody.innerHTML = pageData.map((entry, idx) => `
+            document.getElementById('table-body').innerHTML = pageData.map((entry, idx) => `
                 <tr>
-                    <td class="index-col">${startIdx + idx + 1}</td>
-                    <td class="id-col"><a href="https://leetcode.com/discuss/post/${entry.id}" target="_blank" rel="noopener noreferrer" class="id-link">${entry.id}</a></td>
+                    <td class="index-col">${start + idx + 1}</td>
+                    <td class="id-col">
+                        <a href="https://leetcode.com/discuss/post/${entry.id}" target="_blank" rel="noopener noreferrer" class="id-link">${entry.id}</a>
+                    </td>
                     <td class="company-col">
                         <div class="company-name">${entry.company}</div>
-                        <div class="company-meta">${formatDate(entry.date)}${entry.location ? ' | ' + entry.location : ''}</div>
+                        <div class="company-meta">${formatDate(entry.date)}${entry.location ? ' · ' + entry.location : ''}</div>
                     </td>
                     <td class="role-col">${entry.role}</td>
                     <td class="yoe-col">${formatYOE(entry.yoe)}</td>
@@ -1247,23 +965,259 @@
             `).join('');
 
             document.getElementById('current-page').textContent = currentPage;
-            document.getElementById('total-pages').textContent = totalPages;
-
+            document.getElementById('total-pages').textContent  = totalPages;
             updatePaginationControls();
         }
 
         function updatePaginationControls() {
             document.getElementById('first-page').disabled = currentPage === 1;
-            document.getElementById('prev-page').disabled = currentPage === 1;
-            document.getElementById('next-page').disabled = currentPage === totalPages;
-            document.getElementById('last-page').disabled = currentPage === totalPages;
+            document.getElementById('prev-page').disabled  = currentPage === 1;
+            document.getElementById('next-page').disabled  = currentPage === totalPages;
+            document.getElementById('last-page').disabled  = currentPage === totalPages;
         }
 
-        // Event listeners
-        document.getElementById('per-page-select').addEventListener('change', (e) => {
+        /* ── Charts ──────────────────────────────────────────────── */
+        const CHART_FONT = '"Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace';
+
+        function chartTitleStyle() {
+            return { fontSize: '10px', fontWeight: '600', letterSpacing: '1.5px', color: '#bbb', fontFamily: CHART_FONT, textTransform: 'uppercase' };
+        }
+        function chartAxisStyle() {
+            return { fontSize: '10px', fontFamily: CHART_FONT, color: '#bbb' };
+        }
+        function chartAxisTitleStyle() {
+            return { fontSize: '10px', fontFamily: CHART_FONT, color: '#bbb', fontWeight: '400', textTransform: 'uppercase', letterSpacing: '0.5px' };
+        }
+
+        function destroyCharts() {
+            Object.values(chartInstances).forEach(c => { if (c) c.destroy(); });
+            chartInstances = {};
+        }
+
+        function renderCharts(data) {
+            destroyCharts();
+            const validData = data.filter(e => e.total != null);
+            chartInstances.distribution = renderDistributionChart(validData);
+            chartInstances.experience   = renderExperienceChart(validData);
+            chartInstances.company      = renderCompanyChart(validData);
+            chartInstances.topCompanies = renderTopCompaniesChart(data);
+        }
+
+        function renderDistributionChart(data) {
+            const bins = [
+                {min:0,   max:9.99,   label:'0-9'},
+                {min:10,  max:19.99,  label:'10-19'},
+                {min:20,  max:29.99,  label:'20-29'},
+                {min:30,  max:39.99,  label:'30-39'},
+                {min:40,  max:49.99,  label:'40-49'},
+                {min:50,  max:59.99,  label:'50-59'},
+                {min:60,  max:69.99,  label:'60-69'},
+                {min:70,  max:79.99,  label:'70-79'},
+                {min:80,  max:89.99,  label:'80-89'},
+                {min:90,  max:99.99,  label:'90-99'},
+                {min:100, max:109.99, label:'100-109'},
+                {min:110, max:119.99, label:'110-119'},
+                {min:120, max:129.99, label:'120-129'},
+                {min:130, max:139.99, label:'130-139'},
+                {min:140, max:149.99, label:'140-149'},
+                {min:150, max:159.99, label:'150-159'},
+                {min:160, max:169.99, label:'160-169'},
+                {min:170, max:179.99, label:'170-179'},
+                {min:180, max:Infinity, label:'180+'}
+            ];
+            const counts = bins.map(b => ({
+                label: b.label,
+                count: data.filter(e => e.total >= b.min && e.total <= b.max).length
+            }));
+
+            return Highcharts.chart('distribution-chart', {
+                chart: { type: 'column', backgroundColor: '#ffffff', height: 300 },
+                title: { text: 'Total Compensation Distribution', style: chartTitleStyle() },
+                xAxis: {
+                    categories: counts.map(c => c.label),
+                    title: { text: 'Total Compensation (₹ LPA)', style: chartAxisTitleStyle() },
+                    labels: { rotation: 0, style: chartAxisStyle() },
+                    lineColor: '#e0e0e0', tickColor: '#e0e0e0'
+                },
+                yAxis: {
+                    title: { text: 'Count', style: chartAxisTitleStyle() },
+                    labels: { style: chartAxisStyle() },
+                    gridLineColor: '#f0f0f0'
+                },
+                series: [{
+                    name: 'Offers',
+                    data: counts.map(c => c.count),
+                    color: '#1a1a1a',
+                    dataLabels: { enabled: true, style: { fontSize: '10px', fontWeight: '600', fontFamily: CHART_FONT, color: '#888' }, textOutline: 'none' }
+                }],
+                legend: { enabled: false },
+                credits: { enabled: false },
+                plotOptions: { column: { borderRadius: 0, borderWidth: 0 } },
+                tooltip: { style: { fontFamily: CHART_FONT, fontSize: '12px' } }
+            });
+        }
+
+        function calculateBoxPlotStats(values) {
+            if (values.length < 2) return null;
+            const s  = [...values].sort((a, b) => a - b);
+            const q1 = s[Math.floor(s.length * 0.25)];
+            const q2 = s[Math.floor(s.length * 0.50)];
+            const q3 = s[Math.floor(s.length * 0.75)];
+            const iqr = q3 - q1;
+            const lo  = s.find(v => v >= q1 - 1.5 * iqr) ?? s[0];
+            const hi  = [...s].reverse().find(v => v <= q3 + 1.5 * iqr) ?? s[s.length - 1];
+            return [lo, q1, q2, q3, hi];
+        }
+
+        function getExperienceLevel(yoe) {
+            if (yoe == null) return null;
+            if (yoe <= 1)  return 'Entry (0-1)';
+            if (yoe <= 6)  return 'Mid (2-6)';
+            if (yoe <= 10) return 'Senior (7-10)';
+            return 'Senior + (11+)';
+        }
+
+        function renderExperienceChart(data) {
+            const levels = ['Entry (0-1)', 'Mid (2-6)', 'Senior (7-10)', 'Senior + (11+)'];
+            const labels = ['Entry<br/>(0-1)', 'Mid<br/>(2-6)', 'Senior<br/>(7-10)', 'Senior +<br/>(11+)'];
+            const bpData = levels.map(lvl => {
+                const vals = data
+                    .filter(e => e.yoe != null && getExperienceLevel(e.yoe) === lvl)
+                    .map(e => e.total);
+                return calculateBoxPlotStats(vals);
+            }).filter(Boolean);
+
+            return Highcharts.chart('experience-chart', {
+                chart: { type: 'boxplot', backgroundColor: '#ffffff', height: 300 },
+                title: { text: 'Compensation by Experience', style: chartTitleStyle() },
+                xAxis: {
+                    categories: labels,
+                    title: { text: null },
+                    labels: { useHTML: true, style: { ...chartAxisStyle(), textAlign: 'center' } },
+                    lineColor: '#e0e0e0', tickColor: '#e0e0e0'
+                },
+                yAxis: {
+                    title: { text: 'Total (₹ LPA)', style: chartAxisTitleStyle() },
+                    labels: { style: chartAxisStyle() },
+                    gridLineColor: '#f0f0f0'
+                },
+                series: [{
+                    name: 'Compensation',
+                    data: bpData,
+                    color: '#1a1a1a',
+                    fillColor: 'transparent',
+                    lineWidth: 1,
+                    medianWidth: 2,
+                    stemWidth: 1,
+                    whiskerLength: '50%',
+                    whiskerWidth: 1
+                }],
+                legend: { enabled: false },
+                credits: { enabled: false },
+                tooltip: { style: { fontFamily: CHART_FONT, fontSize: '12px' } }
+            });
+        }
+
+        function renderCompanyChart(data) {
+            const map = {};
+            data.forEach(e => {
+                if (!map[e.company]) map[e.company] = [];
+                map[e.company].push(e.total);
+            });
+
+            const minCount = Math.max(2, Math.floor(data.length / 100));
+            const stats = Object.entries(map)
+                .filter(([, v]) => v.length >= minCount)
+                .map(([company, vals]) => {
+                    const s = [...vals].sort((a, b) => a - b);
+                    return { company, median: s[Math.floor(s.length * 0.5)], vals };
+                })
+                .sort((a, b) => b.median - a.median)
+                .slice(0, 20);
+
+            return Highcharts.chart('company-chart', {
+                chart: { type: 'boxplot', backgroundColor: '#ffffff', height: 300 },
+                title: { text: 'Compensation by Company (Top 20 by Median)', style: chartTitleStyle() },
+                xAxis: {
+                    categories: stats.map(c => c.company),
+                    title: { text: null },
+                    labels: { rotation: -90, style: chartAxisStyle() },
+                    lineColor: '#e0e0e0', tickColor: '#e0e0e0'
+                },
+                yAxis: {
+                    title: { text: 'Total (₹ LPA)', style: chartAxisTitleStyle() },
+                    labels: { style: chartAxisStyle() },
+                    gridLineColor: '#f0f0f0'
+                },
+                series: [{
+                    name: 'Compensation',
+                    data: stats.map(c => calculateBoxPlotStats(c.vals)).filter(Boolean),
+                    color: '#1a1a1a',
+                    fillColor: 'transparent',
+                    lineWidth: 1,
+                    medianWidth: 2,
+                    stemWidth: 1,
+                    whiskerLength: '50%',
+                    whiskerWidth: 1
+                }],
+                legend: { enabled: false },
+                credits: { enabled: false },
+                tooltip: { style: { fontFamily: CHART_FONT, fontSize: '12px' } }
+            });
+        }
+
+        function renderTopCompaniesChart(data) {
+            const map = {};
+            data.forEach(e => { map[e.company] = (map[e.company] || 0) + 1; });
+            const top = Object.entries(map).sort((a, b) => b[1] - a[1]).slice(0, 10);
+
+            return Highcharts.chart('top-companies-chart', {
+                chart: { type: 'bar', backgroundColor: '#ffffff', height: 300 },
+                title: { text: 'Companies with Most Offers', style: chartTitleStyle() },
+                xAxis: {
+                    categories: top.map(e => e[0]),
+                    title: { text: null },
+                    labels: { style: chartAxisStyle() },
+                    lineColor: '#e0e0e0', tickColor: '#e0e0e0'
+                },
+                yAxis: {
+                    title: { text: '# Offers', style: chartAxisTitleStyle() },
+                    labels: { style: chartAxisStyle() },
+                    gridLineColor: '#f0f0f0'
+                },
+                series: [{
+                    name: 'Offers',
+                    data: top.map(e => e[1]),
+                    color: '#1a1a1a',
+                    dataLabels: { enabled: true, style: { fontSize: '10px', fontWeight: '600', fontFamily: CHART_FONT, color: '#888' }, textOutline: 'none' }
+                }],
+                legend: { enabled: false },
+                credits: { enabled: false },
+                plotOptions: { bar: { borderRadius: 0, borderWidth: 0 } },
+                tooltip: { style: { fontFamily: CHART_FONT, fontSize: '12px' } }
+            });
+        }
+
+        /* ── Stats & Formatters ──────────────────────────────────── */
+        function updateStats() {
+            const dates     = allData.map(e => new Date(e.date)).sort((a, b) => a - b);
+            const fmt       = d => ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][d.getMonth()] + '-' + String(d.getFullYear()).slice(-2);
+            const statsEl   = document.getElementById('stats');
+            statsEl.innerHTML = `<span style="white-space:nowrap;">${allData.length.toLocaleString()} records · ${fmt(dates[0])} — ${fmt(dates[dates.length-1])}</span><br><span style="white-space:nowrap;">from <a href="https://leetcode.com/discuss/" target="_blank" rel="noopener noreferrer" style="color:#aaa;text-decoration:none;border-bottom:1px dotted #ccc;padding-bottom:1px;transition:color .15s" onmouseover="this.style.color='#1a1a1a';this.style.borderColor='#1a1a1a'" onmouseout="this.style.color='#aaa';this.style.borderColor='#ccc'">leetcode/compensation</a></span>`;
+        }
+
+        function formatDate(ds) {
+            const d = new Date(ds);
+            return `${String(d.getDate()).padStart(2,'0')}-${String(d.getMonth()+1).padStart(2,'0')}-${d.getFullYear()}`;
+        }
+        function formatSalary(v) { return v == null ? '—' : Number(v).toFixed(1); }
+        function formatYOE(v)    { return v == null ? '—' : v; }
+
+        /* ── Per-page & Pagination Events ────────────────────────── */
+        document.getElementById('per-page-select').addEventListener('change', e => {
             itemsPerPage = parseInt(e.target.value);
-            totalPages = Math.ceil(displayData.length / itemsPerPage);
-            currentPage = 1;
+            totalPages   = Math.ceil(displayData.length / itemsPerPage);
+            currentPage  = 1;
             renderPage(1);
             updatePaginationControls();
         });
@@ -1273,21 +1227,18 @@
         document.getElementById('next-page').addEventListener('click', () => renderPage(currentPage + 1));
         document.getElementById('last-page').addEventListener('click', () => renderPage(totalPages));
 
-        // Load data on page load
-        loadData();
-
-        // Fetch GitHub stars
+        /* ── GitHub Stars ────────────────────────────────────────── */
         async function loadGitHubStars() {
             try {
-                const response = await fetch('https://api.github.com/repos/kuutsav/leetcode-compensation');
-                const data = await response.json();
+                const res  = await fetch('https://api.github.com/repos/kuutsav/leetcode-compensation');
+                const data = await res.json();
                 if (data.stargazers_count !== undefined) {
-                    document.getElementById('github-stars').textContent = `[${data.stargazers_count.toLocaleString()}]`;
+                    document.getElementById('github-stars').textContent = `[${data.stargazers_count.toLocaleString()} ★]`;
                 }
-            } catch (error) {
-                console.error('Error fetching GitHub stars:', error);
-            }
+            } catch {}
         }
+
+        loadData();
         loadGitHubStars();
     </script>
 </body>
