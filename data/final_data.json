@@ -1034,7 +1034,7 @@
     "date": "2026-02-24T03:06:49.029712+00:00",
     "location": "Bengaluru",
     "company": "Meta",
-    "role": "N/A",
+    "role": "SDE 2",
     "yoe": 3.5,
     "base": 46.0,
     "total": null
@@ -1146,8 +1146,8 @@
     "company": "Microsoft",
     "role": "SDE 2",
     "yoe": 3.0,
-    "base": null,
-    "total": 1.0
+    "base": 33.3,
+    "total": 64
   },
   {
     "id": 7595867,
@@ -4430,16 +4430,6 @@
     "total": 47
   },
   {
-    "id": 7399675,
-    "date": "2025-12-08T07:03:37.384210+00:00",
-    "location": "Bengaluru",
-    "company": "Meta",
-    "role": "Data Scientist",
-    "yoe": 5.5,
-    "base": 37,
-    "total": null
-  },
-  {
     "id": 7397792,
     "date": "2025-12-07T10:28:11.188051+00:00",
     "location": "",
@@ -4824,7 +4814,7 @@
     "date": "2025-11-29T09:26:30.886031+00:00",
     "location": "Bengaluru",
     "company": "Meta",
-    "role": "SSE",
+    "role": "SDE 1",
     "yoe": 0,
     "base": 30.87,
     "total": 53.55
@@ -9986,7 +9976,7 @@
     "company": "Amazon",
     "role": "SDE 1",
     "yoe": null,
-    "base": 1.917,
+    "base": 19.17,
     "total": 25.5
   },
   {
@@ -12387,7 +12377,7 @@
     "role": "SDE",
     "yoe": null,
     "base": 22.8,
-    "total": 100.0
+    "total": 47.98
   },
   {
     "id": 6926481,
@@ -12397,7 +12387,7 @@
     "role": "MTS",
     "yoe": null,
     "base": 34,
-    "total": 100.0
+    "total": 47
   },
   {
     "id": 6926481,
@@ -12407,7 +12397,7 @@
     "role": "SDE",
     "yoe": null,
     "base": 21,
-    "total": 100.0
+    "total": null
   },
   {
     "id": 6926481,
@@ -12417,7 +12407,7 @@
     "role": "SDE",
     "yoe": null,
     "base": 17.5,
-    "total": 100.0
+    "total": null
   },
   {
     "id": 6926481,
@@ -12427,7 +12417,7 @@
     "role": "ML Engineer",
     "yoe": null,
     "base": 33.38,
-    "total": 100.0
+    "total": 39.6
   },
   {
     "id": 6926481,
@@ -16595,7 +16585,7 @@
     "location": "",
     "company": "Meta",
     "role": "SSE",
-    "yoe": 0,
+    "yoe": null,
     "base": 62.7,
     "total": 76.405
   },
@@ -16977,17 +16967,7 @@
     "role": "SSE",
     "yoe": 8,
     "base": null,
-    "total": 14.1
-  },
-  {
-    "id": 6713171,
-    "date": "2025-05-04T07:44:31.151097+00:00",
-    "location": "",
-    "company": "Meta",
-    "role": "SSE",
-    "yoe": 8,
-    "base": null,
-    "total": 13.0
+    "total": 141
   },
   {
     "id": 6713171,
@@ -16997,7 +16977,7 @@
     "role": "SSE",
     "yoe": 8,
     "base": null,
-    "total": 13.0
+    "total": 130
   },
   {
     "id": 6713171,
@@ -17007,7 +16987,7 @@
     "role": "SSE",
     "yoe": 8,
     "base": null,
-    "total": 12.6
+    "total": 126
   },
   {
     "id": 6713171,
@@ -17017,7 +16997,7 @@
     "role": "SSE",
     "yoe": 8,
     "base": null,
-    "total": 10.2
+    "total": 102
   },
   {
     "id": 6713171,
@@ -17027,7 +17007,7 @@
     "role": "SSE",
     "yoe": 8,
     "base": null,
-    "total": 10.6
+    "total": 106
   },
   {
     "id": 6713171,
@@ -17037,7 +17017,7 @@
     "role": "SSE",
     "yoe": 8,
     "base": null,
-    "total": 10.0
+    "total": 100
   },
   {
     "id": 6708698,
@@ -18366,8 +18346,8 @@
     "company": "Meta",
     "role": "Staff Engineer",
     "yoe": 15,
-    "base": 11,
-    "total": null
+    "base": 110,
+    "total": 290
   },
   {
     "id": 6640780,
