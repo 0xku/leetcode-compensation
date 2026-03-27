@@ -1047,8 +1047,8 @@
                 series: [{
                     name: 'Offers',
                     data: counts.map(c => c.count),
-                    color: '#1a1a1a',
-                    dataLabels: { enabled: true, style: { fontSize: '10px', fontWeight: '600', fontFamily: CHART_FONT, color: '#888' }, textOutline: 'none' }
+                    color: '#55b17f',
+                    dataLabels: { enabled: true, style: { fontSize: '11px', fontWeight: '400', fontFamily: CHART_FONT, color: '#555' }, textOutline: '0px' }
                 }],
                 legend: { enabled: false },
                 credits: { enabled: false },
@@ -1104,7 +1104,7 @@
                 series: [{
                     name: 'Compensation',
                     data: bpData,
-                    color: '#1a1a1a',
+                    color: '#55b17f',
                     fillColor: 'transparent',
                     lineWidth: 1,
                     medianWidth: 2,
@@ -1152,7 +1152,7 @@
                 series: [{
                     name: 'Compensation',
                     data: stats.map(c => calculateBoxPlotStats(c.vals)).filter(Boolean),
-                    color: '#1a1a1a',
+                    color: '#55b17f',
                     fillColor: 'transparent',
                     lineWidth: 1,
                     medianWidth: 2,
@@ -1188,8 +1188,8 @@
                 series: [{
                     name: 'Offers',
                     data: top.map(e => e[1]),
-                    color: '#1a1a1a',
-                    dataLabels: { enabled: true, style: { fontSize: '10px', fontWeight: '600', fontFamily: CHART_FONT, color: '#888' }, textOutline: 'none' }
+                    color: '#55b17f',
+                    dataLabels: { enabled: true, style: { fontSize: '11px', fontWeight: '400', fontFamily: CHART_FONT, color: '#555' }, textOutline: '0px' }
                 }],
                 legend: { enabled: false },
                 credits: { enabled: false },
