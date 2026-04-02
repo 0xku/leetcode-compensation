@@ -1,5 +1,195 @@
 [
   {
+    "id": 7748592,
+    "date": "2026-04-02T08:45:08.499250+00:00",
+    "location": "Gurugram",
+    "company": "Sprinklr",
+    "role": "SSE",
+    "yoe": 4.0,
+    "base": 45.0,
+    "total": 48.0
+  },
+  {
+    "id": 7744672,
+    "date": "2026-04-01T18:47:18.854891+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "Principal Engineer",
+    "yoe": 8.0,
+    "base": 54.0,
+    "total": 102.0
+  },
+  {
+    "id": 7744514,
+    "date": "2026-04-01T18:17:36.934290+00:00",
+    "location": "Hyderabad",
+    "company": "Salesforce",
+    "role": "MTS",
+    "yoe": 2.7,
+    "base": 32.0,
+    "total": 47.5
+  },
+  {
+    "id": 7744036,
+    "date": "2026-04-01T17:09:27.607043+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE",
+    "yoe": null,
+    "base": 21.0,
+    "total": 21.0
+  },
+  {
+    "id": 7743334,
+    "date": "2026-04-01T15:41:39.339548+00:00",
+    "location": "Hyderabad",
+    "company": "Salesforce",
+    "role": "MTS",
+    "yoe": 3.8,
+    "base": 30.0,
+    "total": 43.8
+  },
+  {
+    "id": 7741967,
+    "date": "2026-04-01T12:57:05.729445+00:00",
+    "location": "",
+    "company": "Rippling",
+    "role": "SDE 2",
+    "yoe": 3.0,
+    "base": 59.0,
+    "total": 70.0
+  },
+  {
+    "id": 7734113,
+    "date": "2026-03-31T20:17:12.171079+00:00",
+    "location": "Bengaluru",
+    "company": "eBay",
+    "role": "N/A",
+    "yoe": 4.8,
+    "base": 50.0,
+    "total": 71.0
+  },
+  {
+    "id": 7733862,
+    "date": "2026-03-31T19:23:07.760455+00:00",
+    "location": "",
+    "company": "Oracle",
+    "role": "SMTS",
+    "yoe": 4.5,
+    "base": 35.3,
+    "total": 49.3
+  },
+  {
+    "id": 7733862,
+    "date": "2026-03-31T19:23:07.760455+00:00",
+    "location": "",
+    "company": "Sprinklr",
+    "role": "SSE",
+    "yoe": 4.5,
+    "base": 45.0,
+    "total": 45.0
+  },
+  {
+    "id": 7727298,
+    "date": "2026-03-31T09:45:05.107051+00:00",
+    "location": "",
+    "company": "Google",
+    "role": "SDE 1",
+    "yoe": 3.7,
+    "base": 24.0,
+    "total": 41.6
+  },
+  {
+    "id": 7725328,
+    "date": "2026-03-31T04:07:38.562682+00:00",
+    "location": "",
+    "company": "Publicis Sapient",
+    "role": "SSE",
+    "yoe": 5.0,
+    "base": 28.0,
+    "total": 28.0
+  },
+  {
+    "id": 7725105,
+    "date": "2026-03-31T01:00:10.280786+00:00",
+    "location": "Bengaluru",
+    "company": "Salesforce",
+    "role": "SMTS",
+    "yoe": 7.5,
+    "base": 53.0,
+    "total": 78.0
+  },
+  {
+    "id": 7717666,
+    "date": "2026-03-30T05:42:30.257427+00:00",
+    "location": "",
+    "company": "Startup",
+    "role": "N/A",
+    "yoe": null,
+    "base": 33.5,
+    "total": 43.5
+  },
+  {
+    "id": 7717666,
+    "date": "2026-03-30T05:42:30.257427+00:00",
+    "location": "",
+    "company": "Zomato",
+    "role": "N/A",
+    "yoe": null,
+    "base": 33.0,
+    "total": 43.0
+  },
+  {
+    "id": 7715814,
+    "date": "2026-03-29T18:31:41.434514+00:00",
+    "location": "",
+    "company": "AMD",
+    "role": "Senior Software System Designer",
+    "yoe": 2.67,
+    "base": 29.0,
+    "total": 44.35
+  },
+  {
+    "id": 7715207,
+    "date": "2026-03-29T16:51:35.924955+00:00",
+    "location": "",
+    "company": "Startup",
+    "role": "SSE",
+    "yoe": 7.0,
+    "base": 52.0,
+    "total": 57.2
+  },
+  {
+    "id": 7715207,
+    "date": "2026-03-29T16:51:35.924955+00:00",
+    "location": "",
+    "company": "ServiceNow",
+    "role": "SSE",
+    "yoe": 7.0,
+    "base": 42.0,
+    "total": 57.8
+  },
+  {
+    "id": 7706460,
+    "date": "2026-03-28T07:04:13.992422+00:00",
+    "location": "Gurugram",
+    "company": "Startup",
+    "role": "N/A",
+    "yoe": 3.0,
+    "base": 23.5,
+    "total": 23.5
+  },
+  {
+    "id": 7706460,
+    "date": "2026-03-28T07:04:13.992422+00:00",
+    "location": "Noida",
+    "company": "Startup",
+    "role": "N/A",
+    "yoe": 3.0,
+    "base": 25.0,
+    "total": 25.0
+  },
+  {
     "id": 7703631,
     "date": "2026-03-27T14:35:14.027535+00:00",
     "location": "",
