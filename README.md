@@ -1,12 +1,8 @@
 <h1 align="center">Leetcode Compensation</h1>
 
 <p align="center">
-  <a href="https://www.python.org/downloads/release/python-3130/">
-    <img alt="Python" src="https://img.shields.io/badge/python-3.13%2B-3776AB?style=flat-square" />
-  </a>
-  <a href="./LICENSE">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-2ea44f?style=flat-square" />
-  </a>
+  <a href="https://www.python.org/downloads/release/python-3130/"><img alt="Python" src="https://img.shields.io/badge/python-3.13%2B-3776AB?style=flat-square" /></a>
+  <a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-2ea44f?style=flat-square" /></a>
 </p>
 
 <p align="center">
