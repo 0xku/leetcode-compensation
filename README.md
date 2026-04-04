@@ -1,6 +1,23 @@
-## Leetcode Compensation
+<h1 align="center">Leetcode Compensation</h1>
 
-[https://0xku.github.io/leetcode-compensation/](https://0xku.github.io/leetcode-compensation/)
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3.13%2B-3776AB?style=flat&logo=python&logoColor=white" alt="Python 3.13+" />
+  </a>
+  <a href="./LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-2ea44f?style=flat" alt="MIT License" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://0xku.github.io/leetcode-compensation/">
+    <img src="assets/lc.png" alt="Leetcomp dashboard" width="720" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://0xku.github.io/leetcode-compensation/">https://0xku.github.io/leetcode-compensation/</a>
+</p>
 
 A tool that helps you find **Software Engineer Salary in India** by:
 
