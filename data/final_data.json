@@ -1,5 +1,295 @@
 [
   {
+    "id": 7828525,
+    "date": "2026-04-08T12:29:43.155251+00:00",
+    "location": "",
+    "company": "Kotak",
+    "role": "SDE 2",
+    "yoe": 6.0,
+    "base": 37.0,
+    "total": 50.7
+  },
+  {
+    "id": 7822296,
+    "date": "2026-04-08T06:58:00.380397+00:00",
+    "location": "Gurugram",
+    "company": "Sprinklr",
+    "role": "SSE",
+    "yoe": 2.9,
+    "base": 41.0,
+    "total": 41.0
+  },
+  {
+    "id": 7822296,
+    "date": "2026-04-08T06:58:00.380397+00:00",
+    "location": "Bengaluru",
+    "company": "Visa",
+    "role": "SSE",
+    "yoe": 2.9,
+    "base": 33.0,
+    "total": 40.1
+  },
+  {
+    "id": 7821799,
+    "date": "2026-04-08T06:28:24.016010+00:00",
+    "location": "",
+    "company": "Flipkart",
+    "role": "SDE 2",
+    "yoe": 2.8,
+    "base": 29.0,
+    "total": 47.5
+  },
+  {
+    "id": 7821799,
+    "date": "2026-04-08T06:28:24.016010+00:00",
+    "location": "",
+    "company": "Kotak",
+    "role": "SDE 2",
+    "yoe": 2.8,
+    "base": 36.0,
+    "total": 39.6
+  },
+  {
+    "id": 7818008,
+    "date": "2026-04-07T20:22:28.134798+00:00",
+    "location": "Bengaluru",
+    "company": "Societe Generale",
+    "role": "SDE 2",
+    "yoe": 4.0,
+    "base": 12.5,
+    "total": 14.0
+  },
+  {
+    "id": 7818008,
+    "date": "2026-04-07T20:22:28.134798+00:00",
+    "location": "Bengaluru",
+    "company": "Chubb",
+    "role": "SDE",
+    "yoe": 4.0,
+    "base": 16.0,
+    "total": 17.0
+  },
+  {
+    "id": 7807136,
+    "date": "2026-04-07T08:16:44.764919+00:00",
+    "location": "Bengaluru",
+    "company": "Freshworks",
+    "role": "Senior Data Scientist",
+    "yoe": 4.1,
+    "base": 43.0,
+    "total": 45.15
+  },
+  {
+    "id": 7807136,
+    "date": "2026-04-07T08:16:44.764919+00:00",
+    "location": "Kolkata",
+    "company": "EY GDS",
+    "role": "Senior Data Scientist",
+    "yoe": 4.1,
+    "base": 40.0,
+    "total": 45.0
+  },
+  {
+    "id": 7807136,
+    "date": "2026-04-07T08:16:44.764919+00:00",
+    "location": "Hyderabad",
+    "company": "Syneos Health",
+    "role": "Senior Data Scientist",
+    "yoe": 4.1,
+    "base": 38.7,
+    "total": 40.0
+  },
+  {
+    "id": 7806380,
+    "date": "2026-04-07T07:20:44.466460+00:00",
+    "location": "Gurugram",
+    "company": "Eternal",
+    "role": "SDE 2",
+    "yoe": 3.0,
+    "base": 36.0,
+    "total": 50.0
+  },
+  {
+    "id": 7806380,
+    "date": "2026-04-07T07:20:44.466460+00:00",
+    "location": "Bengaluru",
+    "company": "Ethos Life",
+    "role": "SDE",
+    "yoe": 3.0,
+    "base": 45.0,
+    "total": 53.3
+  },
+  {
+    "id": 7787615,
+    "date": "2026-04-05T17:03:17.704670+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 2.67,
+    "base": 42.0,
+    "total": 51.38
+  },
+  {
+    "id": 7783239,
+    "date": "2026-04-05T05:39:08.899561+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "SSE",
+    "yoe": 10.0,
+    "base": 65.0,
+    "total": 102.58
+  },
+  {
+    "id": 7773270,
+    "date": "2026-04-04T08:06:40.825432+00:00",
+    "location": "Bengaluru",
+    "company": "Freshworks",
+    "role": "Senior Data Scientist",
+    "yoe": 4.1,
+    "base": 42.0,
+    "total": 44.0
+  },
+  {
+    "id": 7773270,
+    "date": "2026-04-04T08:06:40.825432+00:00",
+    "location": "Hyderabad",
+    "company": "Syneos Health",
+    "role": "Data Scientist",
+    "yoe": 4.1,
+    "base": 38.7,
+    "total": 40.0
+  },
+  {
+    "id": 7773270,
+    "date": "2026-04-04T08:06:40.825432+00:00",
+    "location": "Kolkata",
+    "company": "EY GDS",
+    "role": "Senior Data Scientist",
+    "yoe": 4.1,
+    "base": 40.0,
+    "total": 44.0
+  },
+  {
+    "id": 7772042,
+    "date": "2026-04-04T06:09:24.095349+00:00",
+    "location": "Bengaluru",
+    "company": "Inito",
+    "role": "SSE",
+    "yoe": 6.75,
+    "base": 55.0,
+    "total": 60.0
+  },
+  {
+    "id": 7772007,
+    "date": "2026-04-04T06:06:40.968586+00:00",
+    "location": "Gurugram",
+    "company": "MongoDB",
+    "role": "SSE",
+    "yoe": 6.75,
+    "base": 46.0,
+    "total": 64.79
+  },
+  {
+    "id": 7770540,
+    "date": "2026-04-03T21:24:11.353793+00:00",
+    "location": "Hyderabad",
+    "company": "Microsoft",
+    "role": "SSE",
+    "yoe": 6.75,
+    "base": 42.0,
+    "total": 69.16
+  },
+  {
+    "id": 7770051,
+    "date": "2026-04-03T20:20:51.109848+00:00",
+    "location": "Bengaluru",
+    "company": "Microsoft",
+    "role": "SSE",
+    "yoe": 6.5,
+    "base": 44.0,
+    "total": 67.19
+  },
+  {
+    "id": 7769163,
+    "date": "2026-04-03T18:34:53.497275+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "Principal Engineer",
+    "yoe": null,
+    "base": 56.0,
+    "total": 90.0
+  },
+  {
+    "id": 7769163,
+    "date": "2026-04-03T18:34:53.497275+00:00",
+    "location": "",
+    "company": "PayPal",
+    "role": "Staff Engineer",
+    "yoe": null,
+    "base": 63.0,
+    "total": 98.0
+  },
+  {
+    "id": 7766903,
+    "date": "2026-04-03T14:30:03.666317+00:00",
+    "location": "Bengaluru",
+    "company": "Salesforce",
+    "role": "SMTS",
+    "yoe": 7.5,
+    "base": 53.0,
+    "total": 76.4
+  },
+  {
+    "id": 7760060,
+    "date": "2026-04-03T07:21:16.683956+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": null,
+    "base": 43.0,
+    "total": 52.65
+  },
+  {
+    "id": 7754949,
+    "date": "2026-04-02T16:34:10.374018+00:00",
+    "location": "Bengaluru",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": null,
+    "base": 45.0,
+    "total": 53.24
+  },
+  {
+    "id": 7754298,
+    "date": "2026-04-02T15:17:38.386149+00:00",
+    "location": "",
+    "company": "Globant",
+    "role": "Senior Data Scientist",
+    "yoe": 5.2,
+    "base": null,
+    "total": 41.0
+  },
+  {
+    "id": 7754298,
+    "date": "2026-04-02T15:17:38.386149+00:00",
+    "location": "",
+    "company": "Syneos Health",
+    "role": "Senior Data Scientist",
+    "yoe": 5.2,
+    "base": null,
+    "total": 40.0
+  },
+  {
+    "id": 7754298,
+    "date": "2026-04-02T15:17:38.386149+00:00",
+    "location": "",
+    "company": "Freshworks",
+    "role": "Senior Data Scientist",
+    "yoe": 5.2,
+    "base": null,
+    "total": 43.0
+  },
+  {
     "id": 7748592,
     "date": "2026-04-02T08:45:08.499250+00:00",
     "location": "Gurugram",
@@ -9263,7 +9553,7 @@
     "id": 7169808,
     "date": "2025-09-08T16:34:54.567623+00:00",
     "location": "Gurugram",
-    "company": "Mongodb",
+    "company": "MongoDB",
     "role": "SDE 2",
     "yoe": 3,
     "base": 29.45,
