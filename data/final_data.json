@@ -140,36 +140,6 @@
     "total": 102.58
   },
   {
-    "id": 7773270,
-    "date": "2026-04-04T08:06:40.825432+00:00",
-    "location": "Bengaluru",
-    "company": "Freshworks",
-    "role": "Senior Data Scientist",
-    "yoe": 4.1,
-    "base": 42.0,
-    "total": 44.0
-  },
-  {
-    "id": 7773270,
-    "date": "2026-04-04T08:06:40.825432+00:00",
-    "location": "Hyderabad",
-    "company": "Syneos Health",
-    "role": "Data Scientist",
-    "yoe": 4.1,
-    "base": 38.7,
-    "total": 40.0
-  },
-  {
-    "id": 7773270,
-    "date": "2026-04-04T08:06:40.825432+00:00",
-    "location": "Kolkata",
-    "company": "EY GDS",
-    "role": "Senior Data Scientist",
-    "yoe": 4.1,
-    "base": 40.0,
-    "total": 44.0
-  },
-  {
     "id": 7772042,
     "date": "2026-04-04T06:09:24.095349+00:00",
     "location": "Bengaluru",
