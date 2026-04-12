@@ -17,7 +17,7 @@ A tool that helps you find **Software Engineer Salary in India** by:
 
 <p align="center">
   <a href="https://0xku.github.io/leetcode-compensation/">
-    <img src="assets/lc.png" alt="Leetcomp dashboard" width="100%" />
+    <img src="assets/lc.png" alt="Leetcomp dashboard" width="75%" />
   </a>
 </p>
 
