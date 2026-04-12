@@ -9,6 +9,12 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@600&display=swap" rel="stylesheet">
+    <script>
+        (function() {
+            var t = localStorage.getItem('leetcomp-theme') || 'dark';
+            document.documentElement.setAttribute('data-theme', t);
+        })();
+    </script>
     <style>
         * {
             margin: 0;
@@ -16,10 +22,61 @@
             box-sizing: border-box;
         }
 
+        /* ── Theme Variables ────────────────────────────────────── */
+        :root, [data-theme="light"] {
+            --bg: #ffffff;
+            --bg-secondary: #fafafa;
+            --bg-hover: #f8f8f8;
+            --text-primary: #1a1a1a;
+            --text-secondary: #444;
+            --text-muted: #888;
+            --text-dimmed: #aaa;
+            --text-faint: #bbb;
+            --text-ghost: #ccc;
+            --border: #e0e0e0;
+            --border-light: #e8e8e8;
+            --border-lighter: #f0f0f0;
+            --accent: #55b17f;
+            --chart-bg: #ffffff;
+            --chart-grid: #f0f0f0;
+            --chart-data-label: #555;
+            --q-op: #d97706;
+            --q-field: #2563eb;
+            --q-colon: #ccc;
+            --q-str: #16a34a;
+            --q-num: #7c3aed;
+            --q-unknown: #dc2626;
+        }
+
+        [data-theme="dark"] {
+            --bg: #1d2021;
+            --bg-secondary: #282828;
+            --bg-hover: #3c3836;
+            --text-primary: #ebdbb2;
+            --text-secondary: #d5c4a1;
+            --text-muted: #a89984;
+            --text-dimmed: #928374;
+            --text-faint: #7c6f64;
+            --text-ghost: #504945;
+            --border: #3c3836;
+            --border-light: #504945;
+            --border-lighter: #3c3836;
+            --accent: #8ec07c;
+            --chart-bg: #1d2021;
+            --chart-grid: #3c3836;
+            --chart-data-label: #bdae93;
+            --q-op: #fe8019;
+            --q-field: #83a598;
+            --q-colon: #665c54;
+            --q-str: #b8bb26;
+            --q-num: #d3869b;
+            --q-unknown: #fb4934;
+        }
+
         body {
             font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-            background: #ffffff;
-            color: #1a1a1a;
+            background: var(--bg);
+            color: var(--text-primary);
             min-height: 100vh;
             position: relative;
         }
@@ -32,7 +89,7 @@
             top: 0;
             bottom: 0;
             width: 1px;
-            background: #e0e0e0;
+            background: var(--border);
             z-index: 1000;
         }
         body::before { left: calc(50% - 632.5px); }
@@ -43,7 +100,7 @@
             max-width: 1265px;
             margin: 0 auto;
             padding: 12px 40px;
-            border-bottom: 1px solid #e8e8e8;
+            border-bottom: 1px solid var(--border-light);
             margin-bottom: 32px;
             display: flex;
             align-items: center;
@@ -76,30 +133,57 @@
 
         .stats {
             font-size: 12px;
-            color: #aaa;
+            color: var(--text-dimmed);
             text-transform: uppercase;
             letter-spacing: 0.5px;
             line-height: 1.6;
         }
+        .stats-link {
+            color: var(--text-dimmed);
+            text-decoration: none;
+            border-bottom: 1px dotted var(--text-ghost);
+            padding-bottom: 1px;
+            transition: color 0.15s, border-color 0.15s;
+        }
+        .stats-link:hover { color: var(--text-primary); border-color: var(--text-primary); }
 
         .github-link {
-            color: #888;
+            color: var(--text-muted);
             text-decoration: none;
             font-size: 12px;
             text-transform: uppercase;
             letter-spacing: 0.5px;
-            border-bottom: 1px dotted #ccc;
+            border-bottom: 1px dotted var(--text-ghost);
             padding-bottom: 1px;
             transition: color 0.15s, border-color 0.15s;
         }
-        .github-link:hover { color: #1a1a1a; border-color: #1a1a1a; }
+        .github-link:hover { color: var(--text-primary); border-color: var(--text-primary); }
 
         .github-stars {
             font-size: 11px;
-            color: #ccc;
+            color: var(--text-ghost);
             margin-top: 2px;
             letter-spacing: 0.5px;
         }
+
+        /* ── Theme Toggle ───────────────────────────────────────── */
+        .theme-toggle {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 18px;
+            line-height: 1;
+            padding: 4px;
+            color: var(--text-muted);
+            transition: color 0.15s;
+            display: flex;
+            align-items: center;
+        }
+        .theme-toggle:hover { color: var(--text-primary); }
+        .theme-toggle .icon-sun,
+        .theme-toggle .icon-moon { display: none; }
+        [data-theme="dark"] .theme-toggle .icon-sun { display: inline; }
+        [data-theme="light"] .theme-toggle .icon-moon { display: inline; }
 
         /* ── Container ───────────────────────────────────────────── */
         .container {
@@ -118,7 +202,7 @@
             font-weight: 600;
             text-transform: uppercase;
             letter-spacing: 1.5px;
-            color: #bbb;
+            color: var(--text-faint);
             margin-bottom: 20px;
         }
 
@@ -129,7 +213,7 @@
         }
 
         .chart-container {
-            background: #ffffff;
+            background: var(--bg);
             min-height: 300px;
         }
         .chart-container.wide   { flex: 0 0 65%; }
@@ -141,9 +225,9 @@
         }
 
         .query-bar-wrap {
-            background: #fafafa;
+            background: var(--bg-secondary);
             border: none;
-            border-bottom: 2px solid #e0e0e0;
+            border-bottom: 2px solid var(--border);
             display: flex;
             align-items: center;
             gap: 10px;
@@ -152,11 +236,11 @@
             transition: border-color 0.2s;
         }
         .query-bar-wrap:focus-within {
-            border-bottom-color: #1a1a1a;
+            border-bottom-color: var(--text-primary);
         }
 
         .query-icon {
-            color: #ccc;
+            color: var(--text-ghost);
             font-size: 18px;
             flex-shrink: 0;
             user-select: none;
@@ -195,11 +279,11 @@
             border: none;
             outline: none;
             color: transparent;
-            caret-color: #1a1a1a;
+            caret-color: var(--text-primary);
             font-size: 15px;
             font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
         }
-        .query-input::placeholder { color: #ccc; }
+        .query-input::placeholder { color: var(--text-ghost); }
 
         .query-right {
             display: flex;
@@ -210,7 +294,7 @@
 
         .query-meta {
             font-size: 11px;
-            color: #aaa;
+            color: var(--text-dimmed);
             text-transform: uppercase;
             letter-spacing: 0.5px;
             white-space: nowrap;
@@ -222,22 +306,22 @@
             padding: 4px 0;
             font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
             font-size: 11px;
-            color: #ccc;
+            color: var(--text-ghost);
             cursor: pointer;
             text-transform: uppercase;
             letter-spacing: 0.5px;
             border-bottom: 1px dotted transparent;
             transition: color 0.15s, border-color 0.15s;
         }
-        .query-clear-btn:hover { color: #1a1a1a; border-color: #1a1a1a; }
+        .query-clear-btn:hover { color: var(--text-primary); border-color: var(--text-primary); }
 
         /* query token colors */
-        .q-op      { color: #d97706; font-weight: 600; }
-        .q-field   { color: #2563eb; }
-        .q-colon   { color: #ccc; }
-        .q-str     { color: #16a34a; }
-        .q-num     { color: #7c3aed; }
-        .q-unknown { color: #dc2626; text-decoration: underline; text-decoration-style: dotted; }
+        .q-op      { color: var(--q-op); font-weight: 600; }
+        .q-field   { color: var(--q-field); }
+        .q-colon   { color: var(--q-colon); }
+        .q-str     { color: var(--q-str); }
+        .q-num     { color: var(--q-num); }
+        .q-unknown { color: var(--q-unknown); text-decoration: underline; text-decoration-style: dotted; }
 
         /* hints row */
         .query-hints {
@@ -251,37 +335,37 @@
 
         .query-hint-label {
             font-size: 10px;
-            color: #ccc;
+            color: var(--text-ghost);
             text-transform: uppercase;
             letter-spacing: 1px;
         }
 
         .q-chip {
             font-size: 10px;
-            color: #888;
+            color: var(--text-muted);
             cursor: pointer;
             text-transform: uppercase;
             letter-spacing: 0.5px;
-            border-bottom: 1px dotted #ccc;
+            border-bottom: 1px dotted var(--text-ghost);
             padding-bottom: 1px;
             transition: color 0.1s, border-color 0.1s;
             user-select: none;
         }
-        .q-chip:hover { color: #2563eb; border-color: #2563eb; }
+        .q-chip:hover { color: var(--q-field); border-color: var(--q-field); }
 
-        .query-hint-sep { color: #e8e8e8; font-size: 12px; }
+        .query-hint-sep { color: var(--border-light); font-size: 12px; }
 
-        .query-hint-eg { font-size: 12px; color: #ccc; }
+        .query-hint-eg { font-size: 12px; color: var(--text-ghost); }
         .q-example {
             font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
             font-size: 12px;
-            color: #aaa;
+            color: var(--text-dimmed);
             cursor: pointer;
-            border-bottom: 1px dotted #ddd;
+            border-bottom: 1px dotted var(--border-light);
             padding-bottom: 1px;
             transition: color 0.15s, border-color 0.15s;
         }
-        .q-example:hover { color: #1a1a1a; border-color: #999; }
+        .q-example:hover { color: var(--text-primary); border-color: var(--text-muted); }
 
         /* ── Table ───────────────────────────────────────────────── */
         .table-container {
@@ -296,14 +380,14 @@
         }
 
         thead {
-            border-bottom: 1px solid #e0e0e0;
+            border-bottom: 1px solid var(--border);
         }
 
         th {
             text-align: left;
             padding: 10px 16px;
             font-weight: 600;
-            color: #bbb;
+            color: var(--text-faint);
             text-transform: uppercase;
             font-size: 10px;
             letter-spacing: 1px;
@@ -316,16 +400,16 @@
             user-select: none;
             transition: color 0.15s;
         }
-        th.sortable:hover { color: #888; }
-        th.sortable.active { color: #1a1a1a; }
+        th.sortable:hover { color: var(--text-muted); }
+        th.sortable.active { color: var(--text-primary); }
 
         .th-sub.sortable {
             cursor: pointer;
             user-select: none;
             transition: color 0.15s;
         }
-        .th-sub.sortable:hover { color: #888; }
-        .th-sub.sortable.active { color: #1a1a1a; }
+        .th-sub.sortable:hover { color: var(--text-muted); }
+        .th-sub.sortable.active { color: var(--text-primary); }
 
         th .th-main { display: block; margin-bottom: 2px; }
         th .th-sub  {
@@ -346,58 +430,58 @@
         }
 
         tbody tr {
-            border-bottom: 1px solid #f0f0f0;
+            border-bottom: 1px solid var(--border-lighter);
             transition: background 0.1s;
         }
         tbody tr:last-child { border-bottom: none; }
-        tbody tr:hover { background: #f8f8f8 !important; }
+        tbody tr:hover { background: var(--bg-hover) !important; }
 
         td {
             padding: 14px 16px;
             vertical-align: top;
         }
 
-        .index-col { color: #ccc; font-size: 12px; width: 50px; }
+        .index-col { color: var(--text-ghost); font-size: 12px; width: 50px; }
 
         .id-col { width: 90px; }
         .id-link {
-            color: #bbb;
+            color: var(--text-faint);
             text-decoration: none;
             font-size: 12px;
-            border-bottom: 1px dotted #ddd;
+            border-bottom: 1px dotted var(--border-light);
             padding-bottom: 1px;
             transition: color 0.15s, border-color 0.15s;
         }
-        .id-link:hover { color: #1a1a1a; border-color: #1a1a1a; }
+        .id-link:hover { color: var(--text-primary); border-color: var(--text-primary); }
 
         .company-col  { width: 280px; }
         .company-name {
             font-weight: 500;
             margin-bottom: 5px;
             line-height: 1.4;
-            color: #1a1a1a;
+            color: var(--text-primary);
             font-size: 14px;
         }
         .company-meta {
             font-size: 11px;
-            color: #bbb;
+            color: var(--text-faint);
             text-transform: uppercase;
             letter-spacing: 0.3px;
             line-height: 1.4;
         }
 
-        .role-col  { width: 220px; color: #444; }
-        .yoe-col   { width: 80px; color: #444; }
+        .role-col  { width: 220px; color: var(--text-secondary); }
+        .yoe-col   { width: 80px; color: var(--text-secondary); }
 
         .total-col  { width: 140px; }
         .total-amount {
-            color: #1a1a1a;
+            color: var(--text-primary);
             font-weight: 500;
             margin-bottom: 5px;
         }
         .base-amount {
             font-size: 11px;
-            color: #bbb;
+            color: var(--text-faint);
             text-transform: uppercase;
             letter-spacing: 0.3px;
         }
@@ -408,7 +492,7 @@
             align-items: center;
             justify-content: space-between;
             padding-top: 16px;
-            border-top: 1px solid #f0f0f0;
+            border-top: 1px solid var(--border-lighter);
             gap: 20px;
         }
 
@@ -417,7 +501,7 @@
             align-items: center;
             gap: 8px;
             font-size: 11px;
-            color: #aaa;
+            color: var(--text-dimmed);
             text-transform: uppercase;
             letter-spacing: 0.5px;
         }
@@ -432,7 +516,7 @@
             position: absolute;
             right: 0;
             font-size: 9px;
-            color: #bbb;
+            color: var(--text-faint);
             pointer-events: none;
         }
 
@@ -441,9 +525,9 @@
             appearance: none;
             background: transparent;
             border: none;
-            border-bottom: 1px solid #e0e0e0;
+            border-bottom: 1px solid var(--border);
             border-radius: 0;
-            color: #1a1a1a;
+            color: var(--text-primary);
             font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
             font-size: 12px;
             padding: 2px 14px 2px 2px;
@@ -452,7 +536,7 @@
         }
         .per-page select:focus {
             outline: none;
-            border-bottom-color: #1a1a1a;
+            border-bottom-color: var(--text-primary);
         }
 
         /* ── Pagination ──────────────────────────────────────────── */
@@ -467,17 +551,17 @@
             border: none;
             font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
             font-size: 11px;
-            color: #aaa;
+            color: var(--text-dimmed);
             text-transform: uppercase;
             letter-spacing: 0.5px;
             cursor: pointer;
             padding: 0 0 1px 0;
-            border-bottom: 1px dotted #ddd;
+            border-bottom: 1px dotted var(--border-light);
             transition: color 0.15s, border-color 0.15s;
         }
         .pagination button:hover:not(:disabled) {
-            color: #1a1a1a;
-            border-color: #1a1a1a;
+            color: var(--text-primary);
+            border-color: var(--text-primary);
         }
         .pagination button:disabled {
             opacity: 0.25;
@@ -487,7 +571,7 @@
 
         .pagination .page-info {
             font-size: 11px;
-            color: #aaa;
+            color: var(--text-dimmed);
             text-transform: uppercase;
             letter-spacing: 0.5px;
             white-space: nowrap;
@@ -497,7 +581,7 @@
         .loading {
             text-align: center;
             padding: 60px;
-            color: #bbb;
+            color: var(--text-faint);
             font-size: 12px;
             text-transform: uppercase;
             letter-spacing: 1px;
@@ -541,7 +625,7 @@
 <body>
     <header>
         <div class="header-left">
-            <h1><span style="color:#1a1a1a;">leet</span><span style="color:#55b17f;">comp</span></h1>
+            <h1><span style="color:var(--text-primary);">leet</span><span style="color:var(--accent);">comp</span></h1>
         </div>
         <div class="header-right">
             <div class="stats">
@@ -551,6 +635,10 @@
                 <a href="https://github.com/kuutsav/leetcode-compensation" target="_blank" rel="noopener noreferrer" class="github-link">GitHub</a>
                 <div class="github-stars" id="github-stars"></div>
             </div>
+            <button class="theme-toggle" id="theme-toggle" title="Toggle theme">
+                <span class="icon-sun">☀</span>
+                <span class="icon-moon">☽</span>
+            </button>
         </div>
     </header>
 
@@ -982,14 +1070,18 @@
         /* ── Charts ──────────────────────────────────────────────── */
         const CHART_FONT = '"Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace';
 
+        function cv(name) {
+            return getComputedStyle(document.documentElement).getPropertyValue(name).trim();
+        }
+
         function chartTitleStyle() {
-            return { fontSize: '10px', fontWeight: '600', letterSpacing: '1.5px', color: '#bbb', fontFamily: CHART_FONT, textTransform: 'uppercase' };
+            return { fontSize: '10px', fontWeight: '600', letterSpacing: '1.5px', color: cv('--text-faint'), fontFamily: CHART_FONT, textTransform: 'uppercase' };
         }
         function chartAxisStyle() {
-            return { fontSize: '10px', fontFamily: CHART_FONT, color: '#bbb' };
+            return { fontSize: '10px', fontFamily: CHART_FONT, color: cv('--text-faint') };
         }
         function chartAxisTitleStyle() {
-            return { fontSize: '10px', fontFamily: CHART_FONT, color: '#bbb', fontWeight: '400', textTransform: 'uppercase', letterSpacing: '0.5px' };
+            return { fontSize: '10px', fontFamily: CHART_FONT, color: cv('--text-faint'), fontWeight: '400', textTransform: 'uppercase', letterSpacing: '0.5px' };
         }
 
         function destroyCharts() {
@@ -1034,29 +1126,29 @@
             }));
 
             return Highcharts.chart('distribution-chart', {
-                chart: { type: 'column', backgroundColor: '#ffffff', height: 300 },
+                chart: { type: 'column', backgroundColor: cv('--chart-bg'), height: 300 },
                 title: { text: 'Total Compensation Distribution', style: chartTitleStyle() },
                 xAxis: {
                     categories: counts.map(c => c.label),
                     title: { text: 'Total Compensation (₹ LPA)', style: chartAxisTitleStyle() },
                     labels: { rotation: 0, style: chartAxisStyle() },
-                    lineColor: '#e0e0e0', tickColor: '#e0e0e0'
+                    lineColor: cv('--border'), tickColor: cv('--border')
                 },
                 yAxis: {
                     title: { text: 'Count', style: chartAxisTitleStyle() },
                     labels: { style: chartAxisStyle() },
-                    gridLineColor: '#f0f0f0'
+                    gridLineColor: cv('--chart-grid')
                 },
                 series: [{
                     name: 'Offers',
                     data: counts.map(c => c.count),
-                    color: '#55b17f',
-                    dataLabels: { enabled: true, style: { fontSize: '11px', fontWeight: '400', fontFamily: CHART_FONT, color: '#555' }, textOutline: '0px' }
+                    color: cv('--accent'),
+                    dataLabels: { enabled: true, style: { fontSize: '11px', fontWeight: '400', fontFamily: CHART_FONT, color: cv('--chart-data-label') }, textOutline: '0px' }
                 }],
                 legend: { enabled: false },
                 credits: { enabled: false },
                 plotOptions: { column: { borderRadius: 0, borderWidth: 0 } },
-                tooltip: { style: { fontFamily: CHART_FONT, fontSize: '12px' } }
+                tooltip: { backgroundColor: cv('--bg-secondary'), style: { fontFamily: CHART_FONT, fontSize: '12px', color: cv('--text-primary') } }
             });
         }
 
@@ -1091,23 +1183,23 @@
             }).filter(Boolean);
 
             return Highcharts.chart('experience-chart', {
-                chart: { type: 'boxplot', backgroundColor: '#ffffff', height: 300 },
+                chart: { type: 'boxplot', backgroundColor: cv('--chart-bg'), height: 300 },
                 title: { text: 'Compensation by Experience', style: chartTitleStyle() },
                 xAxis: {
                     categories: labels,
                     title: { text: null },
                     labels: { useHTML: true, style: { ...chartAxisStyle(), textAlign: 'center' } },
-                    lineColor: '#e0e0e0', tickColor: '#e0e0e0'
+                    lineColor: cv('--border'), tickColor: cv('--border')
                 },
                 yAxis: {
                     title: { text: 'Total (₹ LPA)', style: chartAxisTitleStyle() },
                     labels: { style: chartAxisStyle() },
-                    gridLineColor: '#f0f0f0'
+                    gridLineColor: cv('--chart-grid')
                 },
                 series: [{
                     name: 'Compensation',
                     data: bpData,
-                    color: '#55b17f',
+                    color: cv('--accent'),
                     fillColor: 'transparent',
                     lineWidth: 1,
                     medianWidth: 2,
@@ -1117,7 +1209,7 @@
                 }],
                 legend: { enabled: false },
                 credits: { enabled: false },
-                tooltip: { style: { fontFamily: CHART_FONT, fontSize: '12px' } }
+                tooltip: { backgroundColor: cv('--bg-secondary'), style: { fontFamily: CHART_FONT, fontSize: '12px', color: cv('--text-primary') } }
             });
         }
 
@@ -1139,23 +1231,23 @@
                 .slice(0, 20);
 
             return Highcharts.chart('company-chart', {
-                chart: { type: 'boxplot', backgroundColor: '#ffffff', height: 300 },
+                chart: { type: 'boxplot', backgroundColor: cv('--chart-bg'), height: 300 },
                 title: { text: 'Compensation by Company (Top 20 by Median)', style: chartTitleStyle() },
                 xAxis: {
                     categories: stats.map(c => c.company),
                     title: { text: null },
                     labels: { rotation: -90, style: chartAxisStyle() },
-                    lineColor: '#e0e0e0', tickColor: '#e0e0e0'
+                    lineColor: cv('--border'), tickColor: cv('--border')
                 },
                 yAxis: {
                     title: { text: 'Total (₹ LPA)', style: chartAxisTitleStyle() },
                     labels: { style: chartAxisStyle() },
-                    gridLineColor: '#f0f0f0'
+                    gridLineColor: cv('--chart-grid')
                 },
                 series: [{
                     name: 'Compensation',
                     data: stats.map(c => calculateBoxPlotStats(c.vals)).filter(Boolean),
-                    color: '#55b17f',
+                    color: cv('--accent'),
                     fillColor: 'transparent',
                     lineWidth: 1,
                     medianWidth: 2,
@@ -1165,7 +1257,7 @@
                 }],
                 legend: { enabled: false },
                 credits: { enabled: false },
-                tooltip: { style: { fontFamily: CHART_FONT, fontSize: '12px' } }
+                tooltip: { backgroundColor: cv('--bg-secondary'), style: { fontFamily: CHART_FONT, fontSize: '12px', color: cv('--text-primary') } }
             });
         }
 
@@ -1175,29 +1267,29 @@
             const top = Object.entries(map).sort((a, b) => b[1] - a[1]).slice(0, 10);
 
             return Highcharts.chart('top-companies-chart', {
-                chart: { type: 'bar', backgroundColor: '#ffffff', height: 300 },
+                chart: { type: 'bar', backgroundColor: cv('--chart-bg'), height: 300 },
                 title: { text: 'Companies with Most Offers', style: chartTitleStyle() },
                 xAxis: {
                     categories: top.map(e => e[0]),
                     title: { text: null },
                     labels: { style: chartAxisStyle() },
-                    lineColor: '#e0e0e0', tickColor: '#e0e0e0'
+                    lineColor: cv('--border'), tickColor: cv('--border')
                 },
                 yAxis: {
                     title: { text: '# Offers', style: chartAxisTitleStyle() },
                     labels: { style: chartAxisStyle() },
-                    gridLineColor: '#f0f0f0'
+                    gridLineColor: cv('--chart-grid')
                 },
                 series: [{
                     name: 'Offers',
                     data: top.map(e => e[1]),
-                    color: '#55b17f',
-                    dataLabels: { enabled: true, style: { fontSize: '11px', fontWeight: '400', fontFamily: CHART_FONT, color: '#555' }, textOutline: '0px' }
+                    color: cv('--accent'),
+                    dataLabels: { enabled: true, style: { fontSize: '11px', fontWeight: '400', fontFamily: CHART_FONT, color: cv('--chart-data-label') }, textOutline: '0px' }
                 }],
                 legend: { enabled: false },
                 credits: { enabled: false },
                 plotOptions: { bar: { borderRadius: 0, borderWidth: 0 } },
-                tooltip: { style: { fontFamily: CHART_FONT, fontSize: '12px' } }
+                tooltip: { backgroundColor: cv('--bg-secondary'), style: { fontFamily: CHART_FONT, fontSize: '12px', color: cv('--text-primary') } }
             });
         }
 
@@ -1206,7 +1298,7 @@
             const dates     = allData.map(e => new Date(e.date)).sort((a, b) => a - b);
             const fmt       = d => ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][d.getMonth()] + '-' + String(d.getFullYear()).slice(-2);
             const statsEl   = document.getElementById('stats');
-            statsEl.innerHTML = `<span style="white-space:nowrap;">${allData.length.toLocaleString()} records · ${fmt(dates[0])} — ${fmt(dates[dates.length-1])}</span><br><span style="white-space:nowrap;">from <a href="https://leetcode.com/discuss/" target="_blank" rel="noopener noreferrer" style="color:#aaa;text-decoration:none;border-bottom:1px dotted #ccc;padding-bottom:1px;transition:color .15s" onmouseover="this.style.color='#1a1a1a';this.style.borderColor='#1a1a1a'" onmouseout="this.style.color='#aaa';this.style.borderColor='#ccc'">leetcode/compensation</a></span>`;
+            statsEl.innerHTML = `<span style="white-space:nowrap;">${allData.length.toLocaleString()} records · ${fmt(dates[0])} — ${fmt(dates[dates.length-1])}</span><br><span style="white-space:nowrap;">from <a href="https://leetcode.com/discuss/" target="_blank" rel="noopener noreferrer" class="stats-link">leetcode/compensation</a></span>`;
         }
 
         function formatDate(ds) {
@@ -1240,6 +1332,16 @@
                 }
             } catch {}
         }
+
+        /* ── Theme Toggle ──────────────────────────────────────── */
+        document.getElementById('theme-toggle').addEventListener('click', () => {
+            const html = document.documentElement;
+            const next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('leetcomp-theme', next);
+            // Re-render charts with new theme colors
+            renderCharts(displayData.length ? displayData : allData);
+        });
 
         loadData();
         loadGitHubStars();
