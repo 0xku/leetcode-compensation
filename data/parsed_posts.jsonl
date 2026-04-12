@@ -1,3 +1,24 @@
+{"id": 7880122, "created_at": "2026-04-12T11:53:25.236620+00:00", "skip": true}
+{"id": 7878487, "created_at": "2026-04-12T07:18:32.030657+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Amazon", "company-normalized": "amazon", "role": "SDE2", "role-normalized": "sde 2", "yoe": 3.8, "base": 44.0, "currency": "INR"}
+{"id": 7878174, "created_at": "2026-04-12T06:45:25.637139+00:00", "skip": true}
+{"id": 7877753, "created_at": "2026-04-12T05:52:41.596183+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Publicis Sapient", "company-normalized": "publicis sapient", "role": "Senior Associate Technology L1", "role-normalized": "sat l1", "base": 24.0, "location": "pune", "currency": "INR"}
+{"id": 7876573, "created_at": "2026-04-12T00:32:45.639550+00:00", "skip": true}
+{"id": 7872844, "created_at": "2026-04-11T15:32:32.757371+00:00", "skip": true}
+{"id": 7870214, "created_at": "2026-04-11T12:12:42.346351+00:00", "skip": true}
+{"id": 7868487, "created_at": "2026-04-11T10:07:57.369525+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Amazon", "company-normalized": "amazon", "role": "SDE2", "role-normalized": "sde 2", "yoe": 4.0, "base": 45.0, "total": 65.0, "currency": "INR"}
+{"id": 7866787, "created_at": "2026-04-11T07:14:03.279867+00:00", "skip": true}
+{"id": 7862210, "created_at": "2026-04-10T18:35:30.621235+00:00", "skip": true}
+{"id": 7859731, "created_at": "2026-04-10T14:44:59.265509+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Amazon", "company-normalized": "amazon", "base": 46.6, "total": 59.3, "currency": "INR"}
+{"id": 7859731, "created_at": "2026-04-10T14:44:59.265509+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Microsoft", "company-normalized": "microsoft", "role": "L62", "role-normalized": "l62", "base": 42.6, "total": 71.0, "currency": "INR"}
+{"id": 7855272, "created_at": "2026-04-10T09:33:33.063502+00:00", "skip": true}
+{"id": 7852572, "created_at": "2026-04-10T06:47:31.393525+00:00", "skip": true}
+{"id": 7852084, "created_at": "2026-04-10T06:18:56.309840+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "NetApp", "company-normalized": "netapp", "role": "SDE2", "role-normalized": "sde 2", "yoe": 2.8, "base": 24.0, "total-calculated": 32.33, "location": "bangalore", "currency": "INR"}
+{"id": 7846072, "created_at": "2026-04-09T15:56:32.197645+00:00", "skip": true}
+{"id": 7845735, "created_at": "2026-04-09T15:17:04.301802+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "NetApp", "company-normalized": "netapp", "role": "SDE2", "role-normalized": "sde 2", "yoe": 2.8, "base": 23.0, "location": "bangalore", "currency": "INR"}
+{"id": 7840961, "created_at": "2026-04-09T10:29:50.798055+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Salesforce", "company-normalized": "salesforce", "role": "SMTS", "role-normalized": "smts", "yoe": 9.0, "base": 42.0, "total": 65.0, "location": "hyderabad", "currency": "INR"}
+{"id": 7836617, "created_at": "2026-04-09T06:01:28.727868+00:00", "skip": true}
+{"id": 7831744, "created_at": "2026-04-08T17:41:27.066632+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "OCI", "company-normalized": "oci", "role": "SMTS", "role-normalized": "smts", "yoe": 4.0, "base": 41.0, "location": "bangalore", "currency": "INR"}
+{"id": 7830340, "created_at": "2026-04-08T15:17:39.785064+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Kotak Mahindra Bank", "company-normalized": "kotak mahindra bank", "role": "SDE-2", "role-normalized": "sde 2", "yoe": 6.0, "base": 37.0, "total-calculated": 50.7, "currency": "INR"}
 {"id": 7828525, "created_at": "2026-04-08T12:29:43.155251+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Kotak Mahindra Bank", "company-normalized": "kotak mahindra bank", "role": "SDE-2", "role-normalized": "sde 2", "yoe": 6.0, "base": 37.0, "total-calculated": 50.7, "currency": "INR"}
 {"id": 7822296, "created_at": "2026-04-08T06:58:00.380397+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Sprinklr", "company-normalized": "sprinklr", "role": "Senior Software Engineer", "role-normalized": "sse", "yoe": 2.9, "base": 41.0, "total": 41.0, "location": "gurugram", "currency": "INR"}
 {"id": 7822296, "created_at": "2026-04-08T06:58:00.380397+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Visa", "company-normalized": "visa", "role": "Senior Software Engineer", "role-normalized": "sse", "yoe": 2.9, "base": 33.0, "total-calculated": 40.1, "location": "bangalore", "currency": "INR"}

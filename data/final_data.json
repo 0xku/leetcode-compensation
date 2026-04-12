@@ -1,5 +1,105 @@
 [
   {
+    "id": 7878487,
+    "date": "2026-04-12T07:18:32.030657+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 3.8,
+    "base": 44.0,
+    "total": null
+  },
+  {
+    "id": 7877753,
+    "date": "2026-04-12T05:52:41.596183+00:00",
+    "location": "Pune",
+    "company": "Publicis Sapient",
+    "role": "SAT L1",
+    "yoe": null,
+    "base": 24.0,
+    "total": null
+  },
+  {
+    "id": 7868487,
+    "date": "2026-04-11T10:07:57.369525+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 4.0,
+    "base": 45.0,
+    "total": 65.0
+  },
+  {
+    "id": 7859731,
+    "date": "2026-04-10T14:44:59.265509+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "N/A",
+    "yoe": null,
+    "base": 46.6,
+    "total": 59.3
+  },
+  {
+    "id": 7859731,
+    "date": "2026-04-10T14:44:59.265509+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "SSE",
+    "yoe": null,
+    "base": 42.6,
+    "total": 71.0
+  },
+  {
+    "id": 7852084,
+    "date": "2026-04-10T06:18:56.309840+00:00",
+    "location": "Bengaluru",
+    "company": "NetApp",
+    "role": "SDE 2",
+    "yoe": 2.8,
+    "base": 24.0,
+    "total": 32.33
+  },
+  {
+    "id": 7845735,
+    "date": "2026-04-09T15:17:04.301802+00:00",
+    "location": "Bengaluru",
+    "company": "NetApp",
+    "role": "SDE 2",
+    "yoe": 2.8,
+    "base": 23.0,
+    "total": null
+  },
+  {
+    "id": 7840961,
+    "date": "2026-04-09T10:29:50.798055+00:00",
+    "location": "Hyderabad",
+    "company": "Salesforce",
+    "role": "SMTS",
+    "yoe": 9.0,
+    "base": 42.0,
+    "total": 65.0
+  },
+  {
+    "id": 7831744,
+    "date": "2026-04-08T17:41:27.066632+00:00",
+    "location": "Bengaluru",
+    "company": "Oracle",
+    "role": "SMTS",
+    "yoe": 4.0,
+    "base": 41.0,
+    "total": null
+  },
+  {
+    "id": 7830340,
+    "date": "2026-04-08T15:17:39.785064+00:00",
+    "location": "",
+    "company": "Kotak",
+    "role": "SDE 2",
+    "yoe": 6.0,
+    "base": 37.0,
+    "total": 50.7
+  },
+  {
     "id": 7828525,
     "date": "2026-04-08T12:29:43.155251+00:00",
     "location": "",
