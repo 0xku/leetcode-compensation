@@ -1,5 +1,7 @@
 <h1 align="center">Leetcode Compensation</h1>
 
+<p align="center">Software engineer compensation tracker for India, powered by Leetcode forum data.</p>
+
 <p align="center">
   <a href="https://www.python.org/downloads/release/python-3130/"><img alt="Python" src="https://img.shields.io/badge/python-3.13%2B-3776AB?style=flat-square" /></a>
   <a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-2ea44f?style=flat-square" /></a>
@@ -15,11 +17,7 @@
   <a href="https://0xku.github.io/leetcode-compensation/">https://0xku.github.io/leetcode-compensation/</a>
 </p>
 
-A tool that helps you find **Software Engineer Salary in India** by:
-
-- Fetching compensation data from Leetcode forums
-- Updating regularly through GitHub action PRs
-- Using LLMs for parsing and sanitizing structured data from posts, followed by aggregation
+Leetcode Compensation fetches salary posts from Leetcode discussion forums, parses and normalizes them into structured data using LLMs, and presents everything in a filterable dashboard. Data stays fresh through automated GitHub Action PRs that sync new posts on a regular cadence.
 
 ## Getting Started
 
