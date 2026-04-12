@@ -6,6 +6,12 @@
 </p>
 
 <p align="center">
+  <a href="https://0xku.github.io/leetcode-compensation/">
+    <img src="assets/lc.png" alt="Leetcomp dashboard" width="75%" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://0xku.github.io/leetcode-compensation/">https://0xku.github.io/leetcode-compensation/</a>
 </p>
 
@@ -14,12 +20,6 @@ A tool that helps you find **Software Engineer Salary in India** by:
 - Fetching compensation data from Leetcode forums
 - Updating regularly through GitHub action PRs
 - Using LLMs for parsing and sanitizing structured data from posts, followed by aggregation
-
-<p align="center">
-  <a href="https://0xku.github.io/leetcode-compensation/">
-    <img src="assets/lc.png" alt="Leetcomp dashboard" width="75%" />
-  </a>
-</p>
 
 ## Getting Started
 
