@@ -1,5 +1,5 @@
 {"id": 7880122, "created_at": "2026-04-12T11:53:25.236620+00:00", "skip": true}
-{"id": 7878487, "created_at": "2026-04-12T07:18:32.030657+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Amazon", "company-normalized": "amazon", "role": "SDE2", "role-normalized": "sde 2", "yoe": 3.8, "base": 44.0, "currency": "INR"}
+{"id": 7878487, "created_at": "2026-04-12T07:18:32.030657+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Amazon", "company-normalized": "amazon", "role": "SDE2", "role-normalized": "sde 2", "yoe": 3.8, "base": 44.0, "total-calculated": 55.38, "currency": "INR"}
 {"id": 7878174, "created_at": "2026-04-12T06:45:25.637139+00:00", "skip": true}
 {"id": 7877753, "created_at": "2026-04-12T05:52:41.596183+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Publicis Sapient", "company-normalized": "publicis sapient", "role": "Senior Associate Technology L1", "role-normalized": "sat l1", "base": 24.0, "location": "pune", "currency": "INR"}
 {"id": 7876573, "created_at": "2026-04-12T00:32:45.639550+00:00", "skip": true}
@@ -14,7 +14,7 @@
 {"id": 7852572, "created_at": "2026-04-10T06:47:31.393525+00:00", "skip": true}
 {"id": 7852084, "created_at": "2026-04-10T06:18:56.309840+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "NetApp", "company-normalized": "netapp", "role": "SDE2", "role-normalized": "sde 2", "yoe": 2.8, "base": 24.0, "total-calculated": 32.33, "location": "bangalore", "currency": "INR"}
 {"id": 7846072, "created_at": "2026-04-09T15:56:32.197645+00:00", "skip": true}
-{"id": 7845735, "created_at": "2026-04-09T15:17:04.301802+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "NetApp", "company-normalized": "netapp", "role": "SDE2", "role-normalized": "sde 2", "yoe": 2.8, "base": 23.0, "location": "bangalore", "currency": "INR"}
+{"id": 7845735, "created_at": "2026-04-09T15:17:04.301802+00:00", "skip": true}
 {"id": 7840961, "created_at": "2026-04-09T10:29:50.798055+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Salesforce", "company-normalized": "salesforce", "role": "SMTS", "role-normalized": "smts", "yoe": 9.0, "base": 42.0, "total": 65.0, "location": "hyderabad", "currency": "INR"}
 {"id": 7836617, "created_at": "2026-04-09T06:01:28.727868+00:00", "skip": true}
 {"id": 7831744, "created_at": "2026-04-08T17:41:27.066632+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "OCI", "company-normalized": "oci", "role": "SMTS", "role-normalized": "smts", "yoe": 4.0, "base": 41.0, "total-calculated": 61.75, "location": "bangalore", "currency": "INR"}

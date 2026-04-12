@@ -7,7 +7,7 @@
     "role": "SDE 2",
     "yoe": 3.8,
     "base": 44.0,
-    "total": null
+    "total": 55.38
   },
   {
     "id": 7877753,
@@ -58,16 +58,6 @@
     "yoe": 2.8,
     "base": 24.0,
     "total": 32.33
-  },
-  {
-    "id": 7845735,
-    "date": "2026-04-09T15:17:04.301802+00:00",
-    "location": "Bengaluru",
-    "company": "NetApp",
-    "role": "SDE 2",
-    "yoe": 2.8,
-    "base": 23.0,
-    "total": null
   },
   {
     "id": 7840961,
