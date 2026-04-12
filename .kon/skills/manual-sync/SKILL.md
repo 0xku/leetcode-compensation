@@ -46,6 +46,9 @@ Key rules:
 - LPA values: "30 lacs"→30, "₹10,00,000"→10, "1.5 Cr"→150
 - `total` = user-stated total; `total-calculated` = annual compensation computed from recurring annual components only (base + annual bonus/target bonus + annualized stocks/equity), and only if no explicit total is stated
 - Exclude one-time or non-recurring items from `total-calculated`: joining/sign-on bonus, relocation bonus, retention bonus, PF, gratuity, retirals, benefits, reimbursements, clawback notes, etc.
+- RSU/stock grants: annualize over 4 years (industry standard) even if the vesting period isn't explicitly stated, as long as the grant value is given in currency (INR/$). If RSUs are in units only with no stock price, they cannot be annualized — omit from calculation.
+- Always compute `total-calculated` when there are enough components to exceed just `base` alone, and no explicit `total` is stated. Do not leave it out just because one component (e.g. vesting period) uses a standard default.
+- Mark duplicate/reposted compensation posts as skip (same author, same comp details, different post ID)
 - If the user explicitly states a first-year/total compensation number, prefer `total` exactly as stated instead of recomputing
 - Omit missing fields entirely (never N/A)
 - One post can yield multiple parsed records

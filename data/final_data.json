@@ -87,17 +87,7 @@
     "role": "SMTS",
     "yoe": 4.0,
     "base": 41.0,
-    "total": null
-  },
-  {
-    "id": 7830340,
-    "date": "2026-04-08T15:17:39.785064+00:00",
-    "location": "",
-    "company": "Kotak",
-    "role": "SDE 2",
-    "yoe": 6.0,
-    "base": 37.0,
-    "total": 50.7
+    "total": 61.75
   },
   {
     "id": 7828525,
