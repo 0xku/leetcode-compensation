@@ -1,5 +1,65 @@
 [
   {
+    "id": 7911587,
+    "date": "2026-04-14T16:59:53.485952+00:00",
+    "location": "",
+    "company": "Palo Alto Networks",
+    "role": "SSE",
+    "yoe": 7.0,
+    "base": 39.0,
+    "total": 55.24
+  },
+  {
+    "id": 7911311,
+    "date": "2026-04-14T16:41:22.451366+00:00",
+    "location": "Bengaluru",
+    "company": "LinkedIn",
+    "role": "SDE",
+    "yoe": 4.0,
+    "base": 29.5,
+    "total": 48.5
+  },
+  {
+    "id": 7910016,
+    "date": "2026-04-14T15:17:52.196588+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": null,
+    "base": 46.0,
+    "total": 64.0
+  },
+  {
+    "id": 7901539,
+    "date": "2026-04-14T07:17:54.105689+00:00",
+    "location": "",
+    "company": "Cloudflare",
+    "role": "SSE",
+    "yoe": 4.0,
+    "base": 60.0,
+    "total": 79.0
+  },
+  {
+    "id": 7881722,
+    "date": "2026-04-12T17:22:37.040924+00:00",
+    "location": "Gurugram",
+    "company": "Nielsen",
+    "role": "MTS 2",
+    "yoe": 2.8,
+    "base": 28.5,
+    "total": 28.5
+  },
+  {
+    "id": 7881722,
+    "date": "2026-04-12T17:22:37.040924+00:00",
+    "location": "Hyderabad",
+    "company": "Qualcomm",
+    "role": "SSE",
+    "yoe": 2.8,
+    "base": 28.5,
+    "total": 46.0
+  },
+  {
     "id": 7878487,
     "date": "2026-04-12T07:18:32.030657+00:00",
     "location": "",
