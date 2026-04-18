@@ -1,5 +1,145 @@
 [
   {
+    "id": 7969222,
+    "date": "2026-04-17T19:15:18.494923+00:00",
+    "location": "Bengaluru",
+    "company": "Tesco",
+    "role": "SDE 2",
+    "yoe": 7.0,
+    "base": 36.0,
+    "total": 36.0
+  },
+  {
+    "id": 7968573,
+    "date": "2026-04-17T18:23:32.333983+00:00",
+    "location": "",
+    "company": "Nazara Technologies",
+    "role": "SDE 2",
+    "yoe": 4.5,
+    "base": null,
+    "total": 30.0
+  },
+  {
+    "id": 7958734,
+    "date": "2026-04-17T10:19:58.481943+00:00",
+    "location": "Bengaluru",
+    "company": "Walmart",
+    "role": "SSE",
+    "yoe": 3.8,
+    "base": 29.0,
+    "total": 43.9
+  },
+  {
+    "id": 7953230,
+    "date": "2026-04-17T06:42:36.287063+00:00",
+    "location": "",
+    "company": "Zomato",
+    "role": "SDE 1",
+    "yoe": 2.8,
+    "base": 25.0,
+    "total": 30.0
+  },
+  {
+    "id": 7936499,
+    "date": "2026-04-16T08:36:18.067988+00:00",
+    "location": "Bengaluru",
+    "company": "McAfee",
+    "role": "SDE 2",
+    "yoe": 8.0,
+    "base": 26.0,
+    "total": 30.0
+  },
+  {
+    "id": 7936497,
+    "date": "2026-04-16T08:36:07.062954+00:00",
+    "location": "",
+    "company": "Kotak",
+    "role": "SDE 2",
+    "yoe": 2.9,
+    "base": 36.0,
+    "total": 43.6
+  },
+  {
+    "id": 7936497,
+    "date": "2026-04-16T08:36:07.062954+00:00",
+    "location": "",
+    "company": "Flipkart",
+    "role": "SDE 2",
+    "yoe": 2.9,
+    "base": 29.0,
+    "total": 35.81
+  },
+  {
+    "id": 7936497,
+    "date": "2026-04-16T08:36:07.062954+00:00",
+    "location": "",
+    "company": "Walmart",
+    "role": "SSE",
+    "yoe": 2.9,
+    "base": 28.0,
+    "total": 43.1
+  },
+  {
+    "id": 7935212,
+    "date": "2026-04-16T06:52:59.338445+00:00",
+    "location": "Hyderabad",
+    "company": "Salesforce",
+    "role": "MTS",
+    "yoe": 2.8,
+    "base": 27.4,
+    "total": 41.4
+  },
+  {
+    "id": 7932771,
+    "date": "2026-04-16T04:30:46.584827+00:00",
+    "location": "",
+    "company": "Piramal Finance",
+    "role": "SDE 2",
+    "yoe": 3.5,
+    "base": 31.0,
+    "total": 34.3
+  },
+  {
+    "id": 7927823,
+    "date": "2026-04-15T16:32:18.555780+00:00",
+    "location": "",
+    "company": "Walmart",
+    "role": "SSE",
+    "yoe": null,
+    "base": 32.0,
+    "total": 41.0
+  },
+  {
+    "id": 7924734,
+    "date": "2026-04-15T13:19:04.367509+00:00",
+    "location": "Remote",
+    "company": "YipitData",
+    "role": "SDE 2",
+    "yoe": 3.3,
+    "base": 25.0,
+    "total": 25.0
+  },
+  {
+    "id": 7924734,
+    "date": "2026-04-15T13:19:04.367509+00:00",
+    "location": "",
+    "company": "Akamai",
+    "role": "SDE 2",
+    "yoe": 3.3,
+    "base": 22.8,
+    "total": 25.08
+  },
+  {
+    "id": 7920300,
+    "date": "2026-04-15T09:27:40.235073+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "Principal Engineer",
+    "yoe": 10.0,
+    "base": 55.0,
+    "total": 85.2
+  },
+  {
     "id": 7911587,
     "date": "2026-04-14T16:59:53.485952+00:00",
     "location": "",
@@ -15143,7 +15283,7 @@
     "id": 6828178,
     "date": "2025-06-10T05:03:28.672189+00:00",
     "location": "Bengaluru",
-    "company": "Mcafee",
+    "company": "McAfee",
     "role": "SDE",
     "yoe": 8,
     "base": 23,
