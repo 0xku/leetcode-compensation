@@ -1,5 +1,155 @@
 [
   {
+    "id": 8054424,
+    "date": "2026-04-22T14:01:15.230553+00:00",
+    "location": "",
+    "company": "DocuSign",
+    "role": "Staff Engineer",
+    "yoe": 8.0,
+    "base": 68.0,
+    "total": 100.2
+  },
+  {
+    "id": 8050319,
+    "date": "2026-04-22T11:23:12.215099+00:00",
+    "location": "",
+    "company": "HashedIn by Deloitte",
+    "role": "SDE 2",
+    "yoe": 2.0,
+    "base": 8.5,
+    "total": 10.0
+  },
+  {
+    "id": 8029202,
+    "date": "2026-04-21T11:06:51.873515+00:00",
+    "location": "Bengaluru",
+    "company": "Amazon",
+    "role": "SDE 1",
+    "yoe": 1.58,
+    "base": 19.17,
+    "total": 26.4
+  },
+  {
+    "id": 8023770,
+    "date": "2026-04-21T06:43:20.660636+00:00",
+    "location": "Remote",
+    "company": "Airbase",
+    "role": "SDE 2",
+    "yoe": 2.5,
+    "base": 25.17,
+    "total": 25.17
+  },
+  {
+    "id": 8023770,
+    "date": "2026-04-21T06:43:20.660636+00:00",
+    "location": "Mumbai",
+    "company": "JioHotStar",
+    "role": "SDE 2",
+    "yoe": 2.5,
+    "base": 25.2,
+    "total": 28.2
+  },
+  {
+    "id": 8023770,
+    "date": "2026-04-21T06:43:20.660636+00:00",
+    "location": "",
+    "company": "Keka HR",
+    "role": "SDE 2",
+    "yoe": 2.5,
+    "base": 21.0,
+    "total": 21.0
+  },
+  {
+    "id": 8022762,
+    "date": "2026-04-21T06:03:22.587894+00:00",
+    "location": "",
+    "company": "Walmart",
+    "role": "SSE",
+    "yoe": 5.9,
+    "base": 32.0,
+    "total": 41.0
+  },
+  {
+    "id": 8015907,
+    "date": "2026-04-20T16:40:28.600890+00:00",
+    "location": "",
+    "company": "JPMorgan Chase",
+    "role": "SDE 2",
+    "yoe": 2.75,
+    "base": 29.0,
+    "total": 39.0
+  },
+  {
+    "id": 8014478,
+    "date": "2026-04-20T15:34:21.050994+00:00",
+    "location": "",
+    "company": "Uber",
+    "role": "ML Engineer 2",
+    "yoe": 3.0,
+    "base": 45.0,
+    "total": 62.8
+  },
+  {
+    "id": 8013860,
+    "date": "2026-04-20T14:55:41.984434+00:00",
+    "location": "Noida",
+    "company": "Cadence",
+    "role": "SSE",
+    "yoe": 2.83,
+    "base": 24.0,
+    "total": 26.4
+  },
+  {
+    "id": 8013860,
+    "date": "2026-04-20T14:55:41.984434+00:00",
+    "location": "Hyderabad",
+    "company": "Qualcomm",
+    "role": "SDE",
+    "yoe": 2.83,
+    "base": 24.5,
+    "total": 31.83
+  },
+  {
+    "id": 7994010,
+    "date": "2026-04-19T11:11:44.282989+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 6.0,
+    "base": 43.0,
+    "total": 65.0
+  },
+  {
+    "id": 7984978,
+    "date": "2026-04-18T17:11:51.335818+00:00",
+    "location": "Hyderabad",
+    "company": "JPMorgan Chase",
+    "role": "SDE 2",
+    "yoe": 3.0,
+    "base": 27.0,
+    "total": 30.0
+  },
+  {
+    "id": 7984978,
+    "date": "2026-04-18T17:11:51.335818+00:00",
+    "location": "Bengaluru",
+    "company": "Walmart",
+    "role": "SSE",
+    "yoe": 3.0,
+    "base": 26.2,
+    "total": 40.0
+  },
+  {
+    "id": 7980642,
+    "date": "2026-04-18T12:38:09.504459+00:00",
+    "location": "",
+    "company": "Cisco",
+    "role": "SDE 2",
+    "yoe": 1.9,
+    "base": 21.0,
+    "total": 23.31
+  },
+  {
     "id": 7969222,
     "date": "2026-04-17T19:15:18.494923+00:00",
     "location": "Bengaluru",

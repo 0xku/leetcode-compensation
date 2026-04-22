@@ -1,3 +1,37 @@
+{"id": 8055559, "created_at": "2026-04-22T14:57:16.979913+00:00", "skip": true}
+{"id": 8055037, "created_at": "2026-04-22T14:24:19.962259+00:00", "skip": true}
+{"id": 8054424, "created_at": "2026-04-22T14:01:15.230553+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "DocuSign", "company-normalized": "docusign", "role": "P4", "role-normalized": "p4", "yoe": 8.0, "base": 68.0, "total-calculated": 100.2, "currency": "INR"}
+{"id": 8050319, "created_at": "2026-04-22T11:23:12.215099+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "HashedIn by Deloitte", "company-normalized": "hashed in by deloitte", "role": "Software Engineer - 2", "role-normalized": "sde 2", "yoe": 2.0, "base": 8.5, "total": 10.0, "currency": "INR"}
+{"id": 8046146, "created_at": "2026-04-22T08:20:53.437039+00:00", "skip": true}
+{"id": 8037181, "created_at": "2026-04-21T17:17:26.528910+00:00", "skip": true}
+{"id": 8036923, "created_at": "2026-04-21T17:04:34.796345+00:00", "skip": true}
+{"id": 8030174, "created_at": "2026-04-21T11:40:09.552687+00:00", "skip": true}
+{"id": 8029202, "created_at": "2026-04-21T11:06:51.873515+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Amazon", "company-normalized": "amazon", "role": "SDE-1 (L4)", "role-normalized": "sde 1", "yoe": 1.58, "base": 19.17, "total": 26.4, "total-calculated": 23.06, "location": "Bangalore", "currency": "INR"}
+{"id": 8028108, "created_at": "2026-04-21T10:25:28.906435+00:00", "skip": true}
+{"id": 8023770, "created_at": "2026-04-21T06:43:20.660636+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Airbase (Paylocity)", "company-normalized": "airbase", "role": "SDE-2", "role-normalized": "sde 2", "yoe": 2.5, "base": 25.17, "total": 25.17, "location": "Remote", "currency": "INR"}
+{"id": 8023770, "created_at": "2026-04-21T06:43:20.660636+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "JioHotstar", "company-normalized": "jiohotstar", "role": "SDE-2", "role-normalized": "sde 2", "yoe": 2.5, "base": 25.2, "total": 28.2, "total-calculated": 28.2, "location": "Mumbai", "currency": "INR"}
+{"id": 8023770, "created_at": "2026-04-21T06:43:20.660636+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Keka HR", "company-normalized": "keka hr", "role": "SDE-2", "role-normalized": "sde 2", "yoe": 2.5, "base": 21.0, "total": 21.0, "currency": "INR"}
+{"id": 8022762, "created_at": "2026-04-21T06:03:22.587894+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Walmart", "company-normalized": "walmart", "role": "SSE", "role-normalized": "sse", "yoe": 5.9, "base": 32.0, "total": 41.0, "currency": "INR"}
+{"id": 8022315, "created_at": "2026-04-21T05:36:43.159134+00:00", "skip": true}
+{"id": 8017515, "created_at": "2026-04-20T18:11:58.468047+00:00", "skip": true}
+{"id": 8016079, "created_at": "2026-04-20T16:49:21.436208+00:00", "skip": true}
+{"id": 8015907, "created_at": "2026-04-20T16:40:28.600890+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "JPMorgan Chase & Co", "company-normalized": "jpmorgan chase", "role": "SDE 2", "role-normalized": "sde 2", "yoe": 2.75, "base": 29.0, "total": 39.0, "currency": "INR"}
+{"id": 8014478, "created_at": "2026-04-20T15:34:21.050994+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Uber", "company-normalized": "uber", "role": "MLE 2", "role-normalized": "mle 2", "yoe": 3.0, "base": 45.0, "total-calculated": 62.8, "currency": "INR"}
+{"id": 8013860, "created_at": "2026-04-20T14:55:41.984434+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Cadence", "company-normalized": "cadence", "role": "Senior Engineer", "role-normalized": "sse", "yoe": 2.83, "base": 24.0, "total-calculated": 26.4, "location": "Noida", "currency": "INR"}
+{"id": 8013860, "created_at": "2026-04-20T14:55:41.984434+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Qualcomm", "company-normalized": "qualcomm", "role": "Engineer", "role-normalized": "sde", "yoe": 2.83, "base": 24.5, "total-calculated": 31.83, "location": "Hyderabad", "currency": "INR"}
+{"id": 8008860, "created_at": "2026-04-20T11:13:36.081324+00:00", "skip": true}
+{"id": 7997035, "created_at": "2026-04-19T17:36:24.702900+00:00", "skip": true}
+{"id": 7995714, "created_at": "2026-04-19T14:42:02.988216+00:00", "skip": true}
+{"id": 7995054, "created_at": "2026-04-19T13:08:41.367762+00:00", "skip": true}
+{"id": 7995048, "created_at": "2026-04-19T13:08:03.065902+00:00", "skip": true}
+{"id": 7994010, "created_at": "2026-04-19T11:11:44.282989+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Amazon", "company-normalized": "amazon", "role": "SDE-2", "role-normalized": "sde 2", "yoe": 6.0, "base": 43.0, "total": 65.0, "currency": "INR"}
+{"id": 7993853, "created_at": "2026-04-19T10:54:18.689403+00:00", "skip": true}
+{"id": 7991791, "created_at": "2026-04-19T06:50:58.673869+00:00", "skip": true}
+{"id": 7984978, "created_at": "2026-04-18T17:11:51.335818+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "JPMorgan Chase", "company-normalized": "jpmorgan chase", "role": "Software Engineer II", "role-normalized": "sde 2", "yoe": 3.0, "base": 27.0, "total": 30.0, "location": "Hyderabad", "currency": "INR"}
+{"id": 7984978, "created_at": "2026-04-18T17:11:51.335818+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Walmart", "company-normalized": "walmart", "role": "SWE III", "role-normalized": "sse", "yoe": 3.0, "base": 26.2, "total": 40.0, "location": "Bangalore", "currency": "INR"}
+{"id": 7980642, "created_at": "2026-04-18T12:38:09.504459+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Cisco", "company-normalized": "cisco", "role": "SDE2 (G6)", "role-normalized": "sde 2", "yoe": 1.9, "base": 21.0, "total-calculated": 23.31, "currency": "INR"}
+{"id": 7977828, "created_at": "2026-04-18T09:59:21.441824+00:00", "skip": true}
+{"id": 7974440, "created_at": "2026-04-18T07:15:46.764161+00:00", "skip": true}
 {"id": 7969309, "created_at": "2026-04-17T19:21:55.217290+00:00", "skip": true}
 {"id": 7969222, "created_at": "2026-04-17T19:15:18.494923+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Tesco", "company-normalized": "tesco", "role": "Software Development Engineer (2)", "role-normalized": "sde 2", "yoe": 7.0, "base": 36.0, "total": 36.0, "location": "Bangalore", "currency": "INR"}
 {"id": 7968573, "created_at": "2026-04-17T18:23:32.333983+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "RMG (Nazara Technologies)", "company-normalized": "nazara technologies", "role": "SDE II", "role-normalized": "sde 2", "yoe": 4.5, "total": 30.0, "currency": "INR"}
