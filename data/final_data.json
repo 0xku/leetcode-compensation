@@ -1,5 +1,155 @@
 [
   {
+    "id": 8114073,
+    "date": "2026-04-29T16:33:29.533064+00:00",
+    "location": "",
+    "company": "PwC",
+    "role": "SSE",
+    "yoe": 4.3,
+    "base": 13.2,
+    "total": 14.52
+  },
+  {
+    "id": 8112539,
+    "date": "2026-04-29T11:01:49.137186+00:00",
+    "location": "",
+    "company": "Walmart",
+    "role": "Data Engineer 3",
+    "yoe": 4.0,
+    "base": 18.0,
+    "total": 32.0
+  },
+  {
+    "id": 8103132,
+    "date": "2026-04-27T10:19:31.976444+00:00",
+    "location": "",
+    "company": "Oracle",
+    "role": "SMTS",
+    "yoe": 3.0,
+    "base": 35.0,
+    "total": 39.75
+  },
+  {
+    "id": 8102938,
+    "date": "2026-04-27T09:54:40.949956+00:00",
+    "location": "Bengaluru",
+    "company": "BitGo",
+    "role": "SDE",
+    "yoe": 3.0,
+    "base": null,
+    "total": 35.0
+  },
+  {
+    "id": 8102817,
+    "date": "2026-04-27T09:35:56.811358+00:00",
+    "location": "Bengaluru",
+    "company": "SAP Labs",
+    "role": "SDE 2",
+    "yoe": 3.0,
+    "base": null,
+    "total": 25.0
+  },
+  {
+    "id": 8102230,
+    "date": "2026-04-27T08:01:42.737331+00:00",
+    "location": "Bengaluru",
+    "company": "MakeMyTrip",
+    "role": "SSE",
+    "yoe": 3.0,
+    "base": null,
+    "total": 20.0
+  },
+  {
+    "id": 8098504,
+    "date": "2026-04-26T06:10:50.017895+00:00",
+    "location": "Bengaluru",
+    "company": "SAP Labs",
+    "role": "Consultant",
+    "yoe": 4.83,
+    "base": 18.9,
+    "total": 21.0
+  },
+  {
+    "id": 8096453,
+    "date": "2026-04-25T09:14:57.700849+00:00",
+    "location": "Bengaluru",
+    "company": "Nielsen",
+    "role": "MTS 1",
+    "yoe": 1.5,
+    "base": 20.0,
+    "total": 20.5
+  },
+  {
+    "id": 8096453,
+    "date": "2026-04-25T09:14:57.700849+00:00",
+    "location": "Bengaluru",
+    "company": "WEX Inc.",
+    "role": "SDE 2",
+    "yoe": 1.5,
+    "base": 25.0,
+    "total": 26.0
+  },
+  {
+    "id": 8093077,
+    "date": "2026-04-24T09:28:17.081164+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "SDE 2",
+    "yoe": 3.6,
+    "base": 28.0,
+    "total": 42.0
+  },
+  {
+    "id": 8089392,
+    "date": "2026-04-24T06:32:25.542013+00:00",
+    "location": "",
+    "company": "LAM Research",
+    "role": "N/A",
+    "yoe": 7.0,
+    "base": 34.0,
+    "total": 43.0
+  },
+  {
+    "id": 8088654,
+    "date": "2026-04-24T05:58:45.577683+00:00",
+    "location": "Bengaluru",
+    "company": "Veeam Software",
+    "role": "SSE",
+    "yoe": 5.75,
+    "base": 42.27,
+    "total": 51.0
+  },
+  {
+    "id": 8076680,
+    "date": "2026-04-23T13:41:00.519031+00:00",
+    "location": "Bengaluru",
+    "company": "Okta",
+    "role": "Staff Engineer",
+    "yoe": 11.0,
+    "base": 60.0,
+    "total": 80.0
+  },
+  {
+    "id": 8067326,
+    "date": "2026-04-23T08:08:09.328323+00:00",
+    "location": "Bengaluru",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 4.0,
+    "base": 45.0,
+    "total": 56.85
+  },
+  {
+    "id": 8064291,
+    "date": "2026-04-23T06:11:08.744489+00:00",
+    "location": "",
+    "company": "PayU",
+    "role": "SDE 2",
+    "yoe": 3.0,
+    "base": 21.5,
+    "total": 23.65
+  },
+  {
     "id": 8054424,
     "date": "2026-04-22T14:01:15.230553+00:00",
     "location": "",

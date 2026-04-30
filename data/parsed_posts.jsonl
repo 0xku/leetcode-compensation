@@ -1,3 +1,39 @@
+{"id": 8115085,"created_at": "2026-04-30T02:47:45.688634+00:00","skip": true}
+{"id": 8114366,"created_at": "2026-04-29T17:49:31.978811+00:00","skip": true}
+{"id": 8114232,"created_at": "2026-04-29T17:12:30.246359+00:00","skip": true}
+{"id": 8114073,"created_at": "2026-04-29T16:33:29.533064+00:00","skip": false,"compensation-post": true,"offer-type": "full-time","company": "PwC India","company-normalized": "pwc india","role": "Senior Associate","role-normalized": "senior associate","yoe": 4.3,"base": 13.2,"total-calculated": 14.52,"currency": "INR"}
+{"id": 8114011,"created_at": "2026-04-29T16:15:21.654084+00:00","skip": true}
+{"id": 8112539,"created_at": "2026-04-29T11:01:49.137186+00:00","skip": false,"compensation-post": true,"offer-type": "full-time","company": "Walmart Global Tech (India)","company-normalized": "walmart global tech","role": "Data Engineer 3","role-normalized": "data engineer 3","yoe": 4.0,"base": 18.0,"total": 32.0,"total-calculated": 31.1,"currency": "INR"}
+{"id": 8110964,"created_at": "2026-04-29T06:26:17.386532+00:00","skip": true}
+{"id": 8110341,"created_at": "2026-04-29T03:54:38.320464+00:00","skip": true}
+{"id": 8108054,"created_at": "2026-04-28T11:41:09.872221+00:00","skip": true}
+{"id": 8103132,"created_at": "2026-04-27T10:19:31.976444+00:00","skip": false,"compensation-post": true,"offer-type": "full-time","company": "Oracle Health","company-normalized": "oracle health","role": "IC3 – SMTS","role-normalized": "ic3 smts","yoe": 3.0,"base": 35.0,"total-calculated": 39.75,"currency": "INR"}
+{"id": 8102938,"created_at": "2026-04-27T09:54:40.949956+00:00","skip": false,"compensation-post": true,"offer-type": "full-time","company": "BitGo","company-normalized": "bitgo","role": "Developer","role-normalized": "sde","yoe": 3.0,"total": 35.0,"location": "Bangalore","currency": "INR"}
+{"id": 8102817,"created_at": "2026-04-27T09:35:56.811358+00:00","skip": false,"compensation-post": true,"offer-type": "full-time","company": "SAP Labs","company-normalized": "sap labs","role": "T2 - Developer, Fullstack","role-normalized": "developer t2","yoe": 3.0,"total": 25.0,"location": "Bangalore","currency": "INR"}
+{"id": 8102230,"created_at": "2026-04-27T08:01:42.737331+00:00","skip": false,"compensation-post": true,"offer-type": "full-time","company": "MakeMyTrip","company-normalized": "makemytrip","role": "SSE 1","role-normalized": "sse 1","yoe": 3.0,"total": 20.0,"location": "Bangalore","currency": "INR"}
+{"id": 8100491,"created_at": "2026-04-26T21:10:18.057380+00:00","skip": true}
+{"id": 8099927,"created_at": "2026-04-26T16:18:56.337795+00:00","skip": true}
+{"id": 8099148,"created_at": "2026-04-26T10:08:00.784904+00:00","skip": true}
+{"id": 8098504,"created_at": "2026-04-26T06:10:50.017895+00:00","skip": false,"compensation-post": true,"offer-type": "full-time","company": "SAP Labs","company-normalized": "sap labs","role": "Business Process Consultant - T2","role-normalized": "consultant","yoe": 4.83,"base": 18.9,"total": 21.0,"location": "Bangalore","currency": "INR"}
+{"id": 8097976,"created_at": "2026-04-25T23:39:13.660281+00:00","skip": true}
+{"id": 8097903,"created_at": "2026-04-25T20:46:51.666520+00:00","skip": true}
+{"id": 8097248,"created_at": "2026-04-25T15:21:23.177631+00:00","skip": true}
+{"id": 8096453,"created_at": "2026-04-25T09:14:57.700849+00:00","skip": false,"compensation-post": true,"offer-type": "full-time","company": "Nielsen Media","company-normalized": "nielsen","role": "Member Technical Staff I (MTS-1)","role-normalized": "mts 1","yoe": 1.5,"base": 20.0,"total": 20.5,"location": "Bangalore","currency": "INR"}
+{"id": 8096453,"created_at": "2026-04-25T09:14:57.700849+00:00","skip": false,"compensation-post": true,"offer-type": "full-time","company": "WEX Inc.","company-normalized": "wex inc.","role": "Software Development Engineer 2 (SDE-2)","role-normalized": "sde 2","yoe": 1.5,"base": 25.0,"total": 26.0,"location": "Bangalore","currency": "INR"}
+{"id": 8095909,"created_at": "2026-04-24T22:29:59.685892+00:00","skip": true}
+{"id": 8095305,"created_at": "2026-04-24T16:18:04.283134+00:00","skip": true}
+{"id": 8093077,"created_at": "2026-04-24T09:28:17.081164+00:00","skip": false,"compensation-post": true,"offer-type": "full-time","company": "Microsoft","company-normalized": "microsoft","role": "SE2 (L61)","role-normalized": "se2(l61)","yoe": 3.6,"base": 28.0,"total": 42.0,"total-calculated": 42.66,"currency": "INR"}
+{"id": 8089392,"created_at": "2026-04-24T06:32:25.542013+00:00","skip": false,"compensation-post": true,"offer-type": "full-time","company": "LAM Research","company-normalized": "lam research","yoe": 7.0,"base": 34.0,"total": 43.0,"total-calculated": 43.08,"currency": "INR"}
+{"id": 8089094,"created_at": "2026-04-24T06:18:51.004859+00:00","skip": true}
+{"id": 8088654,"created_at": "2026-04-24T05:58:45.577683+00:00","skip": false,"compensation-post": true,"offer-type": "full-time","company": "Veeam Software","company-normalized": "veeam software","role": "Software Engineer 3","role-normalized": "software engineer 3","yoe": 5.75,"base": 42.27,"total": 51.0,"total-calculated": 46.49,"location": "Bengaluru","currency": "INR"}
+{"id": 8087453,"created_at": "2026-04-24T04:39:10.807366+00:00","skip": true}
+{"id": 8078092,"created_at": "2026-04-23T15:07:31.472111+00:00","skip": true}
+{"id": 8076680,"created_at": "2026-04-23T13:41:00.519031+00:00","skip": false,"compensation-post": true,"offer-type": "full-time","company": "Okta","company-normalized": "okta","role": "Staff SE","role-normalized": "staff software engineer","yoe": 11.0,"base": 60.0,"total": 80.0,"total-calculated": 80.24,"location": "Bangalore","currency": "INR"}
+{"id": 8067326,"created_at": "2026-04-23T08:08:09.328323+00:00","skip": false,"compensation-post": true,"offer-type": "full-time","company": "Amazon","company-normalized": "amazon","role": "SDE 2","role-normalized": "sde 2","yoe": 4.0,"base": 45.0,"total-calculated": 56.85,"location": "Bangalore","currency": "INR"}
+{"id": 8065134,"created_at": "2026-04-23T06:43:55.548979+00:00","skip": true}
+{"id": 8064533,"created_at": "2026-04-23T06:21:09.531062+00:00","skip": true}
+{"id": 8064291,"created_at": "2026-04-23T06:11:08.744489+00:00","skip": false,"compensation-post": true,"offer-type": "full-time","company": "PayU","company-normalized": "payu","role": "SDE II","role-normalized": "sde ii","yoe": 3.0,"base": 21.5,"total-calculated": 23.65,"currency": "INR"}
+{"id": 8063158,"created_at": "2026-04-23T05:15:58.957301+00:00","skip": true}
 {"id": 8055559, "created_at": "2026-04-22T14:57:16.979913+00:00", "skip": true}
 {"id": 8055037, "created_at": "2026-04-22T14:24:19.962259+00:00", "skip": true}
 {"id": 8054424, "created_at": "2026-04-22T14:01:15.230553+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "DocuSign", "company-normalized": "docusign", "role": "P4", "role-normalized": "p4", "yoe": 8.0, "base": 68.0, "total-calculated": 100.2, "currency": "INR"}
