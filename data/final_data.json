@@ -1,5 +1,145 @@
 [
   {
+    "id": 8137549,
+    "date": "2026-05-04T10:26:33.938200+00:00",
+    "location": "Bengaluru",
+    "company": "Kotak",
+    "role": "SDE 2",
+    "yoe": 3.5,
+    "base": 26.8,
+    "total": 32.48
+  },
+  {
+    "id": 8137362,
+    "date": "2026-05-04T10:08:21.061314+00:00",
+    "location": "Bengaluru",
+    "company": "Arm",
+    "role": "Engineer Grade 3",
+    "yoe": 3.1,
+    "base": 30.0,
+    "total": 43.0
+  },
+  {
+    "id": 8135763,
+    "date": "2026-05-04T06:13:03.537424+00:00",
+    "location": "",
+    "company": "Kotak",
+    "role": "N/A",
+    "yoe": 4.0,
+    "base": 50.0,
+    "total": 54.0
+  },
+  {
+    "id": 8131115,
+    "date": "2026-05-02T18:31:33.869340+00:00",
+    "location": "Bengaluru",
+    "company": "Amazon",
+    "role": "Data Scientist",
+    "yoe": 0.0,
+    "base": 32.0,
+    "total": 84.0
+  },
+  {
+    "id": 8124896,
+    "date": "2026-05-01T15:55:11.930503+00:00",
+    "location": "",
+    "company": "CWAN",
+    "role": "SDE 2",
+    "yoe": 3.9,
+    "base": 23.0,
+    "total": 24.07
+  },
+  {
+    "id": 8124896,
+    "date": "2026-05-01T15:55:11.930503+00:00",
+    "location": "",
+    "company": "Freecharge",
+    "role": "SSE",
+    "yoe": 3.9,
+    "base": 21.0,
+    "total": null
+  },
+  {
+    "id": 8124896,
+    "date": "2026-05-01T15:55:11.930503+00:00",
+    "location": "",
+    "company": "Ongrid",
+    "role": "SSE",
+    "yoe": 3.9,
+    "base": 22.0,
+    "total": null
+  },
+  {
+    "id": 8124896,
+    "date": "2026-05-01T15:55:11.930503+00:00",
+    "location": "",
+    "company": "Airtel Payments Bank",
+    "role": "SSE",
+    "yoe": 3.9,
+    "base": 24.0,
+    "total": null
+  },
+  {
+    "id": 8124896,
+    "date": "2026-05-01T15:55:11.930503+00:00",
+    "location": "",
+    "company": "Vaco Binary",
+    "role": "Tech Lead",
+    "yoe": 3.9,
+    "base": 23.0,
+    "total": null
+  },
+  {
+    "id": 8120279,
+    "date": "2026-04-30T21:22:11.703034+00:00",
+    "location": "",
+    "company": "Quince",
+    "role": "SDE 2",
+    "yoe": 3.0,
+    "base": 35.0,
+    "total": 37.0
+  },
+  {
+    "id": 8115915,
+    "date": "2026-04-30T06:35:54.138769+00:00",
+    "location": "",
+    "company": "Kotak",
+    "role": "SDE 2",
+    "yoe": 5.0,
+    "base": 45.0,
+    "total": 51.75
+  },
+  {
+    "id": 8115915,
+    "date": "2026-04-30T06:35:54.138769+00:00",
+    "location": "",
+    "company": "WEX Inc.",
+    "role": "SSE",
+    "yoe": 5.0,
+    "base": 43.0,
+    "total": 45.6
+  },
+  {
+    "id": 8115915,
+    "date": "2026-04-30T06:35:54.138769+00:00",
+    "location": "",
+    "company": "Navan",
+    "role": "SSE",
+    "yoe": 5.0,
+    "base": 45.0,
+    "total": 63.0
+  },
+  {
+    "id": 8115915,
+    "date": "2026-04-30T06:35:54.138769+00:00",
+    "location": "",
+    "company": "Lucidity",
+    "role": "SSE",
+    "yoe": 5.0,
+    "base": 40.0,
+    "total": 43.5
+  },
+  {
     "id": 8114073,
     "date": "2026-04-29T16:33:29.533064+00:00",
     "location": "",

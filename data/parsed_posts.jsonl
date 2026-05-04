@@ -1,3 +1,32 @@
+{"id": 8137866, "created_at": "2026-05-04T11:11:16.739163+00:00", "skip": true}
+{"id": 8137661, "created_at": "2026-05-04T10:40:39.071246+00:00", "skip": true}
+{"id": 8137549, "created_at": "2026-05-04T10:26:33.938200+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Kotak", "company-normalized": "kotak", "role": "SDE-2", "role-normalized": "sde 2", "yoe": 3.5, "base": 26.8, "total": 32.48, "location": "Bangalore", "currency": "INR"}
+{"id": 8137362, "created_at": "2026-05-04T10:08:21.061314+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Arm", "company-normalized": "arm", "role": "Engineer/Grade 3", "role-normalized": "engineer grade 3", "yoe": 3.1, "base": 30.0, "total": 43.0, "location": "Bangalore", "currency": "INR"}
+{"id": 8136563, "created_at": "2026-05-04T08:21:31.232749+00:00", "skip": true}
+{"id": 8135763, "created_at": "2026-05-04T06:13:03.537424+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Kotak Mahindra Bank", "company-normalized": "kotak mahindra bank", "yoe": 4.0, "base": 50.0, "total-calculated": 54.0, "currency": "INR"}
+{"id": 8134912, "created_at": "2026-05-04T00:25:12.010889+00:00", "skip": true}
+{"id": 8134773, "created_at": "2026-05-03T21:48:42.010376+00:00", "skip": true}
+{"id": 8132886, "created_at": "2026-05-03T07:53:53.377555+00:00", "skip": true}
+{"id": 8131814, "created_at": "2026-05-03T02:26:37.778499+00:00", "skip": true}
+{"id": 8131306, "created_at": "2026-05-02T19:38:47.019343+00:00", "skip": true}
+{"id": 8131115, "created_at": "2026-05-02T18:31:33.869340+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Amazon", "company-normalized": "amazon", "role": "Applied Scientist 1", "role-normalized": "applied scientist 1", "yoe": 0.0, "base": 32.0, "total": 84.0, "location": "Bangalore", "currency": "INR"}
+{"id": 8131080, "created_at": "2026-05-02T18:20:16.174038+00:00", "skip": true}
+{"id": 8129372, "created_at": "2026-05-02T10:53:04.659876+00:00", "skip": true}
+{"id": 8126230, "created_at": "2026-05-01T21:16:24.957272+00:00", "skip": true}
+{"id": 8124896, "created_at": "2026-05-01T15:55:11.930503+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "CWAN", "company-normalized": "cwan", "role": "SDE 2", "role-normalized": "sde 2", "yoe": 3.9, "base": 23.0, "total-calculated": 24.07, "currency": "INR"}
+{"id": 8124896, "created_at": "2026-05-01T15:55:11.930503+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Freecharge", "company-normalized": "freecharge", "role": "SSE backend Java", "role-normalized": "sse", "yoe": 3.9, "base": 21.0, "currency": "INR"}
+{"id": 8124896, "created_at": "2026-05-01T15:55:11.930503+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Ongrid", "company-normalized": "ongrid", "role": "Senior Java Developer", "role-normalized": "senior java developer", "yoe": 3.9, "base": 22.0, "currency": "INR"}
+{"id": 8124896, "created_at": "2026-05-01T15:55:11.930503+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Airtel Digital", "company-normalized": "airtel digital", "role": "SSE", "role-normalized": "sse", "yoe": 3.9, "base": 24.0, "currency": "INR"}
+{"id": 8124896, "created_at": "2026-05-01T15:55:11.930503+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Vaco Binary", "company-normalized": "vaco binary", "role": "Tech Lead", "role-normalized": "tech lead", "yoe": 3.9, "base": 23.0, "currency": "INR"}
+{"id": 8120567, "created_at": "2026-05-01T03:18:49.420225+00:00", "skip": true}
+{"id": 8120279, "created_at": "2026-04-30T21:22:11.703034+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Quince", "company-normalized": "quince", "role": "SDE 2", "role-normalized": "sde 2", "yoe": 3.0, "base": 35.0, "total-calculated": 37.0, "currency": "INR"}
+{"id": 8120072, "created_at": "2026-04-30T19:07:12.135831+00:00", "skip": true}
+{"id": 8117455, "created_at": "2026-04-30T10:06:09.095436+00:00", "skip": true}
+{"id": 8116350, "created_at": "2026-04-30T07:26:29.372704+00:00", "skip": true}
+{"id": 8115915, "created_at": "2026-04-30T06:35:54.138769+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Kotak Mahindra Bank", "company-normalized": "kotak mahindra bank", "role": "SDE 2", "role-normalized": "sde 2", "yoe": 5.0, "base": 45.0, "total-calculated": 51.75, "currency": "INR"}
+{"id": 8115915, "created_at": "2026-04-30T06:35:54.138769+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "WEX", "company-normalized": "wex", "role": "SDE 3", "role-normalized": "sde 3", "yoe": 5.0, "base": 43.0, "total-calculated": 45.6, "currency": "INR"}
+{"id": 8115915, "created_at": "2026-04-30T06:35:54.138769+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Navan", "company-normalized": "navan", "role": "SSE", "role-normalized": "sse", "yoe": 5.0, "base": 45.0, "total": 63.0, "currency": "INR"}
+{"id": 8115915, "created_at": "2026-04-30T06:35:54.138769+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Lucidity", "company-normalized": "lucidity", "role": "SSE", "role-normalized": "sse", "yoe": 5.0, "base": 40.0, "total-calculated": 43.5, "currency": "INR"}
 {"id": 8115085,"created_at": "2026-04-30T02:47:45.688634+00:00","skip": true}
 {"id": 8114366,"created_at": "2026-04-29T17:49:31.978811+00:00","skip": true}
 {"id": 8114232,"created_at": "2026-04-29T17:12:30.246359+00:00","skip": true}
