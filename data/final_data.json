@@ -1,5 +1,65 @@
 [
   {
+    "id": 8170184,
+    "date": "2026-05-08T12:13:05.451145+00:00",
+    "location": "",
+    "company": "Goldman Sachs",
+    "role": "SDE 1",
+    "yoe": 1.8,
+    "base": 26.0,
+    "total": 32.85
+  },
+  {
+    "id": 8162170,
+    "date": "2026-05-07T15:50:43.846780+00:00",
+    "location": "",
+    "company": "Uber",
+    "role": "SSE",
+    "yoe": 8.0,
+    "base": 76.7,
+    "total": 130.0
+  },
+  {
+    "id": 8154835,
+    "date": "2026-05-06T18:23:36.307352+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "SSE",
+    "yoe": 7.0,
+    "base": 42.0,
+    "total": 66.0
+  },
+  {
+    "id": 8154343,
+    "date": "2026-05-06T17:01:28.183161+00:00",
+    "location": "",
+    "company": "Licious",
+    "role": "SDE 2",
+    "yoe": 3.8,
+    "base": 31.0,
+    "total": 33.0
+  },
+  {
+    "id": 8146207,
+    "date": "2026-05-05T13:04:34.049249+00:00",
+    "location": "Hyderabad",
+    "company": "Arcesium",
+    "role": "SSE",
+    "yoe": 4.0,
+    "base": 28.0,
+    "total": 31.0
+  },
+  {
+    "id": 8145649,
+    "date": "2026-05-05T11:53:05.338216+00:00",
+    "location": "",
+    "company": "eBay",
+    "role": "SDE 2",
+    "yoe": null,
+    "base": 22.0,
+    "total": 30.2
+  },
+  {
     "id": 8137549,
     "date": "2026-05-04T10:26:33.938200+00:00",
     "location": "Bengaluru",

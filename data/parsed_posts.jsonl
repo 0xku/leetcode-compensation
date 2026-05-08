@@ -1,3 +1,21 @@
+{"id": 8170184, "created_at": "2026-05-08T12:13:05.451145+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Goldman Sachs", "company-normalized": "goldman sachs", "role": "Analyst(SDE 1)", "role-normalized": "analyst(sde 1)", "yoe": 1.8, "base": 26.0, "total": 32.85, "currency": "INR"}
+{"id": 8164952, "created_at": "2026-05-08T04:25:08.476084+00:00", "skip": true}
+{"id": 8162170, "created_at": "2026-05-07T15:50:43.846780+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Uber", "company-normalized": "uber", "role": "SSE (L5-A)", "role-normalized": "sse l5a", "yoe": 8.0, "base": 76.7, "total": 130.0, "currency": "INR"}
+{"id": 8161928, "created_at": "2026-05-07T15:12:18.167091+00:00", "skip": true}
+{"id": 8161854, "created_at": "2026-05-07T14:55:48.762386+00:00", "skip": true}
+{"id": 8161853, "created_at": "2026-05-07T14:54:43.320495+00:00", "skip": true}
+{"id": 8160156, "created_at": "2026-05-07T10:58:46.644371+00:00", "skip": true}
+{"id": 8155664, "created_at": "2026-05-06T20:40:25.605332+00:00", "skip": true}
+{"id": 8154835, "created_at": "2026-05-06T18:23:36.307352+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Microsoft", "company-normalized": "microsoft", "role": "L62", "role-normalized": "l62", "yoe": 7.0, "base": 42.0, "total-calculated": 66.0, "currency": "INR"}
+{"id": 8154463, "created_at": "2026-05-06T17:24:14.022543+00:00", "skip": true}
+{"id": 8154343, "created_at": "2026-05-06T17:01:28.183161+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Licious", "company-normalized": "licious", "role": "SDE-2", "role-normalized": "sde 2", "yoe": 3.8, "base": 31.0, "total-calculated": 33.0, "currency": "INR"}
+{"id": 8153766, "created_at": "2026-05-06T14:22:08.477595+00:00", "skip": true}
+{"id": 8149507, "created_at": "2026-05-06T05:22:29.616482+00:00", "skip": true}
+{"id": 8147790, "created_at": "2026-05-05T17:52:59.937674+00:00", "skip": true}
+{"id": 8146207, "created_at": "2026-05-05T13:04:34.049249+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Arcesium", "company-normalized": "arcesium", "role": "Senior Software Engineer - Backend", "role-normalized": "senior software engineer", "yoe": 4.0, "base": 28.0, "total": 31.0, "location": "Hyderabad", "currency": "INR"}
+{"id": 8145649, "created_at": "2026-05-05T11:53:05.338216+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "eBay", "company-normalized": "ebay", "role": "SE-2 Android", "role-normalized": "se 2", "base": 22.0, "total-calculated": 30.2, "currency": "INR"}
+{"id": 8144303, "created_at": "2026-05-05T09:59:13.952123+00:00", "skip": true}
+{"id": 8141832, "created_at": "2026-05-05T04:35:24.979594+00:00", "skip": true}
 {"id": 8137866, "created_at": "2026-05-04T11:11:16.739163+00:00", "skip": true}
 {"id": 8137661, "created_at": "2026-05-04T10:40:39.071246+00:00", "skip": true}
 {"id": 8137549, "created_at": "2026-05-04T10:26:33.938200+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Kotak", "company-normalized": "kotak", "role": "SDE-2", "role-normalized": "sde 2", "yoe": 3.5, "base": 26.8, "total": 32.48, "location": "Bangalore", "currency": "INR"}
