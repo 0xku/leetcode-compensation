@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@600&display=swap" rel="stylesheet">
     <script>
         (function() {
-            var t = localStorage.getItem('leetcomp-theme') || 'dark';
+            var t = localStorage.getItem('leetcomp-theme') || 'light';
             document.documentElement.setAttribute('data-theme', t);
         })();
     </script>
@@ -24,53 +24,53 @@
 
         /* ── Theme Variables ────────────────────────────────────── */
         :root, [data-theme="light"] {
-            --bg: #ffffff;
-            --bg-secondary: #fafafa;
-            --bg-hover: #f8f8f8;
-            --text-primary: #1a1a1a;
-            --text-secondary: #444;
-            --text-muted: #888;
-            --text-dimmed: #aaa;
-            --text-faint: #bbb;
-            --text-ghost: #ccc;
-            --border: #e0e0e0;
-            --border-light: #e8e8e8;
-            --border-lighter: #f0f0f0;
-            --accent: #55b17f;
-            --chart-bg: #ffffff;
-            --chart-grid: #f0f0f0;
-            --chart-data-label: #555;
-            --q-op: #d97706;
-            --q-field: #2563eb;
-            --q-colon: #ccc;
-            --q-str: #16a34a;
-            --q-num: #7c3aed;
-            --q-unknown: #dc2626;
+            --bg: #faf4ed;
+            --bg-secondary: #fffaf3;
+            --bg-hover: #f2e9de;
+            --text-primary: #575279;
+            --text-secondary: #6e6a86;
+            --text-muted: #797593;
+            --text-dimmed: #908caa;
+            --text-faint: #9893a5;
+            --text-ghost: #c5c0cc;
+            --border: #e8e0d6;
+            --border-light: #ede6dc;
+            --border-lighter: #f2e9de;
+            --accent: #286983;
+            --chart-bg: #faf4ed;
+            --chart-grid: #f2e9de;
+            --chart-data-label: #6e6a86;
+            --q-op: #ea9d34;
+            --q-field: #56949f;
+            --q-colon: #9893a5;
+            --q-str: #286983;
+            --q-num: #907aa9;
+            --q-unknown: #b4637a;
         }
 
         [data-theme="dark"] {
-            --bg: #1d2021;
-            --bg-secondary: #282828;
-            --bg-hover: #3c3836;
-            --text-primary: #ebdbb2;
-            --text-secondary: #d5c4a1;
-            --text-muted: #a89984;
-            --text-dimmed: #928374;
-            --text-faint: #7c6f64;
-            --text-ghost: #504945;
-            --border: #3c3836;
-            --border-light: #504945;
-            --border-lighter: #3c3836;
-            --accent: #8ec07c;
-            --chart-bg: #1d2021;
-            --chart-grid: #3c3836;
-            --chart-data-label: #bdae93;
-            --q-op: #fe8019;
-            --q-field: #83a598;
-            --q-colon: #665c54;
-            --q-str: #b8bb26;
-            --q-num: #d3869b;
-            --q-unknown: #fb4934;
+            --bg: #191724;
+            --bg-secondary: #1f1d2e;
+            --bg-hover: #26233a;
+            --text-primary: #e0def4;
+            --text-secondary: #c4a7e7;
+            --text-muted: #908caa;
+            --text-dimmed: #6e6a86;
+            --text-faint: #6e6a86;
+            --text-ghost: #524f67;
+            --border: #26233a;
+            --border-light: #393552;
+            --border-lighter: #26233a;
+            --accent: #31748f;
+            --chart-bg: #191724;
+            --chart-grid: #26233a;
+            --chart-data-label: #908caa;
+            --q-op: #f6c177;
+            --q-field: #9ccfd8;
+            --q-colon: #524f67;
+            --q-str: #31748f;
+            --q-num: #c4a7e7;
+            --q-unknown: #eb6f92;
         }
 
         body {
@@ -124,11 +124,18 @@
             padding: 0;
             display: flex;
             align-items: center;
-            font-family: 'Rajdhani', sans-serif;
-            font-size: 36px;
-            font-weight: 600;
-            letter-spacing: 1px;
             line-height: 1;
+        }
+
+        h1 pre {
+            margin: 0;
+            padding: 0;
+            font-family: "Berkeley Mono", "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+            font-size: 10px;
+            font-weight: 400;
+            line-height: 1.1;
+            letter-spacing: 0;
+            color: var(--text-primary);
         }
 
         .stats {
@@ -607,7 +614,7 @@
             }
             .header-right { flex-direction: column; align-items: flex-start; gap: 8px; }
             .container { padding: 0 20px 30px 20px; }
-            h1 img { min-width: 112px; }
+            h1 pre { font-size: 7px; }
 
             .controls { flex-direction: column; align-items: flex-start; }
             .query-hints { gap: 6px; }
@@ -625,7 +632,10 @@
 <body>
     <header>
         <div class="header-left">
-            <h1><span style="color:var(--text-primary);">leet</span><span style="color:var(--accent);">comp</span></h1>
+            <h1><pre>
+░█░░░█▀▀░█▀▀░▀█▀░█▀▀░█▀█░█▄█░█▀█
+░█░░░█▀▀░█▀▀░░█░░█░░░█░█░█░█░█▀▀
+░▀▀▀░▀▀▀░▀▀▀░░▀░░▀▀▀░▀▀▀░▀░▀░▀░░</pre></h1>
         </div>
         <div class="header-right">
             <div class="stats">
@@ -1075,13 +1085,13 @@
         }
 
         function chartTitleStyle() {
-            return { fontSize: '10px', fontWeight: '600', letterSpacing: '1.5px', color: cv('--text-faint'), fontFamily: CHART_FONT, textTransform: 'uppercase' };
+            return { fontSize: '10px', fontWeight: '600', letterSpacing: '1.5px', color: cv('--text-muted'), fontFamily: CHART_FONT, textTransform: 'uppercase' };
         }
         function chartAxisStyle() {
-            return { fontSize: '10px', fontFamily: CHART_FONT, color: cv('--text-faint') };
+            return { fontSize: '10px', fontFamily: CHART_FONT, color: cv('--text-dimmed') };
         }
         function chartAxisTitleStyle() {
-            return { fontSize: '10px', fontFamily: CHART_FONT, color: cv('--text-faint'), fontWeight: '400', textTransform: 'uppercase', letterSpacing: '0.5px' };
+            return { fontSize: '10px', fontFamily: CHART_FONT, color: cv('--text-dimmed'), fontWeight: '400', textTransform: 'uppercase', letterSpacing: '0.5px' };
         }
 
         function destroyCharts() {
