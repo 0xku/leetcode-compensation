@@ -1,21 +1,26 @@
-<h1 align="center">Leetcode Compensation</h1>
+<div align="center">
 
-<p align="center">Software engineer compensation tracker for India, powered by Leetcode forum data.</p>
+<a href="https://0xku.github.io/leetcode-compensation/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png" />
+    <img src="assets/banner-light.png" alt="Leetcode Compensation dashboard showing software engineer salary data in India" width="100%" />
+  </picture>
+</a>
 
-<p align="center">
-  <a href="https://www.python.org/downloads/release/python-3130/"><img alt="Python" src="https://img.shields.io/badge/python-3.13%2B-3776AB?style=flat-square" /></a>
-  <a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-2ea44f?style=flat-square" /></a>
-</p>
+<br />
+<br />
 
-<p align="center">
-  <a href="https://0xku.github.io/leetcode-compensation/">
-    <img src="assets/lc.png" alt="Leetcomp dashboard" width="75%" />
-  </a>
-</p>
+<a href="https://www.python.org/downloads/release/python-3130/"><img alt="Python" src="https://img.shields.io/badge/python-3.13%2B-3776AB?style=flat-square" /></a>
+<a href="./LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-2ea44f?style=flat-square" /></a>
+<a href="https://0xku.github.io/leetcode-compensation/"><img alt="Dashboard" src="https://img.shields.io/badge/dashboard-live-286983?style=flat-square" /></a>
+<a href="./data/final_data.json"><img alt="Data" src="https://img.shields.io/badge/data-json-907aa9?style=flat-square" /></a>
 
-<p align="center">
-  <a href="https://0xku.github.io/leetcode-compensation/">https://0xku.github.io/leetcode-compensation/</a>
-</p>
+## Leetcode Compensation
+
+</div>
+
+***[Software engineer salaries in India](https://0xku.github.io/leetcode-compensation/), parsed from Leetcode compensation posts and refreshed automatically.***
 
 Leetcode Compensation fetches salary posts from Leetcode discussion forums, parses and normalizes them into structured data using LLMs, and presents everything in a filterable dashboard. Data stays fresh through automated GitHub Action PRs that sync new posts on a regular cadence.
 
