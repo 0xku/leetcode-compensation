@@ -1,5 +1,45 @@
 [
   {
+    "id": 8179144,
+    "date": "2026-05-09T15:42:29.007836+00:00",
+    "location": "",
+    "company": "Uber",
+    "role": "SDE 2",
+    "yoe": 4.9,
+    "base": 51.0,
+    "total": 75.0
+  },
+  {
+    "id": 8179144,
+    "date": "2026-05-09T15:42:29.007836+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "SSE",
+    "yoe": 4.9,
+    "base": 42.0,
+    "total": 80.0
+  },
+  {
+    "id": 8173950,
+    "date": "2026-05-08T21:09:19.549083+00:00",
+    "location": "",
+    "company": "Uniphore",
+    "role": "Staff Engineer",
+    "yoe": 10.0,
+    "base": 60.0,
+    "total": 74.0
+  },
+  {
+    "id": 8173868,
+    "date": "2026-05-08T20:44:32.986505+00:00",
+    "location": "",
+    "company": "Tekion",
+    "role": "SSE",
+    "yoe": 6.0,
+    "base": 56.0,
+    "total": 62.0
+  },
+  {
     "id": 8170184,
     "date": "2026-05-08T12:13:05.451145+00:00",
     "location": "",

@@ -1,3 +1,11 @@
+{"id": 8186571, "created_at": "2026-05-11T04:19:13.878564+00:00", "skip": true}
+{"id": 8183836, "created_at": "2026-05-10T14:35:11.305213+00:00", "skip": true}
+{"id": 8179144, "created_at": "2026-05-09T15:42:29.007836+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Uber", "company-normalized": "uber", "role": "L4", "role-normalized": "sde 2", "yoe": 4.9, "base": 51.0, "total": 75.0, "currency": "INR"}
+{"id": 8179144, "created_at": "2026-05-09T15:42:29.007836+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Microsoft", "company-normalized": "microsoft", "role": "L62", "role-normalized": "sse", "yoe": 4.9, "base": 42.0, "total": 80.0, "currency": "INR"}
+{"id": 8175804, "created_at": "2026-05-09T07:13:55.059272+00:00", "skip": true}
+{"id": 8174988, "created_at": "2026-05-09T05:19:11.042659+00:00", "skip": true}
+{"id": 8173950, "created_at": "2026-05-08T21:09:19.549083+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Uniphore", "company-normalized": "uniphore", "role": "Staff Software Engineer", "role-normalized": "staff software engineer", "yoe": 10.0, "base": 60.0, "total": 74.0, "currency": "INR"}
+{"id": 8173868, "created_at": "2026-05-08T20:44:32.986505+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Tekion", "company-normalized": "tekion", "role": "SSE", "role-normalized": "sse", "yoe": 6.0, "base": 56.0, "total-calculated": 62.0, "currency": "INR"}
 {"id": 8170184, "created_at": "2026-05-08T12:13:05.451145+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Goldman Sachs", "company-normalized": "goldman sachs", "role": "Analyst(SDE 1)", "role-normalized": "analyst(sde 1)", "yoe": 1.8, "base": 26.0, "total": 32.85, "currency": "INR"}
 {"id": 8164952, "created_at": "2026-05-08T04:25:08.476084+00:00", "skip": true}
 {"id": 8162170, "created_at": "2026-05-07T15:50:43.846780+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Uber", "company-normalized": "uber", "role": "SSE (L5-A)", "role-normalized": "sse l5a", "yoe": 8.0, "base": 76.7, "total": 130.0, "currency": "INR"}
