@@ -1,5 +1,25 @@
 [
   {
+    "id": 8201346,
+    "date": "2026-05-12T10:21:12.818935+00:00",
+    "location": "",
+    "company": "HashedIn",
+    "role": "SDE 2",
+    "yoe": 2.2,
+    "base": 8.5,
+    "total": 10.08
+  },
+  {
+    "id": 8192136,
+    "date": "2026-05-11T11:47:11.149727+00:00",
+    "location": "Hyderabad",
+    "company": "Microsoft",
+    "role": "SDE 2",
+    "yoe": 5.0,
+    "base": 43.0,
+    "total": 80.5
+  },
+  {
     "id": 8179144,
     "date": "2026-05-09T15:42:29.007836+00:00",
     "location": "",

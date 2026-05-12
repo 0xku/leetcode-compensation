@@ -1,3 +1,13 @@
+{"id": 8205848, "created_at": "2026-05-12T18:36:38.367122+00:00", "skip": true}
+{"id": 8205789, "created_at": "2026-05-12T18:30:01.757351+00:00", "skip": true}
+{"id": 8204135, "created_at": "2026-05-12T14:58:38.121495+00:00", "skip": true}
+{"id": 8202440, "created_at": "2026-05-12T11:34:40.804518+00:00", "skip": true}
+{"id": 8201553, "created_at": "2026-05-12T10:32:24.733862+00:00", "skip": true}
+{"id": 8201346, "created_at": "2026-05-12T10:21:12.818935+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Hashedin By Deloitte", "company-normalized": "hashedin by deloitte", "role": "SDE-II", "role-normalized": "sde 2", "yoe": 2.2, "base": 8.5, "total": 10.08, "currency": "INR"}
+{"id": 8199908, "created_at": "2026-05-12T08:35:56.473049+00:00", "skip": true}
+{"id": 8195901, "created_at": "2026-05-11T19:27:06.770517+00:00", "skip": true}
+{"id": 8195548, "created_at": "2026-05-11T18:25:50.304823+00:00", "skip": true}
+{"id": 8192136, "created_at": "2026-05-11T11:47:11.149727+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Microsoft", "company-normalized": "microsoft", "role": "SDE2 (L62)", "role-normalized": "sde 2 (l62)", "yoe": 5.0, "base": 43.0, "total": 80.5, "location": "Hyderabad", "currency": "INR"}
 {"id": 8186571, "created_at": "2026-05-11T04:19:13.878564+00:00", "skip": true}
 {"id": 8183836, "created_at": "2026-05-10T14:35:11.305213+00:00", "skip": true}
 {"id": 8179144, "created_at": "2026-05-09T15:42:29.007836+00:00", "skip": false, "compensation-post": true, "offer-type": "full-time", "company": "Uber", "company-normalized": "uber", "role": "L4", "role-normalized": "sde 2", "yoe": 4.9, "base": 51.0, "total": 75.0, "currency": "INR"}
