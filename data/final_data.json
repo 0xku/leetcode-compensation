@@ -1,5 +1,85 @@
 [
   {
+    "id": 8278327,
+    "date": "2026-05-19T16:35:34.538838+00:00",
+    "location": "Bengaluru",
+    "company": "Rippling",
+    "role": "SDE 2",
+    "yoe": 2.5,
+    "base": 63.0,
+    "total": 76.0
+  },
+  {
+    "id": 8277729,
+    "date": "2026-05-19T13:25:39.639415+00:00",
+    "location": "Bengaluru",
+    "company": "Postman",
+    "role": "SDE",
+    "yoe": 3.75,
+    "base": 52.0,
+    "total": 62.4
+  },
+  {
+    "id": 8271568,
+    "date": "2026-05-18T20:28:51.249105+00:00",
+    "location": "Bengaluru",
+    "company": "Ericsson",
+    "role": "Data Scientist",
+    "yoe": null,
+    "base": 21.0,
+    "total": 22.79
+  },
+  {
+    "id": 8271568,
+    "date": "2026-05-18T20:28:51.249105+00:00",
+    "location": "Bengaluru",
+    "company": "GlobalFoundries",
+    "role": "Data Scientist",
+    "yoe": null,
+    "base": 24.0,
+    "total": 26.4
+  },
+  {
+    "id": 8254932,
+    "date": "2026-05-17T08:49:23.958300+00:00",
+    "location": "Hyderabad",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 2.67,
+    "base": 42.0,
+    "total": 64.0
+  },
+  {
+    "id": 8249205,
+    "date": "2026-05-16T10:41:41.306419+00:00",
+    "location": "",
+    "company": "Qualcomm",
+    "role": "Senior AI Engineer",
+    "yoe": 3.0,
+    "base": 30.0,
+    "total": 58.84
+  },
+  {
+    "id": 8248017,
+    "date": "2026-05-16T09:06:16.294457+00:00",
+    "location": "",
+    "company": "VegaPay",
+    "role": "SDE 2",
+    "yoe": null,
+    "base": null,
+    "total": 25.0
+  },
+  {
+    "id": 8245638,
+    "date": "2026-05-16T04:47:04.137146+00:00",
+    "location": "Bengaluru",
+    "company": "JPMorgan Chase",
+    "role": "SDE 2",
+    "yoe": 4.0,
+    "base": 29.0,
+    "total": 32.5
+  },
+  {
     "id": 8243621,
     "date": "2026-05-15T17:50:25.103057+00:00",
     "location": "",
