@@ -21,6 +21,10 @@ ENV/
 *.swp
 *.swo
 
+# Temp staging files (generated during fetch, cleaned up by sync)
+data/temp.jsonl
+data/parsed_temp.jsonl
+
 # OS
 .DS_Store
 Thumbs.db
