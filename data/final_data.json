@@ -1,5 +1,415 @@
 [
   {
+    "id": 8329240,
+    "date": "2026-06-12T07:13:38.533034+00:00",
+    "location": "",
+    "company": "Salesforce",
+    "role": "SMTS",
+    "yoe": 5.0,
+    "base": 48,
+    "total": null
+  },
+  {
+    "id": 8329240,
+    "date": "2026-06-12T07:13:38.533034+00:00",
+    "location": "",
+    "company": "Kotak",
+    "role": "SDE 2",
+    "yoe": 5.0,
+    "base": 55,
+    "total": null
+  },
+  {
+    "id": 8325755,
+    "date": "2026-06-10T10:49:39.105366+00:00",
+    "location": "",
+    "company": "Licious",
+    "role": "SDE 2",
+    "yoe": 2.5,
+    "base": 32,
+    "total": 33
+  },
+  {
+    "id": 8325515,
+    "date": "2026-06-10T08:14:38.740565+00:00",
+    "location": "",
+    "company": "Infosys",
+    "role": "Specialist Programmer L2",
+    "yoe": 2.75,
+    "base": 13.6,
+    "total": 16
+  },
+  {
+    "id": 8324057,
+    "date": "2026-06-09T14:15:44.212078+00:00",
+    "location": "",
+    "company": "IBM",
+    "role": "SDE 1",
+    "yoe": 0.0,
+    "base": null,
+    "total": 4.75
+  },
+  {
+    "id": 8324057,
+    "date": "2026-06-09T14:15:44.212078+00:00",
+    "location": "",
+    "company": "TCS",
+    "role": "SDE",
+    "yoe": 0.0,
+    "base": null,
+    "total": 7.09
+  },
+  {
+    "id": 8323366,
+    "date": "2026-06-09T08:24:26.059862+00:00",
+    "location": "",
+    "company": "MoEngage",
+    "role": "SSE",
+    "yoe": 3.0,
+    "base": 30,
+    "total": null
+  },
+  {
+    "id": 8322255,
+    "date": "2026-06-08T20:27:03.847792+00:00",
+    "location": "Bengaluru",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 3.8,
+    "base": 46.5,
+    "total": 66
+  },
+  {
+    "id": 8319394,
+    "date": "2026-06-07T11:45:12.150287+00:00",
+    "location": "Bengaluru",
+    "company": "Wells Fargo",
+    "role": "SSE",
+    "yoe": 4.5,
+    "base": 34,
+    "total": 40
+  },
+  {
+    "id": 8319394,
+    "date": "2026-06-07T11:45:12.150287+00:00",
+    "location": "Pune",
+    "company": "Citi",
+    "role": "SSE",
+    "yoe": 4.5,
+    "base": 32,
+    "total": 32
+  },
+  {
+    "id": 8319181,
+    "date": "2026-06-07T09:05:32.784960+00:00",
+    "location": "",
+    "company": "Slice",
+    "role": "SDE 2",
+    "yoe": 3.8,
+    "base": 58,
+    "total": null
+  },
+  {
+    "id": 8319045,
+    "date": "2026-06-07T07:42:35.399976+00:00",
+    "location": "",
+    "company": "Startup",
+    "role": "N/A",
+    "yoe": 5.0,
+    "base": 65,
+    "total": null
+  },
+  {
+    "id": 8319029,
+    "date": "2026-06-07T07:35:14.744230+00:00",
+    "location": "",
+    "company": "Google",
+    "role": "SDE 2",
+    "yoe": 3.8,
+    "base": 45,
+    "total": null
+  },
+  {
+    "id": 8318274,
+    "date": "2026-06-06T19:27:07.243201+00:00",
+    "location": "",
+    "company": "JFrog",
+    "role": "SDE",
+    "yoe": 2.9,
+    "base": 40,
+    "total": 50
+  },
+  {
+    "id": 8318206,
+    "date": "2026-06-06T18:44:21.672984+00:00",
+    "location": "",
+    "company": "Marvell",
+    "role": "T2",
+    "yoe": 2.0,
+    "base": 25,
+    "total": null
+  },
+  {
+    "id": 8318173,
+    "date": "2026-06-06T18:24:48.085510+00:00",
+    "location": "Hyderabad",
+    "company": "Salesforce",
+    "role": "MTS 1",
+    "yoe": 0.0,
+    "base": 16.5,
+    "total": null
+  },
+  {
+    "id": 8317147,
+    "date": "2026-06-06T10:00:17.107087+00:00",
+    "location": "",
+    "company": "Arcesium",
+    "role": "SDET",
+    "yoe": 1.1,
+    "base": null,
+    "total": 14.5
+  },
+  {
+    "id": 8317147,
+    "date": "2026-06-06T10:00:17.107087+00:00",
+    "location": "",
+    "company": "Q2",
+    "role": "SDE",
+    "yoe": 1.1,
+    "base": null,
+    "total": 14.42
+  },
+  {
+    "id": 8316935,
+    "date": "2026-06-06T08:13:41.339321+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 5.0,
+    "base": 45,
+    "total": 65
+  },
+  {
+    "id": 8316133,
+    "date": "2026-06-05T22:32:14.445951+00:00",
+    "location": "Bengaluru",
+    "company": "JPMorgan Chase",
+    "role": "SSE",
+    "yoe": 3.75,
+    "base": 40,
+    "total": 40
+  },
+  {
+    "id": 8315883,
+    "date": "2026-06-05T17:44:54.113008+00:00",
+    "location": "Hyderabad",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": null,
+    "base": 43,
+    "total": null
+  },
+  {
+    "id": 8314799,
+    "date": "2026-06-05T06:52:15.715717+00:00",
+    "location": "Bengaluru",
+    "company": "Swiggy",
+    "role": "SDE 2",
+    "yoe": 3.0,
+    "base": 38,
+    "total": null
+  },
+  {
+    "id": 8312878,
+    "date": "2026-06-04T07:55:24.397843+00:00",
+    "location": "Bengaluru",
+    "company": "SingleStore",
+    "role": "SDE 1",
+    "yoe": 1.0,
+    "base": 32,
+    "total": 32
+  },
+  {
+    "id": 8312254,
+    "date": "2026-06-04T04:11:53.784924+00:00",
+    "location": "",
+    "company": "Walmart",
+    "role": "SSE",
+    "yoe": null,
+    "base": 44,
+    "total": 55
+  },
+  {
+    "id": 8312157,
+    "date": "2026-06-04T03:12:56.272737+00:00",
+    "location": "",
+    "company": "Cloudera",
+    "role": "SSE",
+    "yoe": 5.0,
+    "base": 49,
+    "total": 71
+  },
+  {
+    "id": 8311607,
+    "date": "2026-06-03T17:28:16.869140+00:00",
+    "location": "Gurugram",
+    "company": "Aspire App",
+    "role": "SSE",
+    "yoe": 5.0,
+    "base": 49,
+    "total": null
+  },
+  {
+    "id": 8310949,
+    "date": "2026-06-03T11:08:33.219375+00:00",
+    "location": "",
+    "company": "Hapag-Lloyd",
+    "role": "Principal Engineer",
+    "yoe": 9.0,
+    "base": null,
+    "total": 42
+  },
+  {
+    "id": 8310876,
+    "date": "2026-06-03T10:24:11.852897+00:00",
+    "location": "Bengaluru",
+    "company": "eBay",
+    "role": "SDE 2",
+    "yoe": 4.8,
+    "base": 24,
+    "total": 32.4
+  },
+  {
+    "id": 8310876,
+    "date": "2026-06-03T10:24:11.852897+00:00",
+    "location": "Bengaluru",
+    "company": "Sixt",
+    "role": "SDE 2",
+    "yoe": 4.8,
+    "base": 26,
+    "total": 31.85
+  },
+  {
+    "id": 8310664,
+    "date": "2026-06-03T08:42:00.777667+00:00",
+    "location": "",
+    "company": "Twilio",
+    "role": "Data Engineer",
+    "yoe": 6.0,
+    "base": 42,
+    "total": 58
+  },
+  {
+    "id": 8310599,
+    "date": "2026-06-03T08:06:02.720974+00:00",
+    "location": "Bengaluru",
+    "company": "eBay",
+    "role": "SSE",
+    "yoe": 5.0,
+    "base": 35,
+    "total": 44
+  },
+  {
+    "id": 8309871,
+    "date": "2026-06-03T02:03:07.733220+00:00",
+    "location": "Bengaluru",
+    "company": "Rippling",
+    "role": "SDE 2",
+    "yoe": 2.7,
+    "base": 63,
+    "total": 76
+  },
+  {
+    "id": 8309732,
+    "date": "2026-06-02T21:36:51.077707+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "SDE 2",
+    "yoe": 5.0,
+    "base": 38,
+    "total": 75
+  },
+  {
+    "id": 8309732,
+    "date": "2026-06-02T21:36:51.077707+00:00",
+    "location": "",
+    "company": "eBay",
+    "role": "MTS 1",
+    "yoe": 5.0,
+    "base": 50,
+    "total": 74
+  },
+  {
+    "id": 8309459,
+    "date": "2026-06-02T18:23:32.652503+00:00",
+    "location": "Bengaluru",
+    "company": "Veeam",
+    "role": "SDE 1",
+    "yoe": 1.0,
+    "base": 23,
+    "total": null
+  },
+  {
+    "id": 8308534,
+    "date": "2026-06-02T09:45:23.311289+00:00",
+    "location": "Bengaluru",
+    "company": "McAfee",
+    "role": "SSE",
+    "yoe": 9.0,
+    "base": 38,
+    "total": 41.5
+  },
+  {
+    "id": 8305858,
+    "date": "2026-06-01T06:40:14.880560+00:00",
+    "location": "Hyderabad",
+    "company": "Salesforce",
+    "role": "MTS 1",
+    "yoe": 0.0,
+    "base": 16.5,
+    "total": null
+  },
+  {
+    "id": 8305858,
+    "date": "2026-06-01T06:40:14.880560+00:00",
+    "location": "Bengaluru",
+    "company": "Amazon",
+    "role": "SDE 1",
+    "yoe": 0.0,
+    "base": 19.17,
+    "total": null
+  },
+  {
+    "id": 8305078,
+    "date": "2026-05-31T19:37:25.448024+00:00",
+    "location": "Bengaluru",
+    "company": "Walmart",
+    "role": "SSE",
+    "yoe": 8.9,
+    "base": 45,
+    "total": null
+  },
+  {
+    "id": 8303473,
+    "date": "2026-05-31T03:01:57.493583+00:00",
+    "location": "",
+    "company": "Razorpay",
+    "role": "Lead Engineer",
+    "yoe": 8.0,
+    "base": 52,
+    "total": null
+  },
+  {
+    "id": 8302374,
+    "date": "2026-05-30T09:18:31.632862+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "Support Engineer II",
+    "yoe": 0.0,
+    "base": 8,
+    "total": null
+  },
+  {
     "id": 8302022,
     "date": "2026-05-30T05:26:33.352678+00:00",
     "location": "Noida",
@@ -18373,7 +18783,7 @@
     "id": 6725009,
     "date": "2025-05-08T07:57:00.640141+00:00",
     "location": "",
-    "company": "Jfrog",
+    "company": "JFrog",
     "role": "SSE",
     "yoe": 4.9,
     "base": 40,
