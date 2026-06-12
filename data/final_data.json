@@ -7,7 +7,7 @@
     "role": "SMTS",
     "yoe": 5.0,
     "base": 48,
-    "total": null
+    "total": 72.853
   },
   {
     "id": 8329240,
@@ -17,7 +17,7 @@
     "role": "SDE 2",
     "yoe": 5.0,
     "base": 55,
-    "total": null
+    "total": 60.0
   },
   {
     "id": 8325755,
@@ -107,7 +107,7 @@
     "role": "SDE 2",
     "yoe": 3.8,
     "base": 58,
-    "total": null
+    "total": 63.0
   },
   {
     "id": 8319045,
@@ -117,7 +117,7 @@
     "role": "N/A",
     "yoe": 5.0,
     "base": 65,
-    "total": null
+    "total": 73.75
   },
   {
     "id": 8319029,
@@ -127,7 +127,7 @@
     "role": "SDE 2",
     "yoe": 3.8,
     "base": 45,
-    "total": null
+    "total": 69.844
   },
   {
     "id": 8318274,
@@ -147,7 +147,7 @@
     "role": "T2",
     "yoe": 2.0,
     "base": 25,
-    "total": null
+    "total": 33.29
   },
   {
     "id": 8318173,
@@ -157,7 +157,7 @@
     "role": "MTS 1",
     "yoe": 0.0,
     "base": 16.5,
-    "total": null
+    "total": 24.905
   },
   {
     "id": 8317147,
@@ -207,7 +207,7 @@
     "role": "SDE 2",
     "yoe": null,
     "base": 43,
-    "total": null
+    "total": 64.0
   },
   {
     "id": 8314799,
@@ -217,7 +217,7 @@
     "role": "SDE 2",
     "yoe": 3.0,
     "base": 38,
-    "total": null
+    "total": 43.0
   },
   {
     "id": 8312878,
@@ -257,7 +257,7 @@
     "role": "SSE",
     "yoe": 5.0,
     "base": 49,
-    "total": null
+    "total": 55.125
   },
   {
     "id": 8310949,
@@ -367,7 +367,7 @@
     "role": "MTS 1",
     "yoe": 0.0,
     "base": 16.5,
-    "total": null
+    "total": 24.905
   },
   {
     "id": 8305858,
@@ -377,7 +377,7 @@
     "role": "SDE 1",
     "yoe": 0.0,
     "base": 19.17,
-    "total": null
+    "total": 23.06
   },
   {
     "id": 8305078,
@@ -387,7 +387,7 @@
     "role": "SSE",
     "yoe": 8.9,
     "base": 45,
-    "total": null
+    "total": 55.67
   },
   {
     "id": 8303473,
@@ -397,7 +397,7 @@
     "role": "Lead Engineer",
     "yoe": 8.0,
     "base": 52,
-    "total": null
+    "total": 62.0
   },
   {
     "id": 8302374,
