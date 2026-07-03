@@ -1,5 +1,355 @@
 [
   {
+    "id": 8372092,
+    "date": "2026-07-02T14:57:51.827113+00:00",
+    "location": "Bengaluru",
+    "company": "CoinDCX",
+    "role": "SDE 1",
+    "yoe": 1.1,
+    "base": 22,
+    "total": 24
+  },
+  {
+    "id": 8370133,
+    "date": "2026-07-01T16:43:20.990328+00:00",
+    "location": "Bengaluru",
+    "company": "Keka HR",
+    "role": "SSE",
+    "yoe": 5,
+    "base": 40,
+    "total": 42
+  },
+  {
+    "id": 8370133,
+    "date": "2026-07-01T16:43:20.990328+00:00",
+    "location": "Bengaluru",
+    "company": "IDFC",
+    "role": "SSE",
+    "yoe": 5,
+    "base": 40,
+    "total": 51
+  },
+  {
+    "id": 8368557,
+    "date": "2026-06-30T20:40:18.990965+00:00",
+    "location": "Bengaluru",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 3,
+    "base": 43,
+    "total": 66
+  },
+  {
+    "id": 8368557,
+    "date": "2026-06-30T20:40:18.990965+00:00",
+    "location": "Bengaluru",
+    "company": "Arcana.io",
+    "role": "N/A",
+    "yoe": 3,
+    "base": 60,
+    "total": 72.5
+  },
+  {
+    "id": 8368421,
+    "date": "2026-06-30T18:13:34.144809+00:00",
+    "location": "Noida",
+    "company": "Synopsys",
+    "role": "Staff Engineer",
+    "yoe": 5,
+    "base": 28,
+    "total": 31.36
+  },
+  {
+    "id": 8368421,
+    "date": "2026-06-30T18:13:34.144809+00:00",
+    "location": "Bengaluru",
+    "company": "Cisco",
+    "role": "Software Engineer Grade 008",
+    "yoe": 5,
+    "base": 35.65,
+    "total": 38
+  },
+  {
+    "id": 8368378,
+    "date": "2026-06-30T17:49:57.269563+00:00",
+    "location": "",
+    "company": "eBay",
+    "role": "MTS 1",
+    "yoe": 5,
+    "base": 52,
+    "total": 77.8
+  },
+  {
+    "id": 8366563,
+    "date": "2026-06-29T20:48:29.529227+00:00",
+    "location": "Hyderabad",
+    "company": "LTIMindtree",
+    "role": "SSE",
+    "yoe": 4.5,
+    "base": null,
+    "total": 12.5
+  },
+  {
+    "id": 8366563,
+    "date": "2026-06-29T20:48:29.529227+00:00",
+    "location": "Bengaluru",
+    "company": "Accenture",
+    "role": "Senior Analyst",
+    "yoe": 4.5,
+    "base": null,
+    "total": 11
+  },
+  {
+    "id": 8366287,
+    "date": "2026-06-29T17:33:28.114116+00:00",
+    "location": "",
+    "company": "Sigmoid",
+    "role": "SDE 3",
+    "yoe": 5,
+    "base": null,
+    "total": 45
+  },
+  {
+    "id": 8365779,
+    "date": "2026-06-29T13:33:51.269146+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE 1",
+    "yoe": 0,
+    "base": 19.17,
+    "total": 29.64
+  },
+  {
+    "id": 8365272,
+    "date": "2026-06-29T09:09:51.902606+00:00",
+    "location": "Bengaluru",
+    "company": "Booking Holdings",
+    "role": "SDE 1",
+    "yoe": 4,
+    "base": 38,
+    "total": 41.8
+  },
+  {
+    "id": 8361857,
+    "date": "2026-06-27T17:12:33.260043+00:00",
+    "location": "Bengaluru",
+    "company": "Oracle",
+    "role": "SMTS",
+    "yoe": 4,
+    "base": 35,
+    "total": 42.53
+  },
+  {
+    "id": 8360823,
+    "date": "2026-06-27T06:39:13.376358+00:00",
+    "location": "Chennai",
+    "company": "Fidelity Investments",
+    "role": "SDE",
+    "yoe": 2,
+    "base": 12.6,
+    "total": 15
+  },
+  {
+    "id": 8360823,
+    "date": "2026-06-27T06:39:13.376358+00:00",
+    "location": "Chennai",
+    "company": "Citi",
+    "role": "SDE",
+    "yoe": 2,
+    "base": 17,
+    "total": 18
+  },
+  {
+    "id": 8360419,
+    "date": "2026-06-27T00:25:40.052345+00:00",
+    "location": "Hyderabad",
+    "company": "Microsoft",
+    "role": "SDE 1",
+    "yoe": 0,
+    "base": 18.05,
+    "total": 31
+  },
+  {
+    "id": 8360065,
+    "date": "2026-06-26T17:08:51.348966+00:00",
+    "location": "",
+    "company": "Wayfair",
+    "role": "SDE 1",
+    "yoe": 7,
+    "base": 72,
+    "total": 77
+  },
+  {
+    "id": 8360065,
+    "date": "2026-06-26T17:08:51.348966+00:00",
+    "location": "",
+    "company": "Salesforce",
+    "role": "SMTS",
+    "yoe": 7,
+    "base": 45,
+    "total": 68
+  },
+  {
+    "id": 8358084,
+    "date": "2026-06-25T15:14:14.189283+00:00",
+    "location": "Noida",
+    "company": "Samsung",
+    "role": "R&D Engineer",
+    "yoe": 0,
+    "base": 17.5,
+    "total": 17.5
+  },
+  {
+    "id": 8357941,
+    "date": "2026-06-25T13:36:17.990515+00:00",
+    "location": "Bengaluru",
+    "company": "Piramal",
+    "role": "SDE 1",
+    "yoe": 1,
+    "base": 17,
+    "total": 18.7
+  },
+  {
+    "id": 8356567,
+    "date": "2026-06-24T18:46:55.945248+00:00",
+    "location": "Gurugram",
+    "company": "Blinkit",
+    "role": "SDE 2",
+    "yoe": 3,
+    "base": 36,
+    "total": 48
+  },
+  {
+    "id": 8356499,
+    "date": "2026-06-24T18:12:33.549133+00:00",
+    "location": "Bengaluru",
+    "company": "Salesforce",
+    "role": "MTS",
+    "yoe": 2.8,
+    "base": 27.4,
+    "total": 41.4
+  },
+  {
+    "id": 8355120,
+    "date": "2026-06-24T06:01:20.405135+00:00",
+    "location": "Bengaluru",
+    "company": "Oracle",
+    "role": "SMTS",
+    "yoe": 4.5,
+    "base": 29.5,
+    "total": 38.5
+  },
+  {
+    "id": 8354626,
+    "date": "2026-06-23T19:27:21.568965+00:00",
+    "location": "Bengaluru",
+    "company": "Adyen",
+    "role": "SDE",
+    "yoe": 4,
+    "base": 44.5,
+    "total": 54
+  },
+  {
+    "id": 8353875,
+    "date": "2026-06-23T13:07:33.578797+00:00",
+    "location": "",
+    "company": "DocuSign",
+    "role": "SSE",
+    "yoe": 4,
+    "base": 51,
+    "total": 78
+  },
+  {
+    "id": 8352774,
+    "date": "2026-06-23T01:34:20.952979+00:00",
+    "location": "",
+    "company": "Mercans",
+    "role": "SDE 2",
+    "yoe": 4,
+    "base": 32,
+    "total": 32
+  },
+  {
+    "id": 8349173,
+    "date": "2026-06-21T11:08:37.290416+00:00",
+    "location": "",
+    "company": "Infosys",
+    "role": "Specialist Programmer",
+    "yoe": 0,
+    "base": null,
+    "total": 9.25
+  },
+  {
+    "id": 8349161,
+    "date": "2026-06-21T11:02:05.297161+00:00",
+    "location": "",
+    "company": "TCS",
+    "role": "SDE",
+    "yoe": 0,
+    "base": null,
+    "total": 9.09
+  },
+  {
+    "id": 8348982,
+    "date": "2026-06-21T09:33:29.419596+00:00",
+    "location": "",
+    "company": "LTIMindtree",
+    "role": "GET",
+    "yoe": 0,
+    "base": 3.62,
+    "total": 4.05
+  },
+  {
+    "id": 8348727,
+    "date": "2026-06-21T07:17:07.897809+00:00",
+    "location": "",
+    "company": "Goldman Sachs",
+    "role": "Associate",
+    "yoe": 3,
+    "base": 40,
+    "total": 52
+  },
+  {
+    "id": 8346813,
+    "date": "2026-06-20T09:28:00.449174+00:00",
+    "location": "",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 5,
+    "base": 44,
+    "total": 66
+  },
+  {
+    "id": 8346813,
+    "date": "2026-06-20T09:28:00.449174+00:00",
+    "location": "",
+    "company": "Salesforce",
+    "role": "SMTS",
+    "yoe": 5,
+    "base": 44,
+    "total": 66
+  },
+  {
+    "id": 8346813,
+    "date": "2026-06-20T09:28:00.449174+00:00",
+    "location": "",
+    "company": "Teradata",
+    "role": "Senior AI Engineer",
+    "yoe": 5,
+    "base": 45,
+    "total": 60
+  },
+  {
+    "id": 8346813,
+    "date": "2026-06-20T09:28:00.449174+00:00",
+    "location": "",
+    "company": "Blink RX",
+    "role": "SSE",
+    "yoe": 5,
+    "base": 65,
+    "total": 80
+  },
+  {
     "id": 8342998,
     "date": "2026-06-18T16:14:42.768832+00:00",
     "location": "Gurugram",
@@ -16983,7 +17333,7 @@
     "id": 6827446,
     "date": "2025-06-09T21:59:20.710790+00:00",
     "location": "Mumbai",
-    "company": "Idfc",
+    "company": "IDFC",
     "role": "Senior Data Scientist",
     "yoe": 4.5,
     "base": 42,
