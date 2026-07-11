@@ -1,5 +1,215 @@
 [
   {
+    "id": 8389925,
+    "date": "2026-07-11T10:08:47.658092+00:00",
+    "location": "Bengaluru",
+    "company": "Salesforce",
+    "role": "MTS",
+    "yoe": 3.5,
+    "base": 30,
+    "total": 45
+  },
+  {
+    "id": 8389925,
+    "date": "2026-07-11T10:08:47.658092+00:00",
+    "location": "Bengaluru",
+    "company": "Cisco",
+    "role": "SSE",
+    "yoe": 3.5,
+    "base": 30,
+    "total": 37
+  },
+  {
+    "id": 8389346,
+    "date": "2026-07-11T04:52:59.479035+00:00",
+    "location": "Chennai",
+    "company": "Zoho",
+    "role": "SDE",
+    "yoe": 0,
+    "base": 8.4,
+    "total": 9.6
+  },
+  {
+    "id": 8388853,
+    "date": "2026-07-10T18:37:12.764291+00:00",
+    "location": "Noida",
+    "company": "IndiaMART",
+    "role": "SDE 1",
+    "yoe": null,
+    "base": 12,
+    "total": 13.2
+  },
+  {
+    "id": 8388217,
+    "date": "2026-07-10T12:18:40.542929+00:00",
+    "location": "",
+    "company": "Expedia",
+    "role": "SDE 1",
+    "yoe": null,
+    "base": 18,
+    "total": 38.2
+  },
+  {
+    "id": 8388177,
+    "date": "2026-07-10T11:50:46.002247+00:00",
+    "location": "Hyderabad",
+    "company": "Salesforce",
+    "role": "MTS",
+    "yoe": 3,
+    "base": 27.4,
+    "total": 41.8
+  },
+  {
+    "id": 8388177,
+    "date": "2026-07-10T11:50:46.002247+00:00",
+    "location": "Bengaluru",
+    "company": "CoinDCX",
+    "role": "SSE",
+    "yoe": 3,
+    "base": 40,
+    "total": null
+  },
+  {
+    "id": 8387992,
+    "date": "2026-07-10T09:54:08.474933+00:00",
+    "location": "Bengaluru",
+    "company": "Rippling",
+    "role": "SSE",
+    "yoe": 5,
+    "base": 100,
+    "total": 148.38
+  },
+  {
+    "id": 8386509,
+    "date": "2026-07-09T14:30:14.416431+00:00",
+    "location": "Gurugram",
+    "company": "Sprinklr",
+    "role": "SDE 1",
+    "yoe": 1,
+    "base": 30,
+    "total": 30
+  },
+  {
+    "id": 8386509,
+    "date": "2026-07-09T14:30:14.416431+00:00",
+    "location": "Hyderabad",
+    "company": "HighRadius",
+    "role": "Agent Product Builder",
+    "yoe": 1,
+    "base": 33,
+    "total": 43
+  },
+  {
+    "id": 8385504,
+    "date": "2026-07-09T06:04:51.588133+00:00",
+    "location": "",
+    "company": "Visa",
+    "role": "N/A",
+    "yoe": null,
+    "base": 16.5,
+    "total": 24.358
+  },
+  {
+    "id": 8385504,
+    "date": "2026-07-09T06:04:51.588133+00:00",
+    "location": "",
+    "company": "Salesforce",
+    "role": "N/A",
+    "yoe": null,
+    "base": 16.5,
+    "total": 24.6759
+  },
+  {
+    "id": 8385007,
+    "date": "2026-07-08T22:42:47.098256+00:00",
+    "location": "",
+    "company": "Cisco",
+    "role": "Software Engineer Grade 6",
+    "yoe": 0,
+    "base": 21,
+    "total": 33.8
+  },
+  {
+    "id": 8384004,
+    "date": "2026-07-08T11:21:15.167872+00:00",
+    "location": "Bengaluru",
+    "company": "Omnissa",
+    "role": "MTS 2",
+    "yoe": 1.92,
+    "base": 26,
+    "total": 31.5043
+  },
+  {
+    "id": 8384004,
+    "date": "2026-07-08T11:21:15.167872+00:00",
+    "location": "Gurugram",
+    "company": "Spring Financial",
+    "role": "SDE 2",
+    "yoe": 1.92,
+    "base": 27,
+    "total": null
+  },
+  {
+    "id": 8384004,
+    "date": "2026-07-08T11:21:15.167872+00:00",
+    "location": "Bengaluru",
+    "company": "Spotnana",
+    "role": "SDE",
+    "yoe": 1.92,
+    "base": 25,
+    "total": 27.5
+  },
+  {
+    "id": 8381649,
+    "date": "2026-07-07T09:09:00.902975+00:00",
+    "location": "",
+    "company": "JPMorgan Chase",
+    "role": "N/A",
+    "yoe": 4.4,
+    "base": null,
+    "total": 31
+  },
+  {
+    "id": 8381437,
+    "date": "2026-07-07T07:13:37.302187+00:00",
+    "location": "",
+    "company": "Walmart",
+    "role": "N/A",
+    "yoe": 4,
+    "base": 18,
+    "total": 32
+  },
+  {
+    "id": 8381437,
+    "date": "2026-07-07T07:13:37.302187+00:00",
+    "location": "",
+    "company": "York Solutions",
+    "role": "N/A",
+    "yoe": 4,
+    "base": 38,
+    "total": 38
+  },
+  {
+    "id": 8380036,
+    "date": "2026-07-06T14:43:23.917119+00:00",
+    "location": "Bengaluru",
+    "company": "ZoomInfo",
+    "role": "SSE",
+    "yoe": 7,
+    "base": 50,
+    "total": 59.9616
+  },
+  {
+    "id": 8375404,
+    "date": "2026-07-04T10:14:50.308953+00:00",
+    "location": "Noida",
+    "company": "Adobe",
+    "role": "Computer Scientist 1",
+    "yoe": 5.9,
+    "base": 43,
+    "total": 72.8425
+  },
+  {
     "id": 8372092,
     "date": "2026-07-02T14:57:51.827113+00:00",
     "location": "Bengaluru",
