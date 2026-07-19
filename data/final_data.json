@@ -1,5 +1,185 @@
 [
   {
+    "id": 8403766,
+    "date": "2026-07-17T18:43:00.135626+00:00",
+    "location": "Bengaluru",
+    "company": "Booking Holdings",
+    "role": "SDE 1",
+    "yoe": 4,
+    "base": 38,
+    "total": 41.8
+  },
+  {
+    "id": 8403054,
+    "date": "2026-07-17T11:37:55.052243+00:00",
+    "location": "",
+    "company": "eBay",
+    "role": "SDE 2",
+    "yoe": 3,
+    "base": 25,
+    "total": 33.15
+  },
+  {
+    "id": 8402786,
+    "date": "2026-07-17T08:48:13.764442+00:00",
+    "location": "",
+    "company": "MNC",
+    "role": "N/A",
+    "yoe": 2,
+    "base": 11,
+    "total": null
+  },
+  {
+    "id": 8402786,
+    "date": "2026-07-17T08:48:13.764442+00:00",
+    "location": "",
+    "company": "Startup",
+    "role": "N/A",
+    "yoe": 2,
+    "base": 14,
+    "total": 15.4
+  },
+  {
+    "id": 8402700,
+    "date": "2026-07-17T07:52:12.238813+00:00",
+    "location": "",
+    "company": "Rakuten",
+    "role": "SSE",
+    "yoe": 2.7,
+    "base": 25,
+    "total": 26.25
+  },
+  {
+    "id": 8402454,
+    "date": "2026-07-17T05:41:20.550933+00:00",
+    "location": "Chennai",
+    "company": "Workday",
+    "role": "SSE",
+    "yoe": 3.8,
+    "base": 36,
+    "total": 52
+  },
+  {
+    "id": 8401962,
+    "date": "2026-07-16T19:08:23.171640+00:00",
+    "location": "Hyderabad",
+    "company": "Optum",
+    "role": "SSE",
+    "yoe": 1.7,
+    "base": 16.87,
+    "total": 17.68
+  },
+  {
+    "id": 8401386,
+    "date": "2026-07-16T14:12:06.702875+00:00",
+    "location": "Bengaluru",
+    "company": "Amazon",
+    "role": "SDE 2",
+    "yoe": 2.5,
+    "base": 42,
+    "total": 57
+  },
+  {
+    "id": 8400833,
+    "date": "2026-07-16T09:02:13.268081+00:00",
+    "location": "Hyderabad",
+    "company": "Salesforce",
+    "role": "MTS",
+    "yoe": 2,
+    "base": 30,
+    "total": 45.5294
+  },
+  {
+    "id": 8400642,
+    "date": "2026-07-16T07:17:55.828162+00:00",
+    "location": "Bengaluru",
+    "company": "Booking Holdings",
+    "role": "SDE 2",
+    "yoe": 5,
+    "base": 50,
+    "total": 74.67
+  },
+  {
+    "id": 8399131,
+    "date": "2026-07-15T13:38:35.270818+00:00",
+    "location": "",
+    "company": "JPMorgan Chase",
+    "role": "N/A",
+    "yoe": null,
+    "base": 80,
+    "total": 92.0
+  },
+  {
+    "id": 8398831,
+    "date": "2026-07-15T10:57:19.621768+00:00",
+    "location": "",
+    "company": "eBay",
+    "role": "MTS 1",
+    "yoe": 5.8,
+    "base": 47.5,
+    "total": 69.22
+  },
+  {
+    "id": 8398831,
+    "date": "2026-07-15T10:57:19.621768+00:00",
+    "location": "",
+    "company": "Salesforce",
+    "role": "SMTS",
+    "yoe": 5.8,
+    "base": 50,
+    "total": 73.41
+  },
+  {
+    "id": 8398831,
+    "date": "2026-07-15T10:57:19.621768+00:00",
+    "location": "",
+    "company": "DocuSign",
+    "role": "N/A",
+    "yoe": 5.8,
+    "base": 60,
+    "total": 80.2
+  },
+  {
+    "id": 8397822,
+    "date": "2026-07-15T03:03:14.915215+00:00",
+    "location": "Mumbai",
+    "company": "QRT",
+    "role": "Quantitative Technologist",
+    "yoe": 4.5,
+    "base": 61,
+    "total": 98
+  },
+  {
+    "id": 8396541,
+    "date": "2026-07-14T10:06:45.317869+00:00",
+    "location": "Remote",
+    "company": "Startup",
+    "role": "SDE",
+    "yoe": 2.7,
+    "base": 22,
+    "total": null
+  },
+  {
+    "id": 8395615,
+    "date": "2026-07-13T20:45:26.076798+00:00",
+    "location": "",
+    "company": "Microsoft",
+    "role": "SDE 2",
+    "yoe": 4,
+    "base": 33,
+    "total": 54.7
+  },
+  {
+    "id": 8395213,
+    "date": "2026-07-13T17:09:33.774971+00:00",
+    "location": "Bengaluru",
+    "company": "Salesforce",
+    "role": "MTS",
+    "yoe": 2.42,
+    "base": 27.4,
+    "total": 41.4
+  },
+  {
     "id": 8389925,
     "date": "2026-07-11T10:08:47.658092+00:00",
     "location": "Bengaluru",
