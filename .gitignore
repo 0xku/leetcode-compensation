@@ -25,6 +25,9 @@ ENV/
 data/temp.jsonl
 data/parsed_temp.jsonl
 
+# Local sync report
+data/sync_report.md
+
 # OS
 .DS_Store
 Thumbs.db
